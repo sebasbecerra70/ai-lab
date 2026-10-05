@@ -2,7 +2,7 @@
 
 ![tests](https://github.com/sebasbecerra70/ai-lab/actions/workflows/test.yml/badge.svg)
 
-Small, working projects exploring **current AI techniques applied to supply chain and logistics**: RAG, agents and tool calling, MCP servers, evals, structured extraction, embeddings, and forecasting copilots.
+**Applied AI across operations, product, and business.** Small, working projects that use current AI and ML techniques on real business problems in data center operations, product management, business development and supply chain. Techniques include RAG, tool-calling agents, MCP servers, LLM evals, structured extraction, classic ML and optimization.
 
 Each project is self-contained and has:
 - a README covering the problem, why it matters, the architecture and how to run it;
@@ -11,9 +11,12 @@ Each project is self-contained and has:
 
 ## Projects
 <!-- INDEX:START -->
-| Date | Project | AI technique | Stack |
-|------|---------|--------------|-------|
-| 2026-10-05 | [SOP RAG Assistant](projects/2026-10-05-sop-rag-assistant): cited Q&A over warehouse SOPs | RAG, grounding guardrails | Python |
+| Date | Project | Technique | Domain | Stack |
+|------|---------|-----------|--------|-------|
+| 2026-10-05 | [SOP RAG Assistant](projects/2026-10-05-sop-rag-assistant): cited Q&A over warehouse SOPs | RAG, grounding guardrails | Supply Chain | Python |
 <!-- INDEX:END -->
+
+## How projects are published
+Projects are built and tested in batches, then queued in [`upcoming/`](upcoming). A scheduled GitHub Action ([`publish.yml`](.github/workflows/publish.yml)) releases one per day. It re-runs the project's tests, moves it into `projects/` and adds it to the index. Projects are built with AI assistance (Claude).
 
 Conventions for adding a project are in [CONVENTIONS.md](CONVENTIONS.md).
