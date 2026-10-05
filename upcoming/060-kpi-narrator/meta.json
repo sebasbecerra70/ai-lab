@@ -1,0 +1,1 @@
+{"slug":"kpi-narrator","title":"KPI Narrator","summary":"KPI table to executive summary: variance analysis, LLM narrative, number checks","technique":"price-volume-mix variance + LLM narrative with faithfulness check","domain":"Operations","stack":"Python"}

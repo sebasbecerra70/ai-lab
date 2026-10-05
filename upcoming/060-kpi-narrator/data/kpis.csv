@@ -1,0 +1,12 @@
+metric,unit,direction,actual,plan,prior,tolerance_pct,owner
+Revenue,usd,up,4232442,4448500,4180000,2,VP Sales
+Orders shipped,count,up,61240,63000,59870,3,Fulfillment
+On-time delivery,pct,up,93.1,96.0,95.4,1,Fulfillment
+Order cycle time,hours,down,31.5,28.0,29.2,5,Fulfillment
+Cost per order,usd,down,7.42,7.10,7.18,3,Ops Finance
+Warehouse utilization,pct,up,86.5,85.0,84.1,3,Network Planning
+Inventory turns,ratio,up,8.4,8.0,8.1,5,Inventory
+Backorder rate,pct,down,2.9,2.0,2.2,10,Inventory
+Safety incidents,count,down,1,2,3,0,EHS
+Employee turnover,pct,down,4.8,3.5,3.9,10,HR
+Customer NPS,score,up,41,45,44,5,Customer Ops

@@ -1,0 +1,43 @@
+truck,carrier,arrival,pallets,reefer
+T01,Schneider,06:05,24,0
+T02,Werner,06:10,26,0
+T03,Schneider,06:10,24,1
+T04,Prime,06:15,24,1
+T05,Prime,06:15,12,1
+T06,JB Hunt,06:15,18,0
+T07,Schneider,06:20,22,0
+T08,Werner,06:20,12,1
+T09,Prime,06:20,18,1
+T10,JB Hunt,06:30,26,0
+T11,Prime,06:35,12,1
+T12,Werner,06:50,18,0
+T13,Swift,06:55,22,0
+T14,CR England,07:00,10,0
+T15,Schneider,07:20,18,0
+T16,JB Hunt,07:30,24,0
+T17,Swift,07:40,22,0
+T18,JB Hunt,07:45,18,0
+T19,Swift,07:45,10,0
+T20,Heartland,07:50,18,0
+T21,CR England,08:05,26,0
+T22,JB Hunt,08:15,26,0
+T23,Swift,08:20,18,0
+T24,Werner,08:20,18,0
+T25,Swift,08:25,22,0
+T26,Prime,08:45,18,1
+T27,JB Hunt,10:05,18,1
+T28,Prime,10:05,18,1
+T29,CR England,10:05,12,1
+T30,JB Hunt,10:25,26,0
+T31,JB Hunt,10:50,26,0
+T32,Swift,11:10,14,0
+T33,Swift,11:10,12,1
+T34,Werner,11:10,24,0
+T35,Prime,11:10,12,1
+T36,Knight,11:20,24,0
+T37,Heartland,11:20,14,0
+T38,Heartland,11:45,24,0
+T39,JB Hunt,12:15,10,0
+T40,CR England,12:15,26,0
+T41,JB Hunt,12:35,22,0
+T42,Heartland,12:50,22,0

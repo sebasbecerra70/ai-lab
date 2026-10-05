@@ -1,0 +1,13 @@
+DEAL: Harbor Clinics | stage: Negotiation | amount: 140000
+AE (Jordan): Where did the business case land after the pilot?
+Dev (VP Infrastructure): The pilot showed we can defer one cooling upgrade, that is about 400 thousand dollars of capex pushed out two years.
+Jordan: That's great. Who needs to approve the final contract?
+Dev: I own the budget and I sign, it's within my authority. Legal reviews the MSA.
+Jordan: Any open requirements?
+Dev: We need HIPAA language in the DPA and single sign-on with Okta, both were checked in the pilot.
+Jordan: What does the timeline look like?
+Dev: Legal has the redlines, we want to sign by end of quarter so the rollout starts with the new fiscal year.
+Jordan: Anyone else we should keep close?
+Dev: Maria, our facilities lead, is the internal champion, she presented the pilot results to the leadership team.
+Jordan: Anything that could slow us down?
+Dev: Legal is backed up, so redlines might take a couple of extra weeks. The pain is real though, we lost two days of a clinic floor to a cooling failure last summer.

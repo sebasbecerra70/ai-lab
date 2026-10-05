@@ -1,0 +1,4 @@
+segment,plan_units,plan_price,actual_units,actual_price
+Retail,28000,62.00,26100,63.10
+Wholesale,21000,48.50,22900,46.20
+E-commerce,14000,121.00,12240,124.80

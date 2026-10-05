@@ -1,0 +1,1 @@
+{"slug":"hardware-refresh-planner","title":"Hardware Refresh Planner","summary":"Server lifecycle and TCO model that picks which cohorts to refresh under budget","technique":"TCO/NPV model + knapsack DP + wait-for-next-gen option","domain":"Data Center Ops","stack":"Python"}

@@ -1,0 +1,35 @@
+[
+  {
+    "name": "pricing-page CTA",
+    "note": "four button/copy variants, one clear winner",
+    "visitors": 20000,
+    "arms": [
+      { "id": "control", "rate": 0.040 },
+      { "id": "start-free", "rate": 0.046 },
+      { "id": "see-plans", "rate": 0.038 },
+      { "id": "talk-to-sales", "rate": 0.031 }
+    ]
+  },
+  {
+    "name": "onboarding checklist",
+    "note": "two variants within 0.3 points: hard to tell apart",
+    "visitors": 20000,
+    "arms": [
+      { "id": "control", "rate": 0.120 },
+      { "id": "progress-bar", "rate": 0.123 }
+    ]
+  },
+  {
+    "name": "upgrade nudge",
+    "note": "six variants, most of them bad",
+    "visitors": 20000,
+    "arms": [
+      { "id": "control", "rate": 0.020 },
+      { "id": "discount-10", "rate": 0.026 },
+      { "id": "discount-20", "rate": 0.029 },
+      { "id": "social-proof", "rate": 0.015 },
+      { "id": "urgency", "rate": 0.012 },
+      { "id": "feature-tour", "rate": 0.017 }
+    ]
+  }
+]

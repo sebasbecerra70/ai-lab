@@ -1,0 +1,18 @@
+DEAL: Northwind Labs | stage: Evaluation | amount: 180000
+AE (Jordan): Thanks for making time again. Last call you mentioned the capacity planning pain, can we go deeper?
+Priya (Director, IT Ops): Sure. Right now we plan rack space and power in spreadsheets and we were caught short twice last year. We had to rent colo space at a premium for four months.
+Jordan: What did that cost you?
+Priya: Roughly 240 thousand dollars in emergency colo fees, plus a delayed product launch.
+Jordan: If this works, how would you measure success?
+Priya: We want to cut stranded power below 15 percent and get forecast accuracy within 5 percent for the next 18 months.
+Jordan: Who signs off on a purchase like this?
+Priya: Our CFO, Mark Ellis, approves anything over 100k. He already set aside budget in the Q1 infrastructure plan.
+Jordan: How will you choose between options?
+Priya: Integration with our DCIM is a must, it has to support our Schneider PDUs, and SOC 2 Type II is required by security.
+Jordan: And the process from here?
+Priya: Technical validation with my team over three weeks, then security review, then Mark signs. Procurement needs about two weeks for paper.
+Jordan: Is anyone else involved in evaluation?
+Priya: Sam from facilities engineering will run the pilot. Honestly I'm pushing this internally because I don't want to explain another colo emergency to the board.
+Jordan: We are also seeing teams compare us with spreadsheets plus scripts.
+Priya: We looked at Sunbird briefly, but their pricing was way over budget.
+Jordan: Great. I'll send the pilot plan and security package today.

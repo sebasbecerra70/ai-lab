@@ -1,0 +1,13 @@
+DEAL: Cobalt Foods | stage: Discovery | amount: 95000
+AE (Jordan): Thanks for joining, what prompted you to take the call?
+Lena (Ops Analyst): My manager asked me to look at tools. We have some issues with planning.
+Jordan: What kind of issues?
+Lena: Things are just slow, lots of manual work. I'm not sure of the exact impact.
+Jordan: Who else would be involved in a decision?
+Lena: I'm not sure yet, probably someone in finance. There is no budget this year as far as I know.
+Jordan: What would a good solution need to do?
+Lena: It needs to be easy to use, we are not very technical.
+Jordan: Are you looking at other vendors?
+Lena: We have a demo with Sunbird next week, and Nlyte reached out too.
+Jordan: Understood. Can we set up a call with your manager?
+Lena: Maybe, she is very busy this month.

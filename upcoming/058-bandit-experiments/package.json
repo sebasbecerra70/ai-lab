@@ -1,0 +1,11 @@
+{
+  "name": "bandit-experiments",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Epsilon-greedy, UCB1 and Thompson sampling against a fixed-split A/B test, with a regret simulation",
+  "scripts": {
+    "test": "npx --yes tsx --test src/*.test.ts",
+    "demo": "npx --yes tsx src/cli.ts"
+  }
+}

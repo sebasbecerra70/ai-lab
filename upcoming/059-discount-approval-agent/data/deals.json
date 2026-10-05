@@ -1,0 +1,20 @@
+[
+  {"id": "Q-1041", "customer": "Brightline Logistics", "segment": "mid-market", "product": "core", "seats": 400,
+   "list_price_per_seat": 300, "discount": 8, "term_years": 1, "annual_prepay": true, "competitor": null,
+   "non_standard_terms": [], "notes": "renewal with seat expansion from 300 to 400"},
+  {"id": "Q-1042", "customer": "Kestrel Health", "segment": "enterprise", "product": "core", "seats": 1500,
+   "list_price_per_seat": 300, "discount": 24, "term_years": 3, "annual_prepay": true, "competitor": "Datadog",
+   "non_standard_terms": [], "notes": "displacing incumbent, CIO wants a 3-year commitment"},
+  {"id": "Q-1043", "customer": "Orion Retail Group", "segment": "enterprise", "product": "analytics", "seats": 2400,
+   "list_price_per_seat": 420, "discount": 35, "term_years": 1, "annual_prepay": false, "competitor": "Snowflake",
+   "non_standard_terms": ["net-90", "MFN"], "notes": "procurement-led, end of their fiscal year"},
+  {"id": "Q-1044", "customer": "Pinecrest Credit Union", "segment": "smb", "product": "analytics", "seats": 60,
+   "list_price_per_seat": 420, "discount": 18, "term_years": 1, "annual_prepay": false, "competitor": null,
+   "non_standard_terms": [], "notes": "first purchase, champion is the COO"},
+  {"id": "Q-1045", "customer": "Vantage Freight", "segment": "mid-market", "product": "analytics", "seats": 300,
+   "list_price_per_seat": 420, "discount": 45, "term_years": 2, "annual_prepay": false, "competitor": "Looker",
+   "non_standard_terms": ["uncapped liability"], "notes": "AE says the deal is lost without 45%"},
+  {"id": "Q-1046", "customer": "Northwind Labs", "segment": "mid-market", "product": "core", "seats": 600,
+   "list_price_per_seat": 300, "discount": 22, "term_years": 1, "annual_prepay": false, "competitor": null,
+   "non_standard_terms": [], "notes": "renewal, last year closed at 9%"}
+]

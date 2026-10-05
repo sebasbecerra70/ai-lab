@@ -1,0 +1,1 @@
+{"slug": "sales-call-summarizer", "title": "Sales Call Summarizer", "summary": "Extracts MEDDIC from sales calls with verified quotes and scores deal health", "technique": "LLM structured extraction with evidence verification, weighted health scoring", "domain": "Business Development", "stack": "Python"}

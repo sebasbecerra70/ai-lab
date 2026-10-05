@@ -1,0 +1,1 @@
+{"slug":"bandit-experiments","title":"Bandit Experiments","summary":"Epsilon-greedy, UCB1 and Thompson sampling vs an A/B test, compared on regret","technique":"multi-armed bandits + Monte Carlo simulation","domain":"Product","stack":"TypeScript"}

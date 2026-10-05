@@ -1,0 +1,1 @@
+{"slug": "discount-approval-agent", "title": "Discount Approval Agent", "summary": "Deal desk agent: policy rules, escalation, win-rate model, checked LLM memo", "technique": "rules engine + logistic regression + grounded LLM memo", "domain": "Business Development", "stack": "Python"}

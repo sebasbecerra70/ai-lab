@@ -1,0 +1,13 @@
+cohort,role,servers,age,gen,perf,watts,warranty_years
+web-a,web,320,7,gen3,60,420,5
+web-b,web,280,4,gen4,100,480,5
+web-c,web,240,1,gen6,220,640,5
+db-a,database,64,6,gen3,60,520,5
+db-b,database,96,3,gen5,150,600,5
+batch-a,batch,400,6,gen4,100,500,5
+batch-b,batch,180,2,gen5,150,580,5
+cache-a,cache,120,5,gen4,100,380,5
+storage-a,storage,90,5,gen4,100,560,5
+storage-b,storage,110,3,gen5,150,600,5
+ci-a,build,150,4,gen4,100,470,3
+analytics-a,analytics,60,6,gen3,60,540,5

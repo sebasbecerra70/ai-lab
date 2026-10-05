@@ -1,0 +1,23 @@
+{
+  "horizon_years": 5,
+  "annual_budget": [2200000, 2000000, 2000000, 1800000, 1800000],
+  "discount_rate": 0.08,
+  "window_years": 5,
+  "end_of_support_age": 9,
+  "power_price_kwh": 0.11,
+  "pue": 1.45,
+  "license_per_server": 450,
+  "space_network_per_server": 240,
+  "maintenance_post_warranty": 380,
+  "maintenance_escalation": 0.15,
+  "afr_base": 0.03,
+  "afr_growth": 0.35,
+  "afr_wearout_age": 3,
+  "cost_per_failure": 1100,
+  "migration_per_old_server": 250,
+  "salvage_per_old_server": 60,
+  "platforms": [
+    {"name": "gen6", "available_year": 0, "perf": 220, "watts": 650, "price": 13500, "warranty_years": 5},
+    {"name": "gen7", "available_year": 2, "perf": 330, "watts": 720, "price": 16000, "warranty_years": 5}
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ladder": [
+    {"role": "AE", "max_discount": 10},
+    {"role": "Sales Manager", "max_discount": 20},
+    {"role": "VP Sales", "max_discount": 30},
+    {"role": "CFO", "max_discount": 100}
+  ],
+  "allowances": {
+    "multi_year_3": 5,
+    "annual_prepay": 3,
+    "competitive_displacement": 2
+  },
+  "large_deal_arr": 500000,
+  "large_deal_min_role": "VP Sales",
+  "cost_per_seat_year": {"core": 38, "analytics": 95},
+  "margin_floor": 0.70,
+  "margin_hard_floor": 0.55,
+  "precedent_jump_pts": 10,
+  "max_term_years_without_cfo": 3,
+  "non_standard_terms": {
+    "net-90": {"route": "Finance", "note": "cash cycle beyond net-45 standard"},
+    "uncapped liability": {"route": "Legal", "note": "liability cap is non-negotiable below 2x fees", "reject": true},
+    "MFN": {"route": "Legal", "note": "most-favored-nation pricing constrains every future deal"},
+    "custom SLA credits": {"route": "VP Customer Success", "note": "credits above standard 10% schedule"}
+  }
+}

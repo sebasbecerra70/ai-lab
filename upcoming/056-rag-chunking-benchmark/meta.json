@@ -1,0 +1,1 @@
+{"slug": "rag-chunking-benchmark", "title": "RAG Chunking Benchmark", "summary": "Fixed, sentence and heading chunking scored on recall@k with labeled questions", "technique": "BM25 retrieval evaluation, recall@k and MRR", "domain": "AI Engineering", "stack": "Python"}

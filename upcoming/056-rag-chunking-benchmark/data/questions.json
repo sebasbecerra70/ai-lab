@@ -1,0 +1,237 @@
+[
+ {
+  "q": "How quickly must the incident commander be paged for a SEV1?",
+  "doc": "incident-response.md",
+  "answer": "paged within 5 minutes of detection"
+ },
+ {
+  "q": "How often do we update the status page during a SEV2?",
+  "doc": "incident-response.md",
+  "answer": "Status page updates go out every 60 minutes"
+ },
+ {
+  "q": "When does a SEV2 get upgraded to SEV1?",
+  "doc": "incident-response.md",
+  "answer": "lasts longer than 4 hours it is automatically upgraded"
+ },
+ {
+  "q": "What is the target for resolving a SEV3 ticket?",
+  "doc": "incident-response.md",
+  "answer": "3 business day target"
+ },
+ {
+  "q": "Who approves customer messages during a SEV1?",
+  "doc": "incident-response.md",
+  "answer": "approved by the incident commander before posting"
+ },
+ {
+  "q": "What happens if on-call doesn't acknowledge a page?",
+  "doc": "incident-response.md",
+  "answer": "escalates to the secondary on-call"
+ },
+ {
+  "q": "When is the post-incident review draft due?",
+  "doc": "incident-response.md",
+  "answer": "due within 5 business days of resolution"
+ },
+ {
+  "q": "Deadline for finishing SEV1 action items?",
+  "doc": "incident-response.md",
+  "answer": "completed within 30 days or escalated"
+ },
+ {
+  "q": "How many days do I have to submit an expense report?",
+  "doc": "expense-policy.md",
+  "answer": "submitted within 45 days of the purchase date"
+ },
+ {
+  "q": "Can I fly business class?",
+  "doc": "expense-policy.md",
+  "answer": "Business class requires approval from the CFO before booking"
+ },
+ {
+  "q": "What's the hotel limit per night in London?",
+  "doc": "expense-policy.md",
+  "answer": "250 dollars in tier one cities"
+ },
+ {
+  "q": "What is the daily meal allowance when traveling?",
+  "doc": "expense-policy.md",
+  "answer": "daily allowance while traveling is 75 dollars"
+ },
+ {
+  "q": "How much can I spend on a home office monitor and headset?",
+  "doc": "expense-policy.md",
+  "answer": "up to a combined 400 dollars per year"
+ },
+ {
+  "q": "What is my annual learning budget?",
+  "doc": "expense-policy.md",
+  "answer": "annual learning budget of 1500 dollars"
+ },
+ {
+  "q": "Who pays for a required cloud certification?",
+  "doc": "expense-policy.md",
+  "answer": "are paid by the team and do not use the learning budget"
+ },
+ {
+  "q": "How long do I have to repay a personal purchase on the corporate card?",
+  "doc": "expense-policy.md",
+  "answer": "repaid within 15 days"
+ },
+ {
+  "q": "How long is a standard access role granted for?",
+  "doc": "access-management.md",
+  "answer": "Standard roles are granted for 90 days"
+ },
+ {
+  "q": "What happens to credentials after a break-glass account is used?",
+  "doc": "access-management.md",
+  "answer": "rotated automatically within 1 hour after use"
+ },
+ {
+  "q": "How soon is a justification ticket needed after break-glass use?",
+  "doc": "access-management.md",
+  "answer": "file a justification ticket within 24 hours"
+ },
+ {
+  "q": "What happens to access not confirmed in the quarterly review?",
+  "doc": "access-management.md",
+  "answer": "revoked automatically 7 days after the review closes"
+ },
+ {
+  "q": "How fast is production access removed when someone leaves the company?",
+  "doc": "access-management.md",
+  "answer": "revoked within 4 hours of the termination time"
+ },
+ {
+  "q": "How often are service account keys rotated?",
+  "doc": "access-management.md",
+  "answer": "Keys for service accounts are rotated every 90 days"
+ },
+ {
+  "q": "When does the change advisory board meet?",
+  "doc": "change-management.md",
+  "answer": "meets every Tuesday and Thursday"
+ },
+ {
+  "q": "How far ahead must a normal change be submitted?",
+  "doc": "change-management.md",
+  "answer": "at least 2 business days before the planned date"
+ },
+ {
+  "q": "Who can approve an emergency change?",
+  "doc": "change-management.md",
+  "answer": "approved by the incident commander or the on-call engineering manager"
+ },
+ {
+  "q": "When is the end of year change freeze?",
+  "doc": "change-management.md",
+  "answer": "20th of December to the 3rd of January"
+ },
+ {
+  "q": "When is a deployment rolled back automatically?",
+  "doc": "change-management.md",
+  "answer": "health checks fail within 15 minutes of a deployment"
+ },
+ {
+  "q": "Which days can database schema changes be deployed?",
+  "doc": "change-management.md",
+  "answer": "on Tuesday or Wednesday only"
+ },
+ {
+  "q": "How long is customer data kept after the contract ends?",
+  "doc": "data-retention.md",
+  "answer": "life of the contract plus 90 days"
+ },
+ {
+  "q": "How long are application logs kept in cold storage?",
+  "doc": "data-retention.md",
+  "answer": "in cold storage for 1 year"
+ },
+ {
+  "q": "What is the retention period for audit logs?",
+  "doc": "data-retention.md",
+  "answer": "Kept for 7 years"
+ },
+ {
+  "q": "How long are monthly database snapshots kept?",
+  "doc": "data-retention.md",
+  "answer": "monthly snapshots for 13 months"
+ },
+ {
+  "q": "What is the recovery time objective for database restores?",
+  "doc": "data-retention.md",
+  "answer": "4 hour recovery time objective"
+ },
+ {
+  "q": "When do we delete interview notes for rejected candidates?",
+  "doc": "data-retention.md",
+  "answer": "deleted after 12 months"
+ },
+ {
+  "q": "How long do I have to acknowledge a page when I'm the primary on call?",
+  "doc": "on-call.md",
+  "answer": "Acknowledges pages within 10 minutes"
+ },
+ {
+  "q": "What is the weekly stipend for the primary on-call rotation?",
+  "doc": "on-call.md",
+  "answer": "300 dollars for each week on the primary rotation"
+ },
+ {
+  "q": "How much time off do I get for a page at night?",
+  "doc": "on-call.md",
+  "answer": "time-off credit of 2 hours"
+ },
+ {
+  "q": "When must noisy alerts be fixed?",
+  "doc": "on-call.md",
+  "answer": "fix or delete noisy alerts within 2 weeks"
+ },
+ {
+  "q": "What approval do I need to buy a tool that costs under 5000 dollars?",
+  "doc": "vendor-management.md",
+  "answer": "corporate card with manager approval"
+ },
+ {
+  "q": "How many vendor quotes are needed for a 20000 dollar purchase?",
+  "doc": "vendor-management.md",
+  "answer": "a quote from at least two vendors"
+ },
+ {
+  "q": "How often are high risk vendors reassessed?",
+  "doc": "vendor-management.md",
+  "answer": "reassessed every 6 months"
+ },
+ {
+  "q": "When do we get reminded before a vendor contract auto-renews?",
+  "doc": "vendor-management.md",
+  "answer": "reminder 90 days before an auto-renewal date"
+ },
+ {
+  "q": "How long can I work from another country?",
+  "doc": "remote-work.md",
+  "answer": "up to 30 days in any 12 month period"
+ },
+ {
+  "q": "What is the home office setup allowance for remote employees?",
+  "doc": "remote-work.md",
+  "answer": "one-time setup allowance of 500 dollars"
+ },
+ {
+  "q": "How many hours must remote employees overlap with their team?",
+  "doc": "remote-work.md",
+  "answer": "at least 4 hours a day"
+ },
+ {
+  "q": "When does my screen need to lock when working from home?",
+  "doc": "remote-work.md",
+  "answer": "lock after 5 minutes of inactivity"
+ },
+ {
+  "q": "How long do we keep personnel files after an employee leaves?",
+  "doc": "data-retention.md",
+  "answer": "kept for 6 years after the employee leaves"
+ }
+]

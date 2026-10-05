@@ -1,0 +1,1 @@
+{"slug":"dock-scheduling","title":"Dock Door Scheduler","summary":"Assigns truck appointments to dock doors to cut yard wait and detention","technique":"greedy construction + local search","domain":"Supply Chain","stack":"Python"}
