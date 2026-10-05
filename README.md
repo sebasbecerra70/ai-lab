@@ -14,6 +14,7 @@ Each project is self-contained and has:
 | Date | Project | Technique | Domain | Stack |
 |------|---------|-----------|--------|-------|
 | 2026-10-05 | [SOP RAG Assistant](projects/2026-10-05-sop-rag-assistant): cited Q&A over warehouse SOPs | RAG, grounding guardrails | Supply Chain | Python |
+| 2026-10-05 | [Tool-Calling Ops Agent](projects/2026-10-05-tool-calling-agent): Agent loop that answers ops questions with calculator, lookup and unit tools | tool-calling agent | AI Engineering | Python |
 <!-- INDEX:END -->
 
 ## How projects are published
