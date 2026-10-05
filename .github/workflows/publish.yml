@@ -3,16 +3,22 @@ name: publish
 on:
   schedule:
     - cron: "23 13 * * *"
+    - cron: "23 16 * * *"
+    - cron: "23 19 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
+# Commit timestamps in New York time so each day's work lands on the right square.
+env:
+  TZ: America/New_York
+
 concurrency: publish
 
 jobs:
   publish:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

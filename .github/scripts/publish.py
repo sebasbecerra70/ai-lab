@@ -98,6 +98,10 @@ def add_to_index(row: str) -> None:
 
 def main() -> int:
     date = dt.datetime.now(zoneinfo.ZoneInfo("America/New_York")).date().isoformat()
+    if f"| {date} |" in README.read_text():
+        # Retry runs later in the day are no-ops once today's entry is out.
+        print(f"Already published for {date}.")
+        return 0
     queued = sorted(p for p in QUEUE.glob("[0-9]*") if p.is_dir() and not (p / ".skip").exists())
     if not queued:
         print("Queue is empty; nothing to publish.")
