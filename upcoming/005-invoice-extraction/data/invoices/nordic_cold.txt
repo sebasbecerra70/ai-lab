@@ -1,0 +1,13 @@
+Nordic Cold Chain AB
+Faktura / Invoice
+Invoice Number: NCC-2026-0412
+Invoice date: 14 Mar 2026
+Due date: 13 Apr 2026
+Your reference: PO-55201
+
+Reefer storage pallet-days      310    4.10    1,271.00
+Blast freezing (tonnes)           6   85.00      510.00
+
+Subtotal EUR 1,781.00
+VAT 25% EUR 445.25
+Total EUR 2,226.25

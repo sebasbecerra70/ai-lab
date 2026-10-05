@@ -1,0 +1,1 @@
+{"slug":"datacenter-capacity-planner","title":"Data Center Capacity Planner","summary":"Power, cooling and space headroom per hall with a run-out forecast","technique":"scenario simulation","domain":"Data Center Ops","stack":"Python"}

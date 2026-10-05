@@ -1,0 +1,10 @@
+[
+  {"id": "sso", "name": "SAML SSO + SCIM", "reach": 1800, "impact": 2, "confidence": 0.8, "effort": 3, "notes": "Blocker in 6 enterprise deals"},
+  {"id": "csv-export", "name": "Scheduled CSV export", "reach": 4200, "impact": 0.5, "confidence": 1.0, "effort": 1, "notes": "Top support ticket theme"},
+  {"id": "slack", "name": "Slack/Teams alerts", "reach": 3000, "impact": 1, "confidence": 0.8, "effort": 1.5, "notes": "Asked by ops managers"},
+  {"id": "mobile-offline", "name": "Mobile offline mode", "reach": 900, "impact": 3, "confidence": 0.5, "effort": 5, "notes": "Drivers lose signal; prototype unproven"},
+  {"id": "webhooks", "name": "Webhooks + retries", "reach": 1200, "impact": 2, "confidence": 0.8, "effort": 2, "notes": "Unblocks ERP integrations"},
+  {"id": "dark-mode", "name": "Dark mode", "reach": 5000, "impact": 0.25, "confidence": 1.0, "effort": 1, "notes": "Low effort, low impact"},
+  {"id": "forecast", "name": "Demand forecast widget", "reach": 1500, "impact": 2, "confidence": 0.5, "effort": 4, "notes": "Needs data science help", "dependsOn": ["csv-export"]},
+  {"id": "audit-log", "name": "Admin audit log", "reach": 1100, "impact": 1, "confidence": 1.0, "effort": 1.5, "notes": "SOC 2 finding", "dependsOn": ["sso"]}
+]

@@ -1,0 +1,1 @@
+{"slug":"rfp-answer-rag","title":"RFP Answer Drafter","summary":"RAG over past proposals drafts cited RFP answers or routes them to SMEs","technique":"RAG (BM25) with confidence threshold","domain":"Business Development","stack":"Python"}

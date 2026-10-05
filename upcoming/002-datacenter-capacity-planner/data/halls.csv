@@ -1,0 +1,5 @@
+hall,power_capacity_kw,it_load_kw,cooling_capacity_kw,cooling_load_kw,rack_positions,racks_installed,kw_per_rack_design
+A,2400,1840,2600,1950,240,204,10
+B,2000,1215,2000,1300,200,160,12
+C,1600,610,1500,680,160,58,10
+D,3000,940,3200,1010,120,44,25

@@ -1,0 +1,226 @@
+[
+ {
+  "time": "01:02:10",
+  "source": "nagios",
+  "host": "db-07",
+  "check": "disk_usage",
+  "severity": "warning",
+  "message": "/var/lib/pgsql at 86% used"
+ },
+ {
+  "time": "01:17:10",
+  "source": "nagios",
+  "host": "db-07",
+  "check": "disk_usage",
+  "severity": "warning",
+  "message": "/var/lib/pgsql at 86% used"
+ },
+ {
+  "time": "01:32:10",
+  "source": "nagios",
+  "host": "db-07",
+  "check": "disk_usage",
+  "severity": "warning",
+  "message": "/var/lib/pgsql at 87% used"
+ },
+ {
+  "time": "01:47:10",
+  "source": "nagios",
+  "host": "db-07",
+  "check": "disk_usage",
+  "severity": "warning",
+  "message": "/var/lib/pgsql at 87% used"
+ },
+ {
+  "time": "02:02:10",
+  "source": "nagios",
+  "host": "db-07",
+  "check": "disk_usage",
+  "severity": "warning",
+  "message": "/var/lib/pgsql at 87% used"
+ },
+ {
+  "time": "02:17:10",
+  "source": "nagios",
+  "host": "db-07",
+  "check": "disk_usage",
+  "severity": "warning",
+  "message": "/var/lib/pgsql at 88% used"
+ },
+ {
+  "time": "01:40:00",
+  "source": "nagios",
+  "host": "batch-03",
+  "check": "cpu_high",
+  "severity": "warning",
+  "message": "CPU 97% for 10m (nightly report job)"
+ },
+ {
+  "time": "01:55:00",
+  "source": "nagios",
+  "host": "batch-03",
+  "check": "cpu_high",
+  "severity": "warning",
+  "message": "CPU 98% for 10m (nightly report job)"
+ },
+ {
+  "time": "02:14:05",
+  "source": "dcim",
+  "host": "PDU-B2",
+  "check": "pdu_input",
+  "severity": "critical",
+  "message": "Input voltage lost on feed A, running on feed B"
+ },
+ {
+  "time": "02:14:20",
+  "source": "ipmi",
+  "host": "web-01",
+  "check": "psu_redundancy",
+  "severity": "warning",
+  "message": "PSU1 lost input power"
+ },
+ {
+  "time": "02:14:21",
+  "source": "ipmi",
+  "host": "web-02",
+  "check": "psu_redundancy",
+  "severity": "warning",
+  "message": "PSU1 lost input power"
+ },
+ {
+  "time": "02:14:22",
+  "source": "ipmi",
+  "host": "app-05",
+  "check": "psu_redundancy",
+  "severity": "warning",
+  "message": "PSU1 lost input power"
+ },
+ {
+  "time": "02:14:22",
+  "source": "ipmi",
+  "host": "app-06",
+  "check": "psu_redundancy",
+  "severity": "warning",
+  "message": "PSU1 lost input power"
+ },
+ {
+  "time": "02:16:40",
+  "source": "dcim",
+  "host": "PDU-B2",
+  "check": "pdu_load",
+  "severity": "critical",
+  "message": "Feed B load 92% of breaker rating"
+ },
+ {
+  "time": "02:18:02",
+  "source": "nagios",
+  "host": "app-06",
+  "check": "host_down",
+  "severity": "critical",
+  "message": "Host unreachable (ping timeout)"
+ },
+ {
+  "time": "02:18:05",
+  "source": "nagios",
+  "host": "app-05",
+  "check": "host_down",
+  "severity": "critical",
+  "message": "Host unreachable (ping timeout)"
+ },
+ {
+  "time": "02:18:30",
+  "source": "prometheus",
+  "host": "web-01",
+  "check": "http_5xx",
+  "severity": "critical",
+  "message": "checkout 5xx rate 18%"
+ },
+ {
+  "time": "02:18:45",
+  "source": "prometheus",
+  "host": "web-02",
+  "check": "http_5xx",
+  "severity": "critical",
+  "message": "checkout 5xx rate 21%"
+ },
+ {
+  "time": "02:19:30",
+  "source": "prometheus",
+  "host": "web-01",
+  "check": "http_5xx",
+  "severity": "critical",
+  "message": "checkout 5xx rate 24%"
+ },
+ {
+  "time": "02:30:00",
+  "source": "snmp",
+  "host": "tor-r14",
+  "check": "interface_flap",
+  "severity": "major",
+  "message": "Eth1/49 uplink down"
+ },
+ {
+  "time": "02:30:40",
+  "source": "snmp",
+  "host": "tor-r14",
+  "check": "interface_flap",
+  "severity": "major",
+  "message": "Eth1/49 uplink up"
+ },
+ {
+  "time": "02:31:10",
+  "source": "snmp",
+  "host": "tor-r14",
+  "check": "interface_flap",
+  "severity": "major",
+  "message": "Eth1/49 uplink down"
+ },
+ {
+  "time": "02:31:50",
+  "source": "snmp",
+  "host": "tor-r14",
+  "check": "interface_flap",
+  "severity": "major",
+  "message": "Eth1/49 uplink up"
+ },
+ {
+  "time": "02:32:15",
+  "source": "snmp",
+  "host": "tor-r14",
+  "check": "interface_flap",
+  "severity": "major",
+  "message": "Eth1/49 uplink down"
+ },
+ {
+  "time": "02:30:05",
+  "source": "prometheus",
+  "host": "cache-02",
+  "check": "latency_high",
+  "severity": "warning",
+  "message": "p99 latency 340ms"
+ },
+ {
+  "time": "02:31:15",
+  "source": "prometheus",
+  "host": "log-01",
+  "check": "packet_loss",
+  "severity": "warning",
+  "message": "packet loss 12% to collector"
+ },
+ {
+  "time": "02:40:00",
+  "source": "bms",
+  "host": "CRAC-4",
+  "check": "supply_temp",
+  "severity": "major",
+  "message": "Supply air 24.8C (setpoint 18C), compressor 2 fault"
+ },
+ {
+  "time": "02:45:00",
+  "source": "bms",
+  "host": "CRAC-4",
+  "check": "supply_temp",
+  "severity": "major",
+  "message": "Supply air 25.6C (setpoint 18C), compressor 2 fault"
+ }
+]

@@ -1,0 +1,1 @@
+{"slug":"alert-triage-assistant","title":"Alert Triage Assistant","summary":"Dedupes and correlates monitoring alerts, scores severity, drafts on-call notes","technique":"topology correlation + LLM summary","domain":"Data Center Ops","stack":"Python"}

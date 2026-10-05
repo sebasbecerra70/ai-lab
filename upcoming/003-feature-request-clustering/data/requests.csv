@@ -1,0 +1,41 @@
+id,account,arr_usd,text
+1,Northwind,120000,We need SSO with Okta before security will approve the rollout
+2,Contoso,85000,Please support SAML single sign-on for our Azure AD tenant
+3,Globex,40000,SSO login via Google Workspace would save our admins time
+4,Initech,22000,Our IT team requires SAML SSO and SCIM user provisioning
+5,Umbrella,150000,Enforce SSO login for all users and disable password login
+6,Hooli,64000,Okta SSO integration is a blocker for our procurement review
+7,Stark,210000,SCIM provisioning so users are deprovisioned automatically when they leave
+8,Wayne,98000,Single sign-on with Ping Identity using SAML 2.0
+9,Northwind,120000,Export reports to Excel so finance can reconcile monthly
+10,Acme,18000,CSV export of the full order history with all columns
+11,Globex,40000,Scheduled export of dashboards to CSV by email every Monday
+12,Soylent,27000,Export filtered table views to Excel xlsx
+13,Vandelay,12000,Bulk export of invoices as CSV for our accountants
+14,Contoso,85000,Allow exporting charts and report data to Excel
+15,Tyrell,56000,Download raw data export in CSV for our BI tool
+16,Hooli,64000,Slack notifications when an order status changes
+17,Initech,22000,Post alerts to a Slack channel when a shipment is delayed
+18,Wayne,98000,Microsoft Teams notifications for approval requests
+19,Acme,18000,Send a Slack message when a task is assigned to me
+20,Stark,210000,Notify our Teams channel when SLA breaches happen
+21,Soylent,27000,Daily Slack digest of new tickets and status changes
+22,Umbrella,150000,Configurable alert notifications in Slack and email
+23,Tyrell,56000,Webhooks for order created and order updated events
+24,Stark,210000,Raise the API rate limit we keep hitting 429 errors on bulk sync
+25,Globex,40000,Public REST API endpoint to create orders programmatically
+26,Northwind,120000,Webhook retries with signatures so we can trust the payload
+27,Vandelay,12000,API pagination is slow for large result sets please add cursors
+28,Umbrella,150000,Higher API rate limits for our nightly ERP integration
+29,Wayne,98000,Webhook events for inventory changes to sync with our ERP
+30,Acme,18000,Dark mode for the web app because the warehouse floor is dim
+31,Soylent,27000,Dark theme option please the white screen is harsh at night
+32,Hooli,64000,Let users pick a dark mode or high contrast theme
+33,Vandelay,12000,Keyboard shortcuts and a compact dense table layout
+34,Initech,22000,Dark mode on mobile and desktop
+35,Contoso,85000,Mobile app offline mode for drivers with no signal
+36,Tyrell,56000,Barcode scanning in the mobile app for receiving
+37,Acme,18000,Offline sync on the mobile app when warehouse wifi drops
+38,Stark,210000,Mobile app should queue scans offline and sync later
+39,Globex,40000,Android mobile app support for rugged scanners
+40,Wayne,98000,Mobile barcode scan of pallets with offline support

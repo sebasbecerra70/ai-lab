@@ -1,0 +1,5 @@
+{
+  "conservative": {"monthly_growth": 0.01, "step_loads": []},
+  "base": {"monthly_growth": 0.025, "step_loads": []},
+  "ai_cluster": {"monthly_growth": 0.025, "step_loads": [{"month": 4, "hall": "D", "kw": 900, "racks": 36}]}
+}

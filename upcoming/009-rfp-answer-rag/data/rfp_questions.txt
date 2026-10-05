@@ -1,0 +1,8 @@
+What uptime do you commit to and what credits apply if you miss it?
+Please list your security certifications (SOC 2, ISO).
+What are your RPO and RTO for disaster recovery?
+How long does implementation take for one warehouse?
+Can we use our Okta tenant for SSO?
+Is customer data encrypted at rest?
+Do you hold FedRAMP authorization?
+Describe your carbon emissions reporting for shipments.

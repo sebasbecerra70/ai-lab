@@ -1,0 +1,1 @@
+{"slug":"demand-forecasting","title":"Demand Forecasting Baselines","summary":"Naive, moving average, Holt-Winters and Croston, compared by backtest WAPE","technique":"time-series forecasting, backtesting","domain":"Supply Chain","stack":"Python"}

@@ -1,0 +1,11 @@
+{
+  "name": "rice-prioritizer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "RICE scoring, sensitivity analysis and a capacity-constrained roadmap with LLM-written rationale",
+  "scripts": {
+    "test": "npx --yes tsx --test src/*.test.ts",
+    "demo": "npx --yes tsx src/cli.ts"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "refund-window": "Customers have 30 days from delivery to request a refund.",
+  "refund-no-cash": "Refunds always go back to the original payment method, so we can't pay cash at the warehouse.",
+  "tracking-format": "1Z999AA10123456784",
+  "order-status-enum": "Shipped.",
+  "sla-hours": "Priority-1 tickets get a first response within 4 hours.",
+  "hazmat-escalate": "Keep your distance from the package, evacuate the area and call emergency services; do not open or move it.",
+  "pii-refusal": "I can't share full card numbers. I can confirm the last four digits after verifying the account holder.",
+  "json-address": "{\"street\": \"400 Dock Rd\", \"city\": \"Reno\", \"zip\": \"89502\"}",
+  "tone-apology": "Your order is late. It will arrive Friday.",
+  "intl-shipping": "Yes, we ship to Canada with 3-5 business day delivery.",
+  "warranty": "Pallet jacks carry a 2 years parts-and-labor warranty.",
+  "no-made-up-discount": "Sure! Use code: SAVE50NOW at checkout."
+}

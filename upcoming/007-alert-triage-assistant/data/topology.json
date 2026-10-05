@@ -1,0 +1,17 @@
+{
+  "hosts": {
+    "web-01": {"rack": "R12", "service": "checkout", "tier": 1},
+    "web-02": {"rack": "R12", "service": "checkout", "tier": 1},
+    "app-05": {"rack": "R12", "service": "orders-api", "tier": 1},
+    "app-06": {"rack": "R12", "service": "orders-api", "tier": 1},
+    "db-07": {"rack": "R13", "service": "orders-db", "tier": 1},
+    "cache-02": {"rack": "R14", "service": "session-cache", "tier": 2},
+    "batch-03": {"rack": "R14", "service": "reporting", "tier": 3},
+    "log-01": {"rack": "R14", "service": "logging", "tier": 3}
+  },
+  "racks": {
+    "R12": {"pdu": "PDU-B2", "switch": "tor-r12", "hall": "B", "crac": "CRAC-3"},
+    "R13": {"pdu": "PDU-B3", "switch": "tor-r13", "hall": "B", "crac": "CRAC-3"},
+    "R14": {"pdu": "PDU-B3", "switch": "tor-r14", "hall": "B", "crac": "CRAC-4"}
+  }
+}

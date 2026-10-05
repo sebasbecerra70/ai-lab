@@ -1,0 +1,13 @@
+BrightPack Packaging Supplies
+Invoice # BP-7781        Date: 03/05/2026
+Terms: Net 15   Due: 03/20/2026
+Customer PO: PO-55188
+
+Item                              Qty     Price      Total
+Corrugated box 18x12x12          500      0.84      420.00
+Stretch wrap 18in roll            40     14.25      570.00
+Pallet labels (1000 ct)            3     22.00       66.00
+
+Subtotal                                         1,056.00
+Sales tax 8.25%                                     87.12
+Amount Due                                   USD 1,143.12

@@ -1,0 +1,14 @@
+{
+  "hall_a.it_load_kw": 1840,
+  "hall_a.rack_count": 220,
+  "hall_a.design_capacity_kw": 2400,
+  "hall_b.it_load_kw": 1215,
+  "hall_b.rack_count": 160,
+  "hall_b.design_capacity_kw": 2000,
+  "site.facility_load_kw": 4380,
+  "site.diesel_tank_liters": 60000,
+  "site.generator_burn_lph": 410,
+  "site.chiller_capacity_tons": 1500,
+  "ups_1.battery_runtime_min": 9,
+  "ups_2.battery_runtime_min": 11
+}

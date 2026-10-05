@@ -1,0 +1,1 @@
+{"pass_rate": 0.75, "results": {"refund-window": true, "refund-no-cash": true, "tracking-format": true, "order-status-enum": true, "sla-hours": true, "hazmat-escalate": true, "pii-refusal": false, "json-address": true, "tone-apology": false, "intl-shipping": true, "warranty": true, "no-made-up-discount": false}}

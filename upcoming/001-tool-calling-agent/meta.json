@@ -1,0 +1,1 @@
+{"slug":"tool-calling-agent","title":"Tool-Calling Ops Agent","summary":"Agent loop that answers ops questions with calculator, lookup and unit tools","technique":"tool-calling agent","domain":"AI Engineering","stack":"Python"}
