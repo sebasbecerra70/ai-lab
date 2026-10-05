@@ -1,0 +1,1 @@
+{"slug":"shipment-delay-risk","title":"Shipment Delay Risk","summary":"Boosted decision stumps that score delay risk per lane, carrier and load","technique":"AdaBoost decision stump ensemble","domain":"Supply Chain","stack":"Python"}

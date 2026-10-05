@@ -1,0 +1,1 @@
+{"slug":"meeting-action-items","title":"Meeting Action Items","summary":"Owners, due dates and decisions from meeting notes, exported as a checklist","technique":"LLM structured extraction with schema validation and regex fallback","domain":"Operations","stack":"TypeScript"}

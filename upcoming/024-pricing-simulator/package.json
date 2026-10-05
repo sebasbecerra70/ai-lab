@@ -1,0 +1,11 @@
+{
+  "name": "pricing-simulator",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Elasticity what-if, margin waterfall and discount impact for a B2B product line",
+  "scripts": {
+    "test": "npx --yes tsx --test src/*.test.ts",
+    "demo": "npx --yes tsx src/cli.ts"
+  }
+}

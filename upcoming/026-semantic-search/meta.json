@@ -1,0 +1,1 @@
+{"slug":"semantic-search","title":"Semantic Search","summary":"Hashed n-gram embeddings, an LSH vector index and BM25 hybrid retrieval","technique":"hashed embeddings, BM25, reciprocal rank fusion","domain":"AI Engineering","stack":"Python"}

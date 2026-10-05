@@ -1,0 +1,1 @@
+{"slug":"change-risk-scorer","title":"Change Risk Scorer","summary":"Scores change requests on blast radius, rollback and timing for the CAB","technique":"dependency-graph failure simulation, Bayesian failure rates, risk matrix","domain":"Data Center Ops","stack":"Python"}

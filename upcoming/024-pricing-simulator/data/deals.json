@@ -1,0 +1,5 @@
+[
+  {"customer": "Delta Freight", "sku": "SW-18-80", "units": 900, "volumeDiscountPct": 6, "promoDiscountPct": 4, "rebatePct": 2, "paymentTermsDays": 60, "freightPerUnit": 2.4},
+  {"customer": "Harbor Retail DC", "sku": "SW-18-80", "units": 400, "volumeDiscountPct": 3, "promoDiscountPct": 0, "rebatePct": 0, "paymentTermsDays": 30, "freightPerUnit": 1.1},
+  {"customer": "Quanta Auto", "sku": "TP-48-2", "units": 650, "volumeDiscountPct": 8, "promoDiscountPct": 5, "rebatePct": 3, "paymentTermsDays": 90, "freightPerUnit": 2.9}
+]

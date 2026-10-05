@@ -1,0 +1,19 @@
+{
+  "company": "Coldline Analytics",
+  "sender": {"name": "Maya Ortiz", "title": "Account Executive"},
+  "product": "cold-chain monitoring for food and pharma distribution",
+  "value_props": [
+    "wireless temperature sensors on every pallet, alerts before product goes out of range",
+    "audit-ready temperature logs for FSMA and GDP inspections",
+    "lane-level excursion analytics to find the carriers and docks that cause spoilage"
+  ],
+  "proof_points": [
+    {"customer": "a regional grocery distributor", "result": "cut spoilage write-offs by 31% in two quarters"},
+    {"customer": "a specialty pharma 3PL", "result": "passed a GDP audit with zero temperature findings"},
+    {"customer": "a seafood importer", "result": "reduced excursion response time from 4 hours to 20 minutes"}
+  ],
+  "banned_claims": ["guarantee", "guaranteed", "100%", "risk-free", "no risk", "best in the industry", "#1",
+                    "industry-leading", "never fail", "eliminate all", "fully compliant"],
+  "cta": "a 20-minute call next week",
+  "footer": "Reply 'no thanks' and I won't follow up."
+}

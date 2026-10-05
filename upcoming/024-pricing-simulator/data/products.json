@@ -1,0 +1,8 @@
+[
+  {"sku": "SW-18-80", "name": "Stretch wrap 18in 80ga (case)", "listPrice": 52.0, "unitCost": 31.5, "monthlyUnits": 4200,
+   "history": [{"price": 54.2, "units": 3965}, {"price": 58.22, "units": 3336}, {"price": 46.93, "units": 4999}, {"price": 54.84, "units": 3744}, {"price": 46.32, "units": 5061}, {"price": 54.95, "units": 3520}, {"price": 50.4, "units": 4904}, {"price": 45.82, "units": 4720}, {"price": 51.46, "units": 4632}, {"price": 50.44, "units": 4343}]},
+  {"sku": "TP-48-2", "name": "Carton tape 48mm (case of 36)", "listPrice": 64.0, "unitCost": 38.0, "monthlyUnits": 2600,
+   "history": [{"price": 59.66, "units": 3184}, {"price": 67.54, "units": 2247}, {"price": 68.97, "units": 2193}, {"price": 59.68, "units": 3236}, {"price": 63.77, "units": 2445}, {"price": 70.38, "units": 2197}, {"price": 59.86, "units": 3140}, {"price": 56.07, "units": 3625}, {"price": 65.89, "units": 2479}, {"price": 71.54, "units": 1782}]},
+  {"sku": "CB-HD-24", "name": "Heavy-duty corner board 24in (bundle)", "listPrice": 39.0, "unitCost": 17.5, "monthlyUnits": 1500,
+   "history": [{"price": 42.2, "units": 1407}, {"price": 42.89, "units": 1523}, {"price": 34.14, "units": 1600}, {"price": 34.66, "units": 1631}, {"price": 38.2, "units": 1427}, {"price": 34.53, "units": 1451}, {"price": 38.47, "units": 1649}, {"price": 38.75, "units": 1505}, {"price": 35.7, "units": 1554}, {"price": 39.93, "units": 1434}]}
+]

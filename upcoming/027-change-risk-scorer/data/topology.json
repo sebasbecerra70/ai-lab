@@ -1,0 +1,28 @@
+{
+  "_comment": "depends_on is a list of groups; a node stays up if every group has at least one live member.",
+  "nodes": {
+    "utility-A":     {"kind": "power", "depends_on": []},
+    "generator-1":   {"kind": "power", "depends_on": []},
+    "ups-A":         {"kind": "power", "depends_on": [["utility-A", "generator-1"]]},
+    "ups-B":         {"kind": "power", "depends_on": [["utility-A", "generator-1"]]},
+    "pdu-A1":        {"kind": "power", "depends_on": [["ups-A"]]},
+    "pdu-B1":        {"kind": "power", "depends_on": [["ups-B"]]},
+    "pdu-A2":        {"kind": "power", "depends_on": [["ups-A"]]},
+    "pdu-B2":        {"kind": "power", "depends_on": [["ups-B"]]},
+    "crah-1":        {"kind": "cooling", "depends_on": [["pdu-A2", "pdu-B2"]]},
+    "crah-2":        {"kind": "cooling", "depends_on": [["pdu-A2", "pdu-B2"]]},
+    "rack-01":       {"kind": "rack", "depends_on": [["pdu-A1", "pdu-B1"], ["crah-1", "crah-2"]]},
+    "rack-02":       {"kind": "rack", "depends_on": [["pdu-A1", "pdu-B1"], ["crah-1", "crah-2"]]},
+    "rack-03":       {"kind": "rack", "depends_on": [["pdu-A2"], ["crah-1", "crah-2"]]},
+    "core-sw-1":     {"kind": "network", "depends_on": [["rack-01"]]},
+    "core-sw-2":     {"kind": "network", "depends_on": [["rack-02"]]},
+    "firewall-ha":   {"kind": "network", "depends_on": [["core-sw-1", "core-sw-2"]]},
+    "storage-array": {"kind": "storage", "depends_on": [["rack-02"], ["core-sw-1", "core-sw-2"]]},
+    "db-primary":    {"kind": "database", "depends_on": [["rack-01"], ["storage-array"]]},
+    "db-replica":    {"kind": "database", "depends_on": [["rack-03"], ["storage-array"]]},
+    "billing-api":   {"kind": "service", "customer_facing": true, "depends_on": [["db-primary"], ["firewall-ha"]]},
+    "customer-portal": {"kind": "service", "customer_facing": true, "depends_on": [["db-primary", "db-replica"], ["firewall-ha"]]},
+    "reporting":     {"kind": "service", "depends_on": [["db-replica"]]},
+    "backup-svc":    {"kind": "service", "depends_on": [["rack-03"], ["storage-array"]]}
+  }
+}

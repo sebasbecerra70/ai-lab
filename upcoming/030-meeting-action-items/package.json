@@ -1,0 +1,11 @@
+{
+  "name": "meeting-action-items",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Extract owners, due dates and decisions from meeting notes with an LLM and a regex fallback, then export a checklist",
+  "scripts": {
+    "test": "npx --yes tsx --test src/*.test.ts",
+    "demo": "npx --yes tsx src/cli.ts"
+  }
+}

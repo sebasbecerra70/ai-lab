@@ -1,0 +1,25 @@
+{
+  "meeting": "Fulfillment ops weekly",
+  "response": {
+    "actions": [
+      {"owner": "Priya Shah", "task": "Confirm the overtime budget with finance", "due": "2026-03-05",
+       "evidence": "Priya will confirm the overtime budget with finance by Thursday."},
+      {"owner": "Jen Okafor", "task": "Roll back the mezzanine slotting change and re-measure pick accuracy", "due": "2026-03-06",
+       "evidence": "ACTION: Jen to roll back the mezzanine slotting change and re-measure accuracy by end of week."},
+      {"owner": "Sam Lee", "task": "Send the carrier scorecard to the team", "due": "2026-03-09",
+       "evidence": "@sam send the carrier scorecard to the team before next week's meeting"},
+      {"owner": "Marco Diaz", "task": "Close the dock 4 door repair ticket", "due": "2026-03-09",
+       "evidence": "Marco owns the dock 4 door repair ticket, needs it closed by 3/9."},
+      {"owner": "Maintenance", "task": "Investigate label printer jams on line 2", "due": null,
+       "evidence": "Someone should look into the label printer jams on line 2."},
+      {"owner": "Marco Diaz", "task": "Update the shift roster in the WFM tool", "due": "2026-03-06",
+       "evidence": "Marco will update the shift roster in the WFM tool."}
+    ],
+    "decisions": [
+      {"text": "Move two receivers from the AM to the PM shift starting Monday 9 March",
+       "evidence": "Decision: move two receivers from AM to PM shift starting next Monday."},
+      {"text": "No new SKUs go to the mezzanine until pick accuracy is back above 99.5%",
+       "evidence": "Agreed: no new SKUs go to the mezzanine until accuracy is back above 99.5%."}
+    ]
+  }
+}

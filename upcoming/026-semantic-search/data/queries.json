@@ -1,0 +1,22 @@
+[
+  {"q": "forgot my passwrd", "relevant": ["kb-001"]},
+  {"q": "pasword expired", "relevant": ["kb-001"]},
+  {"q": "E4012", "relevant": ["kb-002"]},
+  {"q": "vpn keeps failing to connect from home", "relevant": ["kb-002"]},
+  {"q": "reimbursment for a client dinner", "relevant": ["kb-005"]},
+  {"q": "printer jammed P220", "relevant": ["kb-007"]},
+  {"q": "suspicious email asking for my login", "relevant": ["kb-010"]},
+  {"q": "maternity leave weeks", "relevant": ["kb-011"]},
+  {"q": "wifi disconnecting", "relevant": ["kb-012"]},
+  {"q": "computer is really slow", "relevant": ["kb-016"]},
+  {"q": "second screen not detected on dock", "relevant": ["kb-017"]},
+  {"q": "unlocking my acount", "relevant": ["kb-026"]},
+  {"q": "restore a file I deleted", "relevant": ["kb-029"]},
+  {"q": "laptop backups", "relevant": ["kb-029"]},
+  {"q": "new employee first week", "relevant": ["kb-009"]},
+  {"q": "encrypting usb sticks", "relevant": ["kb-022"]},
+  {"q": "lost my phone and can't approve MFA", "relevant": ["kb-004"]},
+  {"q": "how much is the phone allowance", "relevant": ["kb-021"]},
+  {"q": "what counts as SEV2", "relevant": ["kb-019"]},
+  {"q": "outlook calender not updating", "relevant": ["kb-024"]}
+]

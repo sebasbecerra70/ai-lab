@@ -1,0 +1,1 @@
+{"slug":"outreach-personalization","title":"Outreach Personalization","summary":"LLM-drafted prospect emails gated by an eval suite with a revise loop","technique":"LLM generation, rule-based evals, critique-and-revise","domain":"Business Development","stack":"Python"}

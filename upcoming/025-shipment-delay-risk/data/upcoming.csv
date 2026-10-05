@@ -1,0 +1,15 @@
+shipment_id,week,lane,carrier,mode,distance_km,planned_days,ship_dow,peak_season,weather_index,carrier_otp_90d
+P0000,52,MEM-NYC,Redline,LTL,1770,4,Mon,0,0.43,0.96
+P0001,52,LAR-MTY,Crestway,LTL,240,1,Thu,0,0.5,0.8
+P0002,52,LAR-MTY,Redline,LTL,240,2,Tue,0,0.48,0.97
+P0003,52,LAX-PHX,Bluewater,FTL,600,1,Wed,0,0.65,0.92
+P0004,52,SEA-SLC,Northpass,LTL,1350,3,Fri,0,0.28,0.86
+P0005,52,MEM-NYC,Redline,FTL,1770,4,Tue,0,0.79,0.95
+P0006,52,LAX-PHX,Bluewater,FTL,600,1,Mon,0,0.52,0.92
+P0007,52,LAR-MTY,Crestway,LTL,240,2,Tue,0,0.42,0.83
+P0008,52,LAR-MTY,Crestway,FTL,240,2,Mon,0,0.28,0.83
+P0009,52,SAV-ATL,Northpass,FTL,400,1,Tue,0,0.82,0.86
+P0010,52,SEA-SLC,Bluewater,FTL,1350,3,Wed,0,0.8,0.89
+P0011,52,SAV-ATL,Bluewater,FTL,400,1,Mon,0,0.63,0.89
+P0012,52,MEM-NYC,Bluewater,LTL,1770,3,Thu,0,0.47,0.92
+P0013,52,MEM-NYC,Redline,FTL,1770,3,Fri,0,1,0.94
