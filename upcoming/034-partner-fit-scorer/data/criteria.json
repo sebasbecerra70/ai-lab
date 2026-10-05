@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "revenue_potential":   {"direction": "benefit", "unit": "$M ARR in 3y"},
+    "customer_overlap":    {"direction": "benefit", "unit": "% of our ICP accounts"},
+    "integration_effort":  {"direction": "cost",    "unit": "engineer-weeks"},
+    "financial_health":    {"direction": "benefit", "unit": "score 1-10"},
+    "strategic_alignment": {"direction": "benefit", "unit": "score 1-10"},
+    "channel_conflict":    {"direction": "cost",    "unit": "score 1-10"}
+  },
+  "comparisons": [
+    ["revenue_potential", "customer_overlap", 2],
+    ["revenue_potential", "integration_effort", 3],
+    ["revenue_potential", "financial_health", 4],
+    ["revenue_potential", "strategic_alignment", 1],
+    ["revenue_potential", "channel_conflict", 3],
+    ["customer_overlap", "integration_effort", 2],
+    ["customer_overlap", "financial_health", 3],
+    ["customer_overlap", "strategic_alignment", 0.5],
+    ["customer_overlap", "channel_conflict", 2],
+    ["integration_effort", "financial_health", 2],
+    ["integration_effort", "strategic_alignment", 0.333],
+    ["integration_effort", "channel_conflict", 1],
+    ["financial_health", "strategic_alignment", 0.25],
+    ["financial_health", "channel_conflict", 0.5],
+    ["strategic_alignment", "channel_conflict", 3]
+  ]
+}

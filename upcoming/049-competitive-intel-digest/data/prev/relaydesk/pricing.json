@@ -1,0 +1,5 @@
+{"currency": "USD", "plans": [
+  {"name": "Starter", "price": 15, "unit": "seat/mo", "limits": {"seats_max": 10, "automations": 5}, "features": ["Shared inbox", "Email support", "Basic reports"]},
+  {"name": "Growth", "price": 39, "unit": "seat/mo", "limits": {"seats_max": 100, "automations": 50}, "features": ["Shared inbox", "SLA rules", "Custom reports", "Salesforce sync"]},
+  {"name": "Enterprise", "price": null, "unit": "contact sales", "limits": {"automations": 500}, "features": ["SSO", "Audit log", "Custom reports", "Salesforce sync", "Dedicated CSM"]}
+]}

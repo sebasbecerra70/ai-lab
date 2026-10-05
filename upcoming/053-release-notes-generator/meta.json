@@ -1,0 +1,1 @@
+{"slug":"release-notes-generator","title":"Release Notes Generator","summary":"Group conventional commits into user-facing release notes with an LLM polish","technique":"conventional-commit parsing, semver inference, guarded LLM rewrite","domain":"Product","stack":"TypeScript"}

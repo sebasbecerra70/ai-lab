@@ -1,0 +1,38 @@
+=== P1 | Ops manager, 3PL, 40 staff
+Interviewer: Walk me through your first week with the product.
+P1: Setup took us almost two weeks because nobody could find the import template.
+P1: Once the data was in, the dashboard was great and my team checks it every morning.
+P1: The weekly report export breaks when we have more than a few thousand rows.
+P1: Honestly I would pay more if it connected to our WMS directly.
+Interviewer: How do you get help when stuck?
+P1: Support answered fast, usually within an hour, which saved us during peak.
+=== P2 | Director of fulfillment, mid-market retailer
+P2: Pricing is confusing, I could not tell which tier included the forecasting module.
+P2: We had to export CSVs to Excel because the reports don't let me filter by region.
+P2: The onboarding checklist was too long and my team skipped half of it.
+P2: I love the alerting, it caught a stockout two days early.
+P2: Our finance team keeps asking for a NetSuite integration.
+=== P3 | Inventory analyst, grocery chain
+P3: The app is slow when I open the SKU view, sometimes it takes ten seconds to load.
+P3: I share screenshots in Slack because there's no way to comment on a chart.
+P3: Reports are the main reason I log in, but scheduling them by email would save me an hour a week.
+P3: Getting started was easy, the sample data helped a lot.
+P3: The price jumped at renewal and nobody explained why.
+=== P4 | VP Operations, e-commerce brand
+P4: I need my team to collaborate on the plan, right now only one person can edit at a time.
+P4: The Shopify integration is the reason we bought it.
+P4: Support was slow during the holidays, we waited three days for a reply.
+P4: Dashboards load slowly on Monday mornings when everyone logs in.
+P4: Per-seat pricing makes me hesitate to invite the warehouse leads.
+=== P5 | Supply planner, industrial distributor
+P5: Onboarding was painful, the import failed on our date format and the error message was useless.
+P5: I would love to tag teammates on an exception so it doesn't get lost in email.
+P5: The forecast report is accurate and my boss trusts it.
+P5: We still copy data from our ERP by hand because there's no SAP connector.
+P5: The search is slow and crashes on large catalogs.
+=== P6 | Operations coordinator, cold chain startup
+P6: Setup was quick, I was live in a day.
+P6: I can't justify the price for a team our size, a starter plan would help.
+P6: The temperature alerts are the best feature, they saved a shipment last month.
+P6: I wish I could leave notes for the night shift inside the app.
+P6: Exporting a report to PDF cuts off the last column.

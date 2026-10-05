@@ -1,0 +1,1 @@
+{"slug":"roadmap-scheduler","title":"Roadmap Scheduler","summary":"Schedule a dependency graph of epics under team capacity and find the critical path","technique":"topological sort, critical path method, resource-constrained list scheduling","domain":"Product","stack":"TypeScript"}

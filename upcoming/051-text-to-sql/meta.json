@@ -1,0 +1,1 @@
+{"slug":"text-to-sql","title":"Text-to-SQL Analyst","summary":"Ask questions in English over SQLite with schema grounding and a read-only guard","technique":"schema linking, LLM SQL generation, layered read-only guard, error-feedback retry","domain":"AI Engineering","stack":"Python"}

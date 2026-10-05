@@ -1,0 +1,1 @@
+{"slug":"account-research-agent","title":"Account Research Agent","summary":"Tool-using agent reads company profiles and writes a cited account brief","technique":"multi-step tool-calling agent, BM25 search, citation grounding check","domain":"Business Development","stack":"Python"}

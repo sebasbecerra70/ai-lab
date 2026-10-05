@@ -1,0 +1,14 @@
+{"time": "02:16:40", "user": "priya", "text": "ack CheckoutErrorRateHigh, looking"}
+{"time": "02:17:30", "user": "priya", "text": "orders-api can't reach db-07; db-07 is not pinging. declaring SEV1, opening #inc-checkout"}
+{"time": "02:18:05", "user": "marcus", "text": "joining as incident commander. priya keep on db, I'll take comms"}
+{"time": "02:18:50", "user": "marcus", "text": "status page updated: degraded checkout"}
+{"time": "02:19:10", "user": "priya", "text": "triggering manual failover db-07 -> db-08"}
+{"time": "02:21:00", "user": "lena", "text": "facilities here: breaker B2-3 tripped on pdu-b2 in row 14, 5 hosts lost a feed, 2 fully down"}
+{"time": "02:22:30", "user": "lena", "text": "pdu-b2 got firmware CHG-4471 at 02:03, wondering if related. load was 71%, well under rating"}
+{"time": "02:26:10", "user": "lena", "text": "r14-host10 and host11 were running on PSU2 only; PSU1 was pulled for an RMA and never replaced, so the B-feed trip took them fully down"}
+{"time": "02:24:30", "user": "marcus", "text": "checkout errors back under 1%. mitigated. leaving SEV1 open until power is understood"}
+{"time": "02:31:50", "user": "lena", "text": "breaker reset, outlets energized"}
+{"time": "02:38:00", "user": "marcus", "text": "decision: roll back CHG-4471 on pdu-b2 and freeze PDU firmware changes fleet-wide pending vendor review"}
+{"time": "02:41:30", "user": "lena", "text": "rollback done, pdu-b2 on 3.1.9"}
+{"time": "02:59:00", "user": "priya", "text": "db-07 back as replica, redundancy restored"}
+{"time": "03:02:00", "user": "marcus", "text": "resolved. status page green. postmortem owner: marcus"}

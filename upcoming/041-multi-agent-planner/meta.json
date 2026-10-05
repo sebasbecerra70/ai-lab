@@ -1,0 +1,1 @@
+{"slug":"multi-agent-planner","title":"Multi-Agent Planner","summary":"Planner, executor and critic agents coordinating through a shared scratchpad","technique":"multi-agent orchestration, tool calling, critic loop, deterministic mock LLM","domain":"AI Engineering","stack":"Python"}

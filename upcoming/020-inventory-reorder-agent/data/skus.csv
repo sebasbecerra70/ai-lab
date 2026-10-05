@@ -1,0 +1,13 @@
+sku,description,supplier,unit_cost,on_hand,on_order,daily_demand,demand_std,lead_time_days,lead_time_std,order_cost,holding_rate,case_pack,service_level
+FLT-2010,Hydraulic filter element,Parker Supply,18.40,120,0,9.5,3.1,12,2.0,45,0.22,12,0.95
+FLT-2044,Air filter panel 24x24,Parker Supply,11.20,410,0,14.0,4.0,12,2.0,45,0.22,24,0.95
+BRG-6205,Ball bearing 6205-2RS,Motion Industrial,4.85,260,500,38.0,9.0,21,5.0,60,0.20,50,0.98
+BRG-6308,Ball bearing 6308-ZZ,Motion Industrial,12.60,35,0,6.2,2.4,21,5.0,60,0.20,10,0.98
+BLT-A42,V-belt A42,Motion Industrial,7.90,95,0,4.1,1.5,21,5.0,60,0.20,10,0.95
+GLV-NIT-L,Nitrile gloves L (box 100),Safety First,9.80,180,0,22.0,6.0,5,1.0,25,0.25,10,0.95
+GLV-CUT-M,Cut-resistant gloves M (pair),Safety First,6.40,600,0,8.0,3.0,5,1.0,25,0.25,12,0.90
+LUB-EP2,EP2 grease cartridge 14oz,Lubricant Depot,5.30,48,0,7.5,2.5,9,1.5,35,0.24,24,0.95
+MTR-5HP,Motor 5HP TEFC 1800rpm,Motion Industrial,612.00,3,0,0.35,0.3,35,7.0,60,0.20,1,0.97
+PLC-IO16,PLC digital I/O module 16ch,Automation Direct,189.00,6,0,0.6,0.4,14,4.0,40,0.20,1,0.98
+CBL-CAT6,Cat6 patch cable 7ft,Automation Direct,3.10,900,0,30.0,8.0,14,4.0,40,0.20,25,0.90
+SGL-CLR,Safety glasses clear,Safety First,2.10,20,0,3.0,1.2,5,1.0,25,0.25,12,0.95

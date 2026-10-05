@@ -1,0 +1,1 @@
+{"slug":"energy-aware-job-scheduler","title":"Energy-Aware Job Scheduler","summary":"Shift batch jobs into cheap or low-carbon hours without missing deadlines","technique":"constrained greedy scheduling with capacity, cost/carbon objective","domain":"Data Center Ops","stack":"Python"}

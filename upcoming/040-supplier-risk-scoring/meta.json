@@ -1,0 +1,1 @@
+{"slug":"supplier-risk-scoring","title":"Supplier Risk Scoring","summary":"Composite supplier risk index with spend exposure and what-if scenarios","technique":"weighted composite index, piecewise scoring, scenario stress testing","domain":"Supply Chain","stack":"Python"}

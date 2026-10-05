@@ -1,0 +1,1 @@
+{"slug":"incident-postmortem-generator","title":"Incident Postmortem Generator","summary":"Merge logs and incident chat into a timeline, then draft a blameless postmortem","technique":"log parsing, event classification, grounded LLM drafting with checks","domain":"Data Center Ops","stack":"Python"}

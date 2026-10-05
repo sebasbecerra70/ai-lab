@@ -1,0 +1,6 @@
+incident_id,start_minute,duration_min,error_rate,description
+INC-101,4380,18,0.35,storage controller failover stalled writes
+INC-102,12960,240,0.006,slow memory leak on API tier caused sporadic 503s
+INC-103,21700,6,0.90,bad config push to edge load balancers
+INC-104,30240,95,0.04,degraded cooling forced partial rack shutdown
+INC-105,38900,2,0.50,brief network partition between AZs

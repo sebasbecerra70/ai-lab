@@ -1,0 +1,20 @@
+{
+  "targetWeek": 20,
+  "teams": { "platform": 3, "web": 2, "data": 2 },
+  "epics": [
+    { "id": "AUTH", "name": "SSO + SCIM provisioning", "team": "platform", "weeks": 4, "people": 2, "deps": [], "value": 8 },
+    { "id": "RBAC", "name": "Role-based access control", "team": "platform", "weeks": 3, "people": 2, "deps": ["AUTH"], "value": 7 },
+    { "id": "AUDIT", "name": "Audit log service", "team": "platform", "weeks": 3, "people": 1, "deps": ["AUTH"], "value": 5 },
+    { "id": "EVENTS", "name": "Usage event pipeline", "team": "data", "weeks": 4, "people": 2, "deps": [], "value": 6 },
+    { "id": "METER", "name": "Usage metering", "team": "data", "weeks": 3, "people": 1, "deps": ["EVENTS"], "value": 7 },
+    { "id": "BILLING", "name": "Usage-based billing", "team": "platform", "weeks": 5, "people": 2, "deps": ["METER", "RBAC"], "value": 10 },
+    { "id": "DASH", "name": "Admin usage dashboard", "team": "web", "weeks": 3, "people": 2, "deps": ["METER"], "value": 6 },
+    { "id": "ADMINUI", "name": "Admin console redesign", "team": "web", "weeks": 4, "people": 2, "deps": ["RBAC"], "value": 6 },
+    { "id": "INVOICE", "name": "Invoice and receipts UI", "team": "web", "weeks": 2, "people": 1, "deps": ["BILLING"], "value": 5 },
+    { "id": "EXPORT", "name": "Audit export to SIEM", "team": "data", "weeks": 2, "people": 1, "deps": ["AUDIT"], "value": 4 },
+    { "id": "ALERTS", "name": "Spend alerts", "team": "data", "weeks": 2, "people": 1, "deps": ["METER"], "value": 4 },
+    { "id": "SELFSERVE", "name": "Self-serve plan upgrade", "team": "web", "weeks": 3, "people": 2, "deps": ["BILLING", "ADMINUI"], "value": 9 },
+    { "id": "SOC2", "name": "SOC 2 evidence automation", "team": "platform", "weeks": 2, "people": 1, "deps": ["AUDIT", "RBAC"], "value": 5 },
+    { "id": "LAUNCH", "name": "Enterprise tier launch", "team": "web", "weeks": 1, "people": 1, "deps": ["SELFSERVE", "SOC2", "INVOICE"], "value": 10 }
+  ]
+}

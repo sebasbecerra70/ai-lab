@@ -1,0 +1,1 @@
+{"slug":"prompt-injection-guardrails","title":"Prompt Injection Guardrails","summary":"Input/output guard pipeline: injection scoring, PII redaction, tool allow-list","technique":"heuristic injection detection, PII redaction, policy-checked tool calls","domain":"AI Engineering","stack":"Python"}

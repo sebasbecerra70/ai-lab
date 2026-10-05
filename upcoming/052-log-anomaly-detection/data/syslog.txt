@@ -1,0 +1,2347 @@
+00:00:00 r10-bmc heartbeat seq=0 ok
+00:00:00 r11-bmc heartbeat seq=0 ok
+00:00:00 r12-bmc heartbeat seq=0 ok
+00:00:00 r13-bmc heartbeat seq=0 ok
+00:00:00 r14-bmc heartbeat seq=0 ok
+00:00:00 r15-bmc heartbeat seq=0 ok
+00:00:10 r11-bmc fan FAN4 speed 8175 RPM ok
+00:00:28 r13-bmc sensor CPU0_Temp reading 55 C ok
+00:00:30 r11-bmc sensor CPU0_Temp reading 56 C ok
+00:00:32 r15-bmc sensor CPU1_Temp reading 59 C ok
+00:00:40 core-sw2 Interface Ethernet1/1 link down
+00:01:05 core-sw2 Interface Ethernet1/37 link up, speed 25G
+00:01:07 r13-bmc session opened for user svc_monitor from 10.20.0.232
+00:01:11 r12-bmc sensor CPU1_Temp reading 66 C ok
+00:01:33 r15-bmc fan FAN6 speed 8167 RPM ok
+00:01:34 r12-bmc fan FAN2 speed 8091 RPM ok
+00:01:38 core-sw2 BGP neighbor 10.20.0.53 keepalive received
+00:02:04 core-sw2 Interface Ethernet1/36 link up, speed 25G
+00:02:07 r15-bmc sensor CPU0_Temp reading 50 C ok
+00:02:13 r14-bmc sensor CPU1_Temp reading 54 C ok
+00:02:33 r15-bmc sensor CPU1_Temp reading 62 C ok
+00:03:09 r11-bmc session opened for user svc_monitor from 10.20.8.247
+00:03:33 core-sw2 Interface Ethernet1/43 link up, speed 25G
+00:03:42 r15-bmc sensor CPU0_Temp reading 49 C ok
+00:03:51 core-sw1 Interface Ethernet1/16 link up, speed 25G
+00:03:52 r11-bmc session closed for user svc_monitor from 10.20.9.117
+00:04:06 core-sw1 Interface Ethernet1/48 link up, speed 25G
+00:04:11 r10-bmc sensor CPU0_Temp reading 52 C ok
+00:04:25 r10-bmc fan FAN1 speed 8063 RPM ok
+00:04:32 r13-bmc session opened for user svc_monitor from 10.20.0.40
+00:05:00 r10-bmc heartbeat seq=1 ok
+00:05:00 r11-bmc heartbeat seq=1 ok
+00:05:00 r12-bmc heartbeat seq=1 ok
+00:05:00 r13-bmc heartbeat seq=1 ok
+00:05:00 r14-bmc heartbeat seq=1 ok
+00:05:00 r15-bmc heartbeat seq=1 ok
+00:05:03 r12-bmc session opened for user svc_monitor from 10.20.1.229
+00:05:14 core-sw1 BGP neighbor 10.20.8.85 keepalive received
+00:05:15 r15-bmc sensor CPU1_Temp reading 54 C ok
+00:05:18 r12-bmc fan FAN1 speed 8145 RPM ok
+00:05:53 r11-bmc fan FAN2 speed 7965 RPM ok
+00:06:07 r15-bmc sensor CPU0_Temp reading 51 C ok
+00:06:14 r13-bmc sensor CPU0_Temp reading 58 C ok
+00:06:37 r10-bmc fan FAN5 speed 8785 RPM ok
+00:06:43 r13-bmc fan FAN6 speed 8939 RPM ok
+00:06:56 r11-bmc fan FAN1 speed 8331 RPM ok
+00:06:59 r15-bmc session opened for user svc_monitor from 10.20.4.68
+00:07:04 r10-bmc session closed for user svc_monitor from 10.20.8.36
+00:07:13 r11-bmc fan FAN1 speed 9129 RPM ok
+00:07:14 r10-bmc fan FAN6 speed 8532 RPM ok
+00:07:53 r12-bmc sensor CPU0_Temp reading 48 C ok
+00:08:00 r11-bmc fan FAN2 speed 8051 RPM ok
+00:08:22 r10-bmc sensor CPU0_Temp reading 56 C ok
+00:08:27 core-sw2 BGP neighbor 10.20.2.42 keepalive received
+00:08:45 r14-bmc sensor CPU1_Temp reading 64 C ok
+00:08:58 r13-bmc sensor CPU0_Temp reading 62 C ok
+00:09:07 r13-bmc sensor CPU1_Temp reading 50 C ok
+00:09:28 r15-bmc fan FAN6 speed 7967 RPM ok
+00:09:44 r12-bmc sensor CPU0_Temp reading 65 C ok
+00:09:50 r13-bmc fan FAN6 speed 8668 RPM ok
+00:09:54 r10-bmc fan FAN4 speed 8894 RPM ok
+00:09:56 core-sw2 BGP neighbor 10.20.6.207 keepalive received
+00:10:00 r10-bmc heartbeat seq=2 ok
+00:10:00 r11-bmc heartbeat seq=2 ok
+00:10:00 r12-bmc heartbeat seq=2 ok
+00:10:00 r13-bmc heartbeat seq=2 ok
+00:10:00 r14-bmc heartbeat seq=2 ok
+00:10:00 r15-bmc heartbeat seq=2 ok
+00:10:12 r12-bmc fan FAN4 speed 9159 RPM ok
+00:10:26 r12-bmc sensor CPU1_Temp reading 48 C ok
+00:10:32 r14-bmc sensor CPU1_Temp reading 48 C ok
+00:10:35 pdu-b3 outlet 18 current 1.6 A within limit
+00:10:54 core-sw1 BGP neighbor 10.20.7.228 keepalive received
+00:11:02 r14-bmc fan FAN3 speed 8223 RPM ok
+00:11:07 r10-bmc sensor CPU0_Temp reading 56 C ok
+00:11:19 core-sw1 Interface Ethernet1/27 link up, speed 25G
+00:11:50 r11-bmc fan FAN4 speed 8164 RPM ok
+00:11:55 pdu-a3 outlet 4 current 4.7 A within limit
+00:12:08 core-sw1 Interface Ethernet1/27 link up, speed 25G
+00:12:17 core-sw2 Interface Ethernet1/33 link down
+00:12:25 r14-bmc fan FAN6 speed 8148 RPM ok
+00:12:50 r12-bmc fan FAN6 speed 9127 RPM ok
+00:13:16 core-sw2 Interface Ethernet1/26 link up, speed 25G
+00:13:36 core-sw1 Interface Ethernet1/15 link down
+00:13:36 r10-bmc session opened for user svc_monitor from 10.20.5.144
+00:13:50 r14-bmc fan FAN5 speed 9091 RPM ok
+00:13:53 r13-bmc fan FAN6 speed 7825 RPM ok
+00:14:10 r11-bmc sensor CPU0_Temp reading 53 C ok
+00:14:27 r13-bmc sensor CPU1_Temp reading 64 C ok
+00:14:58 r14-bmc fan FAN1 speed 7933 RPM ok
+00:14:59 r12-bmc sensor CPU0_Temp reading 58 C ok
+00:15:00 r10-bmc heartbeat seq=3 ok
+00:15:00 r11-bmc heartbeat seq=3 ok
+00:15:00 r12-bmc heartbeat seq=3 ok
+00:15:00 r13-bmc heartbeat seq=3 ok
+00:15:00 r14-bmc heartbeat seq=3 ok
+00:15:00 r15-bmc heartbeat seq=3 ok
+00:15:20 core-sw2 Interface Ethernet1/24 link up, speed 25G
+00:15:27 r15-bmc fan FAN6 speed 7800 RPM ok
+00:15:33 r10-bmc session opened for user svc_monitor from 10.20.1.165
+00:15:43 r12-bmc session opened for user svc_monitor from 10.20.7.208
+00:15:49 r13-bmc sensor CPU1_Temp reading 54 C ok
+00:16:00 r12-bmc session opened for user svc_monitor from 10.20.1.56
+00:16:15 r13-bmc sensor CPU0_Temp reading 55 C ok
+00:16:48 r15-bmc sensor CPU1_Temp reading 62 C ok
+00:16:57 core-sw2 BGP neighbor 10.20.8.188 keepalive received
+00:17:20 r14-bmc fan FAN2 speed 8990 RPM ok
+00:17:30 core-sw1 Interface Ethernet1/24 link up, speed 25G
+00:17:45 r14-bmc fan FAN3 speed 7924 RPM ok
+00:17:56 r14-bmc fan FAN3 speed 8145 RPM ok
+00:18:07 core-sw1 BGP neighbor 10.20.7.106 keepalive received
+00:18:13 r15-bmc sensor CPU0_Temp reading 48 C ok
+00:18:14 pdu-a3 outlet 8 current 2.4 A within limit
+00:18:18 r14-bmc fan FAN2 speed 8473 RPM ok
+00:18:41 r14-bmc fan FAN6 speed 8806 RPM ok
+00:19:26 r12-bmc session opened for user svc_monitor from 10.20.8.118
+00:19:27 core-sw2 Interface Ethernet1/13 link up, speed 25G
+00:19:30 pdu-a3 outlet 18 current 1.5 A within limit
+00:19:31 r13-bmc fan FAN3 speed 9145 RPM ok
+00:19:33 core-sw1 BGP neighbor 10.20.3.69 keepalive received
+00:20:00 r10-bmc heartbeat seq=4 ok
+00:20:00 r11-bmc heartbeat seq=4 ok
+00:20:00 r12-bmc heartbeat seq=4 ok
+00:20:00 r13-bmc heartbeat seq=4 ok
+00:20:00 r14-bmc heartbeat seq=4 ok
+00:20:00 r15-bmc heartbeat seq=4 ok
+00:20:08 r11-bmc sensor CPU1_Temp reading 50 C ok
+00:20:09 r15-bmc sensor CPU0_Temp reading 58 C ok
+00:20:13 core-sw1 BGP neighbor 10.20.8.108 keepalive received
+00:20:28 pdu-a3 outlet 10 current 1.1 A within limit
+00:20:50 r15-bmc sensor CPU1_Temp reading 64 C ok
+00:21:06 r12-bmc fan FAN2 speed 8273 RPM ok
+00:21:09 r11-bmc session closed for user svc_monitor from 10.20.1.214
+00:21:24 r13-bmc sensor CPU0_Temp reading 55 C ok
+00:21:40 r15-bmc session closed for user svc_monitor from 10.20.3.150
+00:21:47 r15-bmc fan FAN1 speed 8952 RPM ok
+00:22:01 core-sw1 BGP neighbor 10.20.4.71 keepalive received
+00:22:08 r14-bmc fan FAN1 speed 8063 RPM ok
+00:22:21 core-sw2 BGP neighbor 10.20.5.135 keepalive received
+00:22:32 r10-bmc SEL log 48% full
+00:22:44 r13-bmc sensor CPU0_Temp reading 51 C ok
+00:22:50 r15-bmc fan FAN6 speed 9067 RPM ok
+00:23:01 r15-bmc session opened for user svc_monitor from 10.20.0.181
+00:23:31 core-sw1 BGP neighbor 10.20.7.110 keepalive received
+00:23:32 r15-bmc sensor CPU0_Temp reading 50 C ok
+00:23:49 pdu-b3 outlet 20 current 3.6 A within limit
+00:23:51 r11-bmc fan FAN6 speed 8866 RPM ok
+00:24:08 r14-bmc sensor CPU0_Temp reading 52 C ok
+00:24:12 core-sw1 BGP neighbor 10.20.1.180 keepalive received
+00:24:12 r12-bmc sensor CPU1_Temp reading 64 C ok
+00:24:24 pdu-a3 outlet 18 current 3.0 A within limit
+00:24:27 r12-bmc fan FAN4 speed 7918 RPM ok
+00:24:54 core-sw2 BGP neighbor 10.20.6.225 keepalive received
+00:25:00 r10-bmc heartbeat seq=5 ok
+00:25:00 r11-bmc heartbeat seq=5 ok
+00:25:00 r12-bmc heartbeat seq=5 ok
+00:25:00 r13-bmc heartbeat seq=5 ok
+00:25:00 r14-bmc heartbeat seq=5 ok
+00:25:00 r15-bmc heartbeat seq=5 ok
+00:25:07 core-sw1 BGP neighbor 10.20.7.178 keepalive received
+00:25:19 r13-bmc session closed for user svc_monitor from 10.20.4.157
+00:25:25 r10-bmc sensor CPU0_Temp reading 50 C ok
+00:25:31 pdu-b3 outlet 5 current 4.2 A within limit
+00:25:38 r13-bmc SEL log 13% full
+00:25:58 core-sw1 Interface Ethernet1/21 link up, speed 25G
+00:26:05 core-sw2 Interface Ethernet1/44 link up, speed 25G
+00:26:21 r11-bmc sensor CPU1_Temp reading 62 C ok
+00:26:23 r10-bmc session opened for user svc_monitor from 10.20.8.40
+00:26:39 r11-bmc fan FAN6 speed 8244 RPM ok
+00:26:46 r11-bmc session closed for user svc_monitor from 10.20.4.129
+00:27:17 r12-bmc fan FAN2 speed 8118 RPM ok
+00:27:19 r10-bmc session closed for user svc_monitor from 10.20.4.112
+00:27:39 core-sw2 Interface Ethernet1/29 link up, speed 25G
+00:27:43 r14-bmc sensor CPU1_Temp reading 59 C ok
+00:28:02 r11-bmc sensor CPU1_Temp reading 48 C ok
+00:28:17 r13-bmc sensor CPU0_Temp reading 60 C ok
+00:28:18 r10-bmc sensor CPU0_Temp reading 51 C ok
+00:28:32 r14-bmc fan FAN3 speed 8950 RPM ok
+00:28:50 r13-bmc sensor CPU0_Temp reading 49 C ok
+00:29:02 r10-bmc sensor CPU1_Temp reading 52 C ok
+00:29:13 core-sw1 BGP neighbor 10.20.4.133 keepalive received
+00:29:15 core-sw2 BGP neighbor 10.20.5.117 keepalive received
+00:29:16 r11-bmc fan FAN4 speed 8575 RPM ok
+00:29:50 r11-bmc fan FAN6 speed 8026 RPM ok
+00:30:00 r10-bmc heartbeat seq=6 ok
+00:30:00 r11-bmc heartbeat seq=6 ok
+00:30:00 r12-bmc heartbeat seq=6 ok
+00:30:00 r13-bmc heartbeat seq=6 ok
+00:30:00 r14-bmc heartbeat seq=6 ok
+00:30:00 r15-bmc heartbeat seq=6 ok
+00:30:08 r15-bmc sensor CPU0_Temp reading 52 C ok
+00:30:19 core-sw2 BGP neighbor 10.20.7.161 keepalive received
+00:30:24 r12-bmc fan FAN6 speed 8322 RPM ok
+00:30:30 r13-bmc sensor CPU1_Temp reading 51 C ok
+00:30:34 r13-bmc sensor CPU1_Temp reading 51 C ok
+00:30:53 r13-bmc session closed for user svc_monitor from 10.20.2.25
+00:31:05 r10-bmc sensor CPU1_Temp reading 59 C ok
+00:31:08 r14-bmc sensor CPU0_Temp reading 48 C ok
+00:31:17 r15-bmc session opened for user svc_monitor from 10.20.1.127
+00:31:31 core-sw1 Interface Ethernet1/36 link up, speed 25G
+00:31:35 core-sw1 BGP neighbor 10.20.6.173 keepalive received
+00:31:37 r10-bmc session closed for user svc_monitor from 10.20.9.219
+00:32:06 r11-bmc fan FAN4 speed 7834 RPM ok
+00:32:08 r13-bmc sensor CPU1_Temp reading 61 C ok
+00:32:09 core-sw2 BGP neighbor 10.20.2.179 keepalive received
+00:32:12 r15-bmc fan FAN5 speed 8303 RPM ok
+00:32:59 r14-bmc fan FAN5 speed 7998 RPM ok
+00:33:16 core-sw2 Interface Ethernet1/48 link up, speed 25G
+00:33:24 core-sw2 Interface Ethernet1/36 link up, speed 25G
+00:33:47 pdu-b3 outlet 20 current 2.0 A within limit
+00:33:54 r11-bmc session closed for user svc_monitor from 10.20.9.184
+00:34:08 r12-bmc session closed for user svc_monitor from 10.20.9.172
+00:34:24 r15-bmc session closed for user svc_monitor from 10.20.9.144
+00:34:26 r10-bmc sensor CPU1_Temp reading 56 C ok
+00:34:51 r15-bmc fan FAN6 speed 8900 RPM ok
+00:34:59 r10-bmc session opened for user svc_monitor from 10.20.0.10
+00:35:00 r10-bmc heartbeat seq=7 ok
+00:35:00 r11-bmc heartbeat seq=7 ok
+00:35:00 r12-bmc heartbeat seq=7 ok
+00:35:00 r13-bmc heartbeat seq=7 ok
+00:35:00 r14-bmc heartbeat seq=7 ok
+00:35:00 r15-bmc heartbeat seq=7 ok
+00:35:07 core-sw1 Interface Ethernet1/18 link up, speed 25G
+00:35:16 core-sw2 BGP neighbor 10.20.9.136 keepalive received
+00:35:16 r13-bmc sensor CPU0_Temp reading 50 C ok
+00:35:58 r10-bmc session closed for user svc_monitor from 10.20.1.152
+00:36:01 r13-bmc session opened for user svc_monitor from 10.20.1.61
+00:36:31 r12-bmc fan FAN1 speed 8237 RPM ok
+00:36:36 pdu-b3 outlet 15 current 0.9 A within limit
+00:36:42 core-sw2 Interface Ethernet1/17 link up, speed 25G
+00:37:11 r12-bmc fan FAN6 speed 8406 RPM ok
+00:37:13 r11-bmc session closed for user svc_monitor from 10.20.2.59
+00:37:15 r12-bmc SEL log 24% full
+00:37:50 r12-bmc sensor CPU1_Temp reading 53 C ok
+00:38:21 r10-bmc fan FAN1 speed 7826 RPM ok
+00:38:23 core-sw1 Interface Ethernet1/17 link up, speed 25G
+00:38:38 r12-bmc session opened for user svc_monitor from 10.20.7.231
+00:38:42 r10-bmc sensor CPU1_Temp reading 60 C ok
+00:39:27 r15-bmc fan FAN1 speed 8942 RPM ok
+00:39:37 r13-bmc sensor CPU0_Temp reading 49 C ok
+00:39:47 r15-bmc SEL log 25% full
+00:39:48 pdu-b3 outlet 6 current 1.2 A within limit
+00:39:59 core-sw2 Interface Ethernet1/41 link up, speed 25G
+00:40:00 r10-bmc heartbeat seq=8 ok
+00:40:00 r11-bmc heartbeat seq=8 ok
+00:40:00 r12-bmc heartbeat seq=8 ok
+00:40:00 r13-bmc heartbeat seq=8 ok
+00:40:00 r14-bmc heartbeat seq=8 ok
+00:40:00 r15-bmc heartbeat seq=8 ok
+00:40:01 r12-bmc sensor CPU0_Temp reading 53 C ok
+00:40:10 r14-bmc sensor CPU1_Temp reading 63 C ok
+00:40:39 pdu-a3 outlet 2 current 4.3 A within limit
+00:40:47 pdu-b3 outlet 23 current 4.3 A within limit
+00:41:03 r11-bmc sensor CPU1_Temp reading 60 C ok
+00:41:06 r11-bmc fan FAN1 speed 8978 RPM ok
+00:41:09 r12-bmc fan FAN2 speed 8072 RPM ok
+00:41:23 r10-bmc sensor CPU0_Temp reading 61 C ok
+00:41:49 r11-bmc sensor CPU1_Temp reading 65 C ok
+00:42:03 core-sw2 Interface Ethernet1/20 link up, speed 25G
+00:42:06 r12-bmc session closed for user svc_monitor from 10.20.1.90
+00:42:07 r12-bmc session opened for user svc_monitor from 10.20.4.237
+00:42:24 r11-bmc session closed for user svc_monitor from 10.20.6.143
+00:42:42 r11-bmc sensor CPU1_Temp reading 64 C ok
+00:43:01 pdu-b3 outlet 24 current 1.1 A within limit
+00:43:05 r10-bmc fan FAN6 speed 8834 RPM ok
+00:43:17 r12-bmc fan FAN3 speed 8924 RPM ok
+00:43:48 core-sw1 Interface Ethernet1/14 link up, speed 25G
+00:43:50 pdu-b3 outlet 16 current 2.8 A within limit
+00:43:51 core-sw1 Interface Ethernet1/10 link up, speed 25G
+00:44:06 r13-bmc session closed for user svc_monitor from 10.20.6.110
+00:44:18 core-sw1 Interface Ethernet1/39 link up, speed 25G
+00:44:22 r12-bmc sensor CPU1_Temp reading 65 C ok
+00:44:22 r12-bmc session opened for user svc_monitor from 10.20.0.61
+00:44:49 pdu-b3 outlet 17 current 2.5 A within limit
+00:45:00 r10-bmc heartbeat seq=9 ok
+00:45:00 r11-bmc heartbeat seq=9 ok
+00:45:00 r12-bmc heartbeat seq=9 ok
+00:45:00 r13-bmc heartbeat seq=9 ok
+00:45:00 r14-bmc heartbeat seq=9 ok
+00:45:00 r15-bmc heartbeat seq=9 ok
+00:45:02 core-sw1 Interface Ethernet1/13 link down
+00:45:14 r11-bmc session opened for user svc_monitor from 10.20.9.99
+00:45:29 r15-bmc fan FAN6 speed 8976 RPM ok
+00:45:32 core-sw1 Interface Ethernet1/26 link up, speed 25G
+00:45:35 core-sw1 Interface Ethernet1/40 link down
+00:46:08 r13-bmc sensor CPU0_Temp reading 51 C ok
+00:46:14 core-sw1 BGP neighbor 10.20.3.63 keepalive received
+00:46:35 r14-bmc fan FAN1 speed 8409 RPM ok
+00:46:49 r15-bmc SEL log 12% full
+00:46:55 core-sw2 BGP neighbor 10.20.7.12 keepalive received
+00:46:57 r14-bmc sensor CPU1_Temp reading 55 C ok
+00:47:25 core-sw1 Interface Ethernet1/34 link up, speed 25G
+00:47:35 r13-bmc sensor CPU1_Temp reading 62 C ok
+00:47:42 r13-bmc sensor CPU0_Temp reading 61 C ok
+00:47:45 r11-bmc sensor CPU0_Temp reading 64 C ok
+00:47:54 r11-bmc sensor CPU0_Temp reading 51 C ok
+00:48:09 r11-bmc fan FAN6 speed 8612 RPM ok
+00:48:27 core-sw2 BGP neighbor 10.20.2.169 keepalive received
+00:48:27 r13-bmc sensor CPU1_Temp reading 58 C ok
+00:48:35 core-sw1 Interface Ethernet1/30 link up, speed 25G
+00:48:58 r11-bmc session opened for user svc_monitor from 10.20.3.70
+00:49:04 r13-bmc session opened for user svc_monitor from 10.20.5.209
+00:49:07 r11-bmc sensor CPU1_Temp reading 48 C ok
+00:49:22 r11-bmc sensor CPU1_Temp reading 53 C ok
+00:49:33 r14-bmc sensor CPU0_Temp reading 51 C ok
+00:49:55 core-sw1 Interface Ethernet1/22 link up, speed 25G
+00:50:00 r10-bmc heartbeat seq=10 ok
+00:50:00 r11-bmc heartbeat seq=10 ok
+00:50:00 r12-bmc heartbeat seq=10 ok
+00:50:00 r13-bmc heartbeat seq=10 ok
+00:50:00 r14-bmc heartbeat seq=10 ok
+00:50:00 r15-bmc heartbeat seq=10 ok
+00:50:24 r13-bmc fan FAN4 speed 8670 RPM ok
+00:50:30 core-sw2 Interface Ethernet1/21 link up, speed 25G
+00:50:33 r11-bmc sensor CPU0_Temp reading 66 C ok
+00:50:34 r11-bmc sensor CPU1_Temp reading 59 C ok
+00:50:40 r15-bmc sensor CPU1_Temp reading 65 C ok
+00:50:55 pdu-b3 outlet 21 current 0.4 A within limit
+00:51:01 pdu-a3 outlet 22 current 2.9 A within limit
+00:51:38 r12-bmc session opened for user svc_monitor from 10.20.5.213
+00:51:49 r14-bmc session closed for user svc_monitor from 10.20.1.80
+00:51:56 r13-bmc sensor CPU0_Temp reading 49 C ok
+00:52:06 r13-bmc session opened for user svc_monitor from 10.20.0.5
+00:52:24 core-sw1 Interface Ethernet1/36 link up, speed 25G
+00:52:29 r13-bmc sensor CPU0_Temp reading 57 C ok
+00:52:47 r10-bmc sensor CPU0_Temp reading 60 C ok
+00:53:02 r11-bmc sensor CPU1_Temp reading 50 C ok
+00:53:03 r10-bmc session closed for user svc_monitor from 10.20.0.189
+00:53:34 core-sw1 Interface Ethernet1/27 link up, speed 25G
+00:53:36 r11-bmc sensor CPU1_Temp reading 66 C ok
+00:53:48 r13-bmc sensor CPU1_Temp reading 59 C ok
+00:54:12 core-sw2 BGP neighbor 10.20.1.170 keepalive received
+00:54:14 core-sw1 BGP neighbor 10.20.4.86 keepalive received
+00:54:20 pdu-b3 outlet 17 current 3.5 A within limit
+00:54:27 r10-bmc session opened for user svc_monitor from 10.20.8.231
+00:54:39 core-sw1 Interface Ethernet1/16 link up, speed 25G
+00:54:54 r10-bmc sensor CPU0_Temp reading 56 C ok
+00:55:00 r10-bmc heartbeat seq=11 ok
+00:55:00 r11-bmc heartbeat seq=11 ok
+00:55:00 r12-bmc heartbeat seq=11 ok
+00:55:00 r13-bmc heartbeat seq=11 ok
+00:55:00 r14-bmc heartbeat seq=11 ok
+00:55:00 r15-bmc heartbeat seq=11 ok
+00:55:04 core-sw1 Interface Ethernet1/18 link up, speed 25G
+00:55:31 r11-bmc sensor CPU1_Temp reading 61 C ok
+00:55:43 core-sw2 Interface Ethernet1/8 link up, speed 25G
+00:55:58 core-sw2 BGP neighbor 10.20.8.223 keepalive received
+00:56:01 core-sw1 Interface Ethernet1/32 link down
+00:56:06 core-sw1 Interface Ethernet1/19 link down
+00:56:27 core-sw2 BGP neighbor 10.20.0.219 keepalive received
+00:56:49 r13-bmc sensor CPU0_Temp reading 64 C ok
+00:56:58 r11-bmc sensor CPU0_Temp reading 53 C ok
+00:57:20 r13-bmc sensor CPU1_Temp reading 53 C ok
+00:57:43 r11-bmc fan FAN1 speed 7896 RPM ok
+00:57:46 core-sw2 Interface Ethernet1/39 link up, speed 25G
+00:57:47 pdu-a3 outlet 14 current 0.7 A within limit
+00:57:50 r14-bmc sensor CPU1_Temp reading 50 C ok
+00:58:04 r14-bmc sensor CPU1_Temp reading 63 C ok
+00:58:16 pdu-b3 outlet 1 current 4.1 A within limit
+00:58:20 core-sw1 Interface Ethernet1/36 link up, speed 25G
+00:58:45 core-sw2 BGP neighbor 10.20.8.133 keepalive received
+00:58:48 core-sw1 Interface Ethernet1/28 link up, speed 25G
+00:59:10 r11-bmc sensor CPU0_Temp reading 60 C ok
+00:59:13 core-sw2 BGP neighbor 10.20.3.71 keepalive received
+00:59:41 r11-bmc sensor CPU0_Temp reading 60 C ok
+00:59:52 core-sw1 BGP neighbor 10.20.8.169 keepalive received
+01:00:00 r10-bmc heartbeat seq=12 ok
+01:00:00 r11-bmc heartbeat seq=12 ok
+01:00:00 r12-bmc heartbeat seq=12 ok
+01:00:00 r13-bmc heartbeat seq=12 ok
+01:00:00 r14-bmc heartbeat seq=12 ok
+01:00:00 r15-bmc heartbeat seq=12 ok
+01:00:04 core-sw2 BGP neighbor 10.20.8.64 keepalive received
+01:00:08 pdu-b3 outlet 6 current 3.9 A within limit
+01:00:19 r13-bmc fan FAN3 speed 9135 RPM ok
+01:00:38 r15-bmc sensor CPU0_Temp reading 61 C ok
+01:00:52 r13-bmc fan FAN5 speed 8360 RPM ok
+01:01:02 r15-bmc session closed for user svc_monitor from 10.20.7.94
+01:01:03 core-sw2 Interface Ethernet1/22 link down
+01:01:21 r13-bmc fan FAN6 speed 8080 RPM ok
+01:01:28 r13-bmc sensor CPU1_Temp reading 60 C ok
+01:01:41 r14-bmc fan FAN2 speed 8171 RPM ok
+01:01:49 r13-bmc fan FAN1 speed 7951 RPM ok
+01:02:02 r10-bmc fan FAN6 speed 8467 RPM ok
+01:02:02 r11-bmc sensor CPU0_Temp reading 53 C ok
+01:02:08 r14-bmc fan FAN5 speed 8840 RPM ok
+01:02:12 r11-bmc session closed for user svc_monitor from 10.20.8.93
+01:02:54 core-sw2 BGP neighbor 10.20.5.216 keepalive received
+01:03:04 r10-bmc session closed for user svc_monitor from 10.20.8.189
+01:03:41 r10-bmc session opened for user svc_monitor from 10.20.6.133
+01:03:49 core-sw1 BGP neighbor 10.20.8.38 keepalive received
+01:03:57 r13-bmc sensor CPU1_Temp reading 58 C ok
+01:04:03 core-sw2 BGP neighbor 10.20.2.27 keepalive received
+01:04:04 r11-bmc sensor CPU1_Temp reading 53 C ok
+01:04:27 r15-bmc session closed for user svc_monitor from 10.20.3.70
+01:04:28 r11-bmc session closed for user svc_monitor from 10.20.5.46
+01:04:58 core-sw1 Interface Ethernet1/26 link down
+01:05:00 r10-bmc heartbeat seq=13 ok
+01:05:00 r11-bmc heartbeat seq=13 ok
+01:05:00 r12-bmc heartbeat seq=13 ok
+01:05:00 r13-bmc heartbeat seq=13 ok
+01:05:00 r14-bmc heartbeat seq=13 ok
+01:05:00 r15-bmc heartbeat seq=13 ok
+01:05:17 core-sw2 Interface Ethernet1/26 link up, speed 25G
+01:05:19 r15-bmc fan FAN4 speed 8899 RPM ok
+01:05:23 r13-bmc sensor CPU0_Temp reading 54 C ok
+01:05:26 r11-bmc sensor CPU1_Temp reading 59 C ok
+01:05:42 r10-bmc session opened for user svc_monitor from 10.20.6.192
+01:05:56 r10-bmc sensor CPU0_Temp reading 48 C ok
+01:06:03 r10-bmc fan FAN6 speed 8016 RPM ok
+01:06:15 r10-bmc sensor CPU0_Temp reading 66 C ok
+01:06:33 r15-bmc sensor CPU0_Temp reading 66 C ok
+01:06:41 r13-bmc session closed for user svc_monitor from 10.20.3.94
+01:06:44 r15-bmc fan FAN1 speed 8468 RPM ok
+01:06:47 core-sw2 Interface Ethernet1/43 link up, speed 25G
+01:07:01 r12-bmc SEL log 51% full
+01:07:33 r11-bmc session opened for user svc_monitor from 10.20.1.243
+01:07:38 r14-bmc session opened for user svc_monitor from 10.20.9.60
+01:07:44 core-sw2 Interface Ethernet1/46 link up, speed 25G
+01:07:59 core-sw2 BGP neighbor 10.20.4.158 keepalive received
+01:08:19 r14-bmc sensor CPU0_Temp reading 63 C ok
+01:08:21 core-sw1 Interface Ethernet1/22 link up, speed 25G
+01:08:38 core-sw2 Interface Ethernet1/21 link up, speed 25G
+01:08:45 r12-bmc fan FAN1 speed 8359 RPM ok
+01:08:55 core-sw2 BGP neighbor 10.20.0.194 keepalive received
+01:08:58 r15-bmc session closed for user svc_monitor from 10.20.1.31
+01:09:14 r14-bmc session closed for user svc_monitor from 10.20.7.195
+01:09:27 core-sw2 BGP neighbor 10.20.6.78 keepalive received
+01:09:33 r14-bmc sensor CPU1_Temp reading 59 C ok
+01:09:40 r15-bmc sensor CPU1_Temp reading 56 C ok
+01:10:00 r10-bmc heartbeat seq=14 ok
+01:10:00 r11-bmc heartbeat seq=14 ok
+01:10:00 r12-bmc heartbeat seq=14 ok
+01:10:00 r13-bmc heartbeat seq=14 ok
+01:10:00 r14-bmc heartbeat seq=14 ok
+01:10:00 r15-bmc heartbeat seq=14 ok
+01:10:16 r12-bmc fan FAN1 speed 8295 RPM ok
+01:10:20 pdu-b3 outlet 9 current 3.6 A within limit
+01:10:22 r12-bmc session opened for user svc_monitor from 10.20.7.81
+01:10:26 r12-bmc fan FAN6 speed 8675 RPM ok
+01:10:52 r14-bmc sensor CPU0_Temp reading 64 C ok
+01:11:14 core-sw1 BGP neighbor 10.20.1.48 keepalive received
+01:11:29 core-sw2 BGP neighbor 10.20.9.200 keepalive received
+01:11:40 r11-bmc fan FAN5 speed 8277 RPM ok
+01:11:40 r11-bmc session closed for user svc_monitor from 10.20.3.47
+01:12:04 r10-bmc fan FAN5 speed 8453 RPM ok
+01:12:04 r15-bmc sensor CPU1_Temp reading 65 C ok
+01:12:42 r11-bmc session opened for user svc_monitor from 10.20.3.41
+01:12:53 r13-bmc fan FAN6 speed 9174 RPM ok
+01:13:09 r14-bmc fan FAN5 speed 8479 RPM ok
+01:13:15 r10-bmc sensor CPU1_Temp reading 54 C ok
+01:13:19 r14-bmc fan FAN5 speed 8546 RPM ok
+01:13:20 core-sw2 Interface Ethernet1/20 link up, speed 25G
+01:13:45 r14-bmc sensor CPU0_Temp reading 64 C ok
+01:14:26 r11-bmc sensor CPU0_Temp reading 50 C ok
+01:14:26 r12-bmc fan FAN4 speed 9186 RPM ok
+01:14:28 r11-bmc sensor CPU1_Temp reading 53 C ok
+01:14:57 core-sw1 Interface Ethernet1/26 link up, speed 25G
+01:14:58 core-sw1 Interface Ethernet1/45 link up, speed 25G
+01:15:00 r10-bmc heartbeat seq=15 ok
+01:15:00 r11-bmc heartbeat seq=15 ok
+01:15:00 r12-bmc heartbeat seq=15 ok
+01:15:00 r13-bmc heartbeat seq=15 ok
+01:15:00 r14-bmc heartbeat seq=15 ok
+01:15:00 r15-bmc heartbeat seq=15 ok
+01:15:03 r10-bmc sensor CPU1_Temp reading 51 C ok
+01:15:14 core-sw2 Interface Ethernet1/33 link up, speed 25G
+01:15:20 core-sw2 Interface Ethernet1/21 link up, speed 25G
+01:15:30 core-sw2 Interface Ethernet1/2 link up, speed 25G
+01:15:56 r12-bmc fan FAN5 speed 7963 RPM ok
+01:16:24 core-sw1 Interface Ethernet1/3 link up, speed 25G
+01:16:31 r14-bmc sensor CPU1_Temp reading 52 C ok
+01:16:34 r15-bmc sensor CPU0_Temp reading 58 C ok
+01:16:39 r12-bmc fan FAN4 speed 8611 RPM ok
+01:16:52 core-sw2 Interface Ethernet1/28 link down
+01:17:13 r12-bmc fan FAN3 speed 8490 RPM ok
+01:17:25 r14-bmc sensor CPU0_Temp reading 48 C ok
+01:17:29 r11-bmc fan FAN4 speed 8599 RPM ok
+01:17:36 r15-bmc session opened for user svc_monitor from 10.20.2.69
+01:17:47 r12-bmc session opened for user svc_monitor from 10.20.2.58
+01:17:55 core-sw2 BGP neighbor 10.20.5.138 keepalive received
+01:18:14 r12-bmc sensor CPU0_Temp reading 60 C ok
+01:18:16 core-sw1 BGP neighbor 10.20.8.192 keepalive received
+01:18:43 r14-bmc sensor CPU1_Temp reading 65 C ok
+01:18:45 r10-bmc sensor CPU1_Temp reading 64 C ok
+01:18:52 r12-bmc fan FAN2 speed 8312 RPM ok
+01:19:17 core-sw2 Interface Ethernet1/16 link up, speed 25G
+01:19:30 core-sw2 Interface Ethernet1/48 link up, speed 25G
+01:19:37 r10-bmc session opened for user svc_monitor from 10.20.7.178
+01:19:44 core-sw2 Interface Ethernet1/28 link up, speed 25G
+01:19:59 r10-bmc sensor CPU1_Temp reading 49 C ok
+01:20:00 r10-bmc heartbeat seq=16 ok
+01:20:00 r11-bmc heartbeat seq=16 ok
+01:20:00 r12-bmc heartbeat seq=16 ok
+01:20:00 r13-bmc heartbeat seq=16 ok
+01:20:00 r14-bmc heartbeat seq=16 ok
+01:20:00 r15-bmc heartbeat seq=16 ok
+01:20:03 core-sw2 BGP neighbor 10.20.0.185 keepalive received
+01:20:20 r14-bmc sensor CPU1_Temp reading 55 C ok
+01:20:35 core-sw2 Interface Ethernet1/33 link up, speed 25G
+01:20:51 r14-bmc fan FAN5 speed 9145 RPM ok
+01:20:57 r11-bmc sensor CPU1_Temp reading 55 C ok
+01:21:13 r11-bmc SEL log 64% full
+01:21:22 r11-bmc sensor CPU0_Temp reading 66 C ok
+01:21:26 r10-bmc fan FAN1 speed 9151 RPM ok
+01:21:35 core-sw2 BGP neighbor 10.20.7.198 keepalive received
+01:21:35 r13-bmc sensor CPU0_Temp reading 60 C ok
+01:21:40 r10-bmc sensor CPU0_Temp reading 58 C ok
+01:22:04 r11-bmc fan FAN2 speed 8891 RPM ok
+01:22:22 core-sw1 Interface Ethernet1/44 link up, speed 25G
+01:22:25 r11-bmc sensor CPU0_Temp reading 63 C ok
+01:22:34 r11-bmc fan FAN5 speed 9151 RPM ok
+01:22:35 r14-bmc sensor CPU0_Temp reading 66 C ok
+01:23:24 r13-bmc sensor CPU1_Temp reading 52 C ok
+01:23:25 r10-bmc fan FAN3 speed 8101 RPM ok
+01:23:29 r13-bmc session closed for user svc_monitor from 10.20.2.222
+01:23:39 r15-bmc fan FAN3 speed 8956 RPM ok
+01:23:42 r15-bmc sensor CPU1_Temp reading 64 C ok
+01:23:45 r12-bmc session closed for user svc_monitor from 10.20.6.37
+01:24:20 pdu-b3 outlet 10 current 0.7 A within limit
+01:24:32 r15-bmc sensor CPU1_Temp reading 57 C ok
+01:24:34 core-sw2 BGP neighbor 10.20.5.180 keepalive received
+01:24:41 r11-bmc sensor CPU1_Temp reading 53 C ok
+01:24:58 core-sw2 Interface Ethernet1/11 link down
+01:25:00 r10-bmc heartbeat seq=17 ok
+01:25:00 r11-bmc heartbeat seq=17 ok
+01:25:00 r12-bmc heartbeat seq=17 ok
+01:25:00 r13-bmc heartbeat seq=17 ok
+01:25:00 r14-bmc heartbeat seq=17 ok
+01:25:00 r15-bmc heartbeat seq=17 ok
+01:25:04 core-sw1 Interface Ethernet1/22 link up, speed 25G
+01:25:30 core-sw1 BGP neighbor 10.20.3.126 keepalive received
+01:25:30 r15-bmc session closed for user svc_monitor from 10.20.4.214
+01:25:51 core-sw1 Interface Ethernet1/17 link down
+01:25:51 r10-bmc session closed for user svc_monitor from 10.20.9.134
+01:25:55 r13-bmc sensor CPU1_Temp reading 61 C ok
+01:26:32 r14-bmc sensor CPU0_Temp reading 56 C ok
+01:26:35 core-sw1 BGP neighbor 10.20.9.29 keepalive received
+01:26:37 r13-bmc sensor CPU1_Temp reading 65 C ok
+01:26:43 r13-bmc session closed for user svc_monitor from 10.20.9.81
+01:26:44 core-sw2 Interface Ethernet1/41 link down
+01:27:13 r15-bmc session closed for user svc_monitor from 10.20.5.34
+01:27:19 pdu-a3 outlet 19 current 0.7 A within limit
+01:27:22 core-sw1 BGP neighbor 10.20.9.41 keepalive received
+01:27:24 r11-bmc session closed for user svc_monitor from 10.20.2.7
+01:27:30 r12-bmc sensor CPU0_Temp reading 48 C ok
+01:28:11 pdu-b3 outlet 19 current 4.6 A within limit
+01:28:17 core-sw2 BGP neighbor 10.20.8.239 keepalive received
+01:28:22 r10-bmc fan FAN3 speed 9155 RPM ok
+01:28:38 r11-bmc sensor CPU1_Temp reading 55 C ok
+01:28:54 r11-bmc session opened for user svc_monitor from 10.20.2.93
+01:29:38 core-sw2 BGP neighbor 10.20.0.66 keepalive received
+01:29:41 r11-bmc sensor CPU0_Temp reading 66 C ok
+01:29:45 r10-bmc fan FAN2 speed 9090 RPM ok
+01:29:45 r13-bmc session closed for user svc_monitor from 10.20.2.40
+01:29:57 core-sw2 BGP neighbor 10.20.7.184 keepalive received
+01:30:00 r10-bmc fan FAN5 speed 8117 RPM ok
+01:30:00 r10-bmc heartbeat seq=18 ok
+01:30:00 r11-bmc heartbeat seq=18 ok
+01:30:00 r12-bmc heartbeat seq=18 ok
+01:30:00 r13-bmc heartbeat seq=18 ok
+01:30:00 r14-bmc heartbeat seq=18 ok
+01:30:00 r15-bmc heartbeat seq=18 ok
+01:30:13 r10-bmc sensor CPU0_Temp reading 66 C ok
+01:30:13 r11-bmc session opened for user svc_monitor from 10.20.5.193
+01:30:20 core-sw2 BGP neighbor 10.20.7.72 keepalive received
+01:30:51 r12-bmc fan FAN3 speed 8135 RPM ok
+01:30:58 r15-bmc sensor CPU1_Temp reading 50 C ok
+01:31:03 r12-bmc sensor CPU1_Temp reading 53 C ok
+01:31:07 core-sw1 Interface Ethernet1/15 link up, speed 25G
+01:31:19 r13-bmc fan FAN6 speed 8064 RPM ok
+01:31:27 r11-bmc sensor CPU0_Temp reading 59 C ok
+01:31:52 core-sw2 BGP neighbor 10.20.5.114 keepalive received
+01:32:04 r11-bmc sensor CPU1_Temp reading 66 C ok
+01:32:33 core-sw1 Interface Ethernet1/19 link up, speed 25G
+01:32:33 r10-bmc sensor CPU1_Temp reading 62 C ok
+01:32:36 r15-bmc fan FAN6 speed 7898 RPM ok
+01:32:39 r10-bmc sensor CPU0_Temp reading 56 C ok
+01:32:49 r14-bmc sensor CPU0_Temp reading 51 C ok
+01:33:00 r15-bmc session opened for user svc_monitor from 10.20.5.219
+01:33:15 r13-bmc session closed for user svc_monitor from 10.20.7.157
+01:33:23 r13-bmc fan FAN1 speed 8921 RPM ok
+01:33:28 core-sw2 BGP neighbor 10.20.6.107 keepalive received
+01:33:59 r11-bmc SEL log 38% full
+01:34:02 r15-bmc fan FAN4 speed 9111 RPM ok
+01:34:07 core-sw2 BGP neighbor 10.20.7.174 keepalive received
+01:34:26 r15-bmc session opened for user svc_monitor from 10.20.3.207
+01:34:31 core-sw1 Interface Ethernet1/25 link up, speed 25G
+01:34:45 r10-bmc session opened for user svc_monitor from 10.20.3.156
+01:35:00 r10-bmc heartbeat seq=19 ok
+01:35:00 r11-bmc heartbeat seq=19 ok
+01:35:00 r12-bmc heartbeat seq=19 ok
+01:35:00 r13-bmc heartbeat seq=19 ok
+01:35:00 r14-bmc heartbeat seq=19 ok
+01:35:00 r15-bmc heartbeat seq=19 ok
+01:35:17 core-sw1 Interface Ethernet1/10 link down
+01:35:22 r10-bmc fan FAN6 speed 8466 RPM ok
+01:35:32 r15-bmc session opened for user svc_monitor from 10.20.7.24
+01:35:38 core-sw2 BGP neighbor 10.20.0.70 keepalive received
+01:36:20 core-sw2 BGP neighbor 10.20.8.241 keepalive received
+01:36:31 r14-bmc session closed for user svc_monitor from 10.20.6.126
+01:36:49 r15-bmc session closed for user svc_monitor from 10.20.0.227
+01:36:52 r13-bmc session closed for user svc_monitor from 10.20.6.223
+01:36:56 r11-bmc sensor CPU1_Temp reading 56 C ok
+01:37:05 core-sw2 Interface Ethernet1/26 link up, speed 25G
+01:37:07 pdu-a3 outlet 1 current 1.3 A within limit
+01:37:24 r13-bmc sensor CPU0_Temp reading 64 C ok
+01:37:42 r11-bmc session closed for user svc_monitor from 10.20.5.25
+01:37:58 core-sw1 Interface Ethernet1/14 link up, speed 25G
+01:38:19 r11-bmc session opened for user svc_monitor from 10.20.8.209
+01:38:22 r11-bmc session opened for user svc_monitor from 10.20.1.107
+01:38:26 core-sw2 Interface Ethernet1/21 link up, speed 25G
+01:38:43 core-sw2 BGP neighbor 10.20.0.247 keepalive received
+01:38:46 r12-bmc sensor CPU1_Temp reading 60 C ok
+01:39:37 r14-bmc sensor CPU0_Temp reading 61 C ok
+01:39:43 r15-bmc sensor CPU1_Temp reading 55 C ok
+01:39:54 r10-bmc fan FAN3 speed 7959 RPM ok
+01:39:57 r13-bmc fan FAN1 speed 8819 RPM ok
+01:39:58 r15-bmc sensor CPU1_Temp reading 59 C ok
+01:40:00 r10-bmc heartbeat seq=20 ok
+01:40:00 r11-bmc heartbeat seq=20 ok
+01:40:00 r12-bmc heartbeat seq=20 ok
+01:40:00 r13-bmc heartbeat seq=20 ok
+01:40:00 r14-bmc heartbeat seq=20 ok
+01:40:00 r15-bmc heartbeat seq=20 ok
+01:40:08 r14-bmc fan FAN2 speed 8535 RPM ok
+01:40:32 r10-bmc fan FAN6 speed 8545 RPM ok
+01:40:33 r13-bmc fan FAN6 speed 8960 RPM ok
+01:40:39 pdu-b3 outlet 7 current 4.3 A within limit
+01:40:42 core-sw2 Interface Ethernet1/22 link up, speed 25G
+01:41:16 pdu-a3 outlet 3 current 3.1 A within limit
+01:41:39 r11-bmc session closed for user svc_monitor from 10.20.2.236
+01:41:40 r14-bmc session closed for user svc_monitor from 10.20.8.198
+01:41:44 r11-bmc SEL log 51% full
+01:41:53 core-sw2 BGP neighbor 10.20.4.96 keepalive received
+01:42:08 r15-bmc sensor CPU0_Temp reading 50 C ok
+01:42:10 core-sw1 BGP neighbor 10.20.1.32 keepalive received
+01:42:10 r12-bmc sensor CPU1_Temp reading 63 C ok
+01:42:31 core-sw1 BGP neighbor 10.20.8.85 keepalive received
+01:42:35 r14-bmc sensor CPU1_Temp reading 58 C ok
+01:43:15 r10-bmc session closed for user svc_monitor from 10.20.1.129
+01:43:43 pdu-b3 outlet 14 current 2.8 A within limit
+01:43:46 r15-bmc sensor CPU0_Temp reading 59 C ok
+01:43:48 core-sw2 Interface Ethernet1/39 link down
+01:43:59 r13-bmc session closed for user svc_monitor from 10.20.4.131
+01:44:02 r10-bmc sensor CPU0_Temp reading 60 C ok
+01:44:31 r13-bmc sensor CPU0_Temp reading 60 C ok
+01:44:50 pdu-a3 outlet 6 current 4.4 A within limit
+01:44:52 r15-bmc session closed for user svc_monitor from 10.20.0.75
+01:44:53 core-sw2 BGP neighbor 10.20.1.249 keepalive received
+01:44:56 core-sw2 Interface Ethernet1/40 link down
+01:45:00 r10-bmc heartbeat seq=21 ok
+01:45:00 r11-bmc heartbeat seq=21 ok
+01:45:00 r12-bmc heartbeat seq=21 ok
+01:45:00 r13-bmc heartbeat seq=21 ok
+01:45:00 r14-bmc heartbeat seq=21 ok
+01:45:00 r15-bmc heartbeat seq=21 ok
+01:45:03 r13-bmc fan FAN3 speed 8144 RPM ok
+01:45:04 r12-bmc SEL log 62% full
+01:45:16 r14-bmc sensor CPU1_Temp reading 66 C ok
+01:45:17 r10-bmc session closed for user svc_monitor from 10.20.4.29
+01:45:42 r14-bmc fan FAN4 speed 8859 RPM ok
+01:46:05 r12-bmc sensor CPU0_Temp reading 58 C ok
+01:46:07 r15-bmc sensor CPU0_Temp reading 51 C ok
+01:46:10 r11-bmc sensor CPU0_Temp reading 65 C ok
+01:46:35 r15-bmc sensor CPU1_Temp reading 48 C ok
+01:46:52 r13-bmc session closed for user svc_monitor from 10.20.8.78
+01:47:07 r12-bmc sensor CPU1_Temp reading 63 C ok
+01:47:19 r11-bmc fan FAN5 speed 9124 RPM ok
+01:47:21 r13-bmc sensor CPU0_Temp reading 66 C ok
+01:47:42 core-sw1 Interface Ethernet1/41 link up, speed 25G
+01:47:43 r12-bmc sensor CPU1_Temp reading 53 C ok
+01:48:11 r11-bmc sensor CPU1_Temp reading 62 C ok
+01:48:20 r15-bmc sensor CPU0_Temp reading 53 C ok
+01:48:45 r10-bmc session opened for user svc_monitor from 10.20.5.183
+01:48:57 core-sw1 Interface Ethernet1/8 link up, speed 25G
+01:49:09 r14-bmc sensor CPU0_Temp reading 50 C ok
+01:49:26 r14-bmc fan FAN5 speed 8214 RPM ok
+01:49:34 r11-bmc session closed for user svc_monitor from 10.20.3.108
+01:49:40 r13-bmc session opened for user svc_monitor from 10.20.7.58
+01:49:51 core-sw1 Interface Ethernet1/4 link down
+01:50:00 r10-bmc heartbeat seq=22 ok
+01:50:00 r11-bmc heartbeat seq=22 ok
+01:50:00 r12-bmc heartbeat seq=22 ok
+01:50:00 r13-bmc heartbeat seq=22 ok
+01:50:00 r14-bmc heartbeat seq=22 ok
+01:50:00 r15-bmc heartbeat seq=22 ok
+01:50:07 r15-bmc sensor CPU1_Temp reading 53 C ok
+01:50:28 r11-bmc fan FAN5 speed 8656 RPM ok
+01:50:29 r12-bmc session opened for user svc_monitor from 10.20.9.170
+01:50:41 r10-bmc session opened for user svc_monitor from 10.20.2.113
+01:50:55 r15-bmc session opened for user svc_monitor from 10.20.6.198
+01:51:03 r15-bmc fan FAN6 speed 8849 RPM ok
+01:51:04 r14-bmc fan FAN2 speed 8269 RPM ok
+01:51:18 core-sw2 BGP neighbor 10.20.4.213 keepalive received
+01:51:35 r11-bmc fan FAN1 speed 8981 RPM ok
+01:51:38 r15-bmc fan FAN6 speed 8047 RPM ok
+01:51:42 r11-bmc session closed for user svc_monitor from 10.20.5.179
+01:52:00 pdu-b3 outlet 8 current 0.6 A within limit
+01:52:03 r15-bmc sensor CPU0_Temp reading 51 C ok
+01:52:15 r15-bmc session opened for user svc_monitor from 10.20.1.83
+01:52:26 r10-bmc sensor CPU0_Temp reading 64 C ok
+01:52:59 core-sw2 BGP neighbor 10.20.5.44 keepalive received
+01:53:01 r11-bmc session closed for user svc_monitor from 10.20.4.27
+01:53:15 r13-bmc sensor CPU0_Temp reading 65 C ok
+01:53:22 r15-bmc session closed for user svc_monitor from 10.20.8.208
+01:53:46 core-sw1 BGP neighbor 10.20.7.135 keepalive received
+01:53:51 r13-bmc session opened for user svc_monitor from 10.20.1.55
+01:54:11 r11-bmc fan FAN1 speed 9063 RPM ok
+01:54:16 core-sw1 Interface Ethernet1/22 link up, speed 25G
+01:54:21 r14-bmc sensor CPU1_Temp reading 50 C ok
+01:54:29 r13-bmc fan FAN1 speed 7819 RPM ok
+01:54:30 core-sw2 Interface Ethernet1/9 link up, speed 25G
+01:54:40 r12-bmc sensor CPU0_Temp reading 60 C ok
+01:55:00 r10-bmc heartbeat seq=23 ok
+01:55:00 r11-bmc heartbeat seq=23 ok
+01:55:00 r12-bmc heartbeat seq=23 ok
+01:55:00 r13-bmc heartbeat seq=23 ok
+01:55:00 r14-bmc heartbeat seq=23 ok
+01:55:00 r15-bmc heartbeat seq=23 ok
+01:55:12 r13-bmc session opened for user svc_monitor from 10.20.0.87
+01:55:24 r10-bmc sensor CPU1_Temp reading 51 C ok
+01:55:42 r10-bmc fan FAN6 speed 8665 RPM ok
+01:55:56 r11-bmc fan FAN4 speed 7971 RPM ok
+01:56:04 r14-bmc fan FAN2 speed 8640 RPM ok
+01:56:09 r14-bmc sensor CPU0_Temp reading 55 C ok
+01:56:15 r14-bmc sensor CPU1_Temp reading 48 C ok
+01:56:48 pdu-a3 outlet 8 current 3.0 A within limit
+01:56:48 r10-bmc session closed for user svc_monitor from 10.20.3.10
+01:56:51 r10-bmc sensor CPU0_Temp reading 65 C ok
+01:57:01 r10-bmc fan FAN3 speed 8478 RPM ok
+01:57:08 r15-bmc session closed for user svc_monitor from 10.20.1.203
+01:57:12 r14-bmc fan FAN5 speed 8817 RPM ok
+01:57:40 r14-bmc sensor CPU0_Temp reading 48 C ok
+01:57:47 r14-bmc session opened for user svc_monitor from 10.20.4.88
+01:58:06 r12-bmc fan FAN3 speed 8612 RPM ok
+01:58:11 r14-bmc session closed for user svc_monitor from 10.20.3.143
+01:58:11 r15-bmc session closed for user svc_monitor from 10.20.2.97
+01:58:27 core-sw2 BGP neighbor 10.20.9.204 keepalive received
+01:59:20 r13-bmc sensor CPU0_Temp reading 57 C ok
+01:59:32 core-sw2 BGP neighbor 10.20.4.57 keepalive received
+01:59:41 core-sw2 Interface Ethernet1/44 link up, speed 25G
+01:59:44 r15-bmc sensor CPU0_Temp reading 63 C ok
+02:00:00 r10-bmc heartbeat seq=24 ok
+02:00:00 r11-bmc heartbeat seq=24 ok
+02:00:00 r12-bmc heartbeat seq=24 ok
+02:00:00 r13-bmc heartbeat seq=24 ok
+02:00:00 r14-bmc heartbeat seq=24 ok
+02:00:00 r15-bmc heartbeat seq=24 ok
+02:00:00 r15-bmc session opened for user svc_monitor from 10.20.2.68
+02:00:11 r14-bmc session opened for user svc_monitor from 10.20.9.16
+02:00:20 core-sw2 Interface Ethernet1/20 link down
+02:00:21 pdu-a3 outlet 20 current 0.9 A within limit
+02:00:30 r15-bmc sensor CPU1_Temp reading 64 C ok
+02:01:01 pdu-b3 outlet 3 current 1.1 A within limit
+02:01:16 r15-bmc fan FAN5 speed 8447 RPM ok
+02:01:35 r15-bmc sensor CPU1_Temp reading 61 C ok
+02:01:46 core-sw1 BGP neighbor 10.20.2.101 keepalive received
+02:01:46 core-sw2 BGP neighbor 10.20.3.215 keepalive received
+02:02:06 r14-bmc sensor CPU1_Temp reading 63 C ok
+02:02:13 r11-bmc fan FAN4 speed 8908 RPM ok
+02:02:29 r10-bmc fan FAN4 speed 8831 RPM ok
+02:02:35 r10-bmc fan FAN3 speed 8104 RPM ok
+02:02:49 r10-bmc session opened for user svc_monitor from 10.20.9.204
+02:03:15 core-sw1 Interface Ethernet1/39 link up, speed 25G
+02:03:28 r14-bmc fan FAN5 speed 7805 RPM ok
+02:03:29 r14-bmc fan FAN2 speed 8087 RPM ok
+02:03:32 r14-bmc session opened for user svc_monitor from 10.20.3.239
+02:03:34 r14-bmc sensor CPU0_Temp reading 60 C ok
+02:04:20 core-sw2 Interface Ethernet1/3 link up, speed 25G
+02:04:20 r11-bmc fan FAN4 speed 8323 RPM ok
+02:04:31 r12-bmc session opened for user svc_monitor from 10.20.6.191
+02:04:32 core-sw1 Interface Ethernet1/7 link up, speed 25G
+02:04:57 r15-bmc session opened for user svc_monitor from 10.20.4.190
+02:05:00 r10-bmc heartbeat seq=25 ok
+02:05:00 r11-bmc heartbeat seq=25 ok
+02:05:00 r12-bmc heartbeat seq=25 ok
+02:05:00 r13-bmc heartbeat seq=25 ok
+02:05:00 r14-bmc heartbeat seq=25 ok
+02:05:00 r15-bmc heartbeat seq=25 ok
+02:05:04 core-sw2 BGP neighbor 10.20.8.36 keepalive received
+02:05:05 r15-bmc fan FAN1 speed 9179 RPM ok
+02:05:15 r13-bmc fan FAN5 speed 8508 RPM ok
+02:05:39 r15-bmc sensor CPU1_Temp reading 66 C ok
+02:05:49 r10-bmc fan FAN6 speed 9166 RPM ok
+02:06:12 r12-bmc SEL log 86% full
+02:06:12 r13-bmc sensor CPU1_Temp reading 51 C ok
+02:06:18 r11-bmc sensor CPU0_Temp reading 54 C ok
+02:06:25 r15-bmc fan FAN6 speed 7940 RPM ok
+02:06:54 core-sw1 BGP neighbor 10.20.7.163 keepalive received
+02:07:19 r11-bmc sensor CPU0_Temp reading 56 C ok
+02:07:20 r14-bmc sensor CPU0_Temp reading 53 C ok
+02:07:20 r14-bmc session opened for user svc_monitor from 10.20.3.117
+02:07:42 r10-bmc sensor CPU0_Temp reading 51 C ok
+02:07:52 r15-bmc session opened for user svc_monitor from 10.20.6.243
+02:08:02 r10-bmc sensor CPU0_Temp reading 66 C ok
+02:08:19 r13-bmc sensor CPU1_Temp reading 55 C ok
+02:08:32 r11-bmc session closed for user svc_monitor from 10.20.4.89
+02:08:37 pdu-b3 outlet 6 current 2.7 A within limit
+02:08:59 core-sw2 Interface Ethernet1/1 link up, speed 25G
+02:09:07 core-sw2 Interface Ethernet1/17 link up, speed 25G
+02:09:13 r13-bmc fan FAN3 speed 8186 RPM ok
+02:09:23 r14-bmc sensor CPU0_Temp reading 65 C ok
+02:09:52 r15-bmc sensor CPU1_Temp reading 55 C ok
+02:09:56 core-sw1 Interface Ethernet1/9 link down
+02:10:00 r10-bmc heartbeat seq=26 ok
+02:10:00 r11-bmc heartbeat seq=26 ok
+02:10:00 r12-bmc heartbeat seq=26 ok
+02:10:00 r13-bmc heartbeat seq=26 ok
+02:10:00 r14-bmc heartbeat seq=26 ok
+02:10:00 r15-bmc heartbeat seq=26 ok
+02:10:09 r13-bmc sensor CPU0_Temp reading 64 C ok
+02:10:12 r11-bmc sensor CPU0_Temp reading 56 C ok
+02:10:17 core-sw2 BGP neighbor 10.20.8.224 keepalive received
+02:10:21 r12-bmc fan FAN3 speed 9193 RPM ok
+02:10:34 r14-bmc session opened for user svc_monitor from 10.20.0.89
+02:11:11 r13-bmc fan FAN1 speed 8969 RPM ok
+02:11:13 core-sw1 BGP neighbor 10.20.5.31 keepalive received
+02:11:13 r13-bmc session closed for user svc_monitor from 10.20.0.51
+02:11:36 r13-bmc sensor CPU1_Temp reading 61 C ok
+02:11:44 r13-bmc session opened for user svc_monitor from 10.20.0.234
+02:12:10 r10-bmc sensor CPU1_Temp reading 54 C ok
+02:12:18 r15-bmc fan FAN1 speed 8511 RPM ok
+02:12:28 r10-bmc session opened for user svc_monitor from 10.20.0.75
+02:12:36 r13-bmc sensor CPU1_Temp reading 50 C ok
+02:12:49 r15-bmc session opened for user svc_monitor from 10.20.9.17
+02:13:12 core-sw1 Interface Ethernet1/10 link down
+02:13:23 r15-bmc sensor CPU0_Temp reading 64 C ok
+02:13:27 r13-bmc fan FAN2 speed 8752 RPM ok
+02:13:58 core-sw2 BGP neighbor 10.20.9.150 keepalive received
+02:14:05 r11-bmc fan FAN5 speed 8525 RPM ok
+02:14:32 r14-bmc sensor CPU1_Temp reading 66 C ok
+02:14:39 r13-bmc fan FAN3 speed 8629 RPM ok
+02:14:44 r15-bmc sensor CPU0_Temp reading 53 C ok
+02:14:49 r11-bmc sensor CPU1_Temp reading 57 C ok
+02:14:50 r12-bmc sensor CPU0_Temp reading 58 C ok
+02:15:00 r10-bmc heartbeat seq=27 ok
+02:15:00 r11-bmc heartbeat seq=27 ok
+02:15:00 r12-bmc heartbeat seq=27 ok
+02:15:00 r13-bmc heartbeat seq=27 ok
+02:15:00 r14-bmc heartbeat seq=27 ok
+02:15:00 r15-bmc heartbeat seq=27 ok
+02:15:05 core-sw1 Interface Ethernet1/23 link up, speed 25G
+02:15:28 r13-bmc session opened for user svc_monitor from 10.20.7.93
+02:15:45 r10-bmc sensor CPU0_Temp reading 61 C ok
+02:15:55 core-sw1 Interface Ethernet1/39 link down
+02:15:59 r10-bmc session opened for user svc_monitor from 10.20.2.248
+02:16:12 r10-bmc sensor CPU0_Temp reading 65 C ok
+02:16:27 r11-bmc fan FAN6 speed 8061 RPM ok
+02:16:36 r15-bmc fan FAN4 speed 8508 RPM ok
+02:16:51 r11-bmc SEL log 62% full
+02:17:13 r14-bmc fan FAN1 speed 9109 RPM ok
+02:17:22 r11-bmc sensor CPU0_Temp reading 66 C ok
+02:17:23 r10-bmc sensor CPU0_Temp reading 54 C ok
+02:17:32 r11-bmc sensor CPU0_Temp reading 66 C ok
+02:17:43 core-sw1 Interface Ethernet1/45 link up, speed 25G
+02:18:06 r11-bmc fan FAN1 speed 8456 RPM ok
+02:18:08 pdu-a3 outlet 16 current 0.5 A within limit
+02:18:09 r14-bmc sensor CPU0_Temp reading 54 C ok
+02:18:13 r12-bmc sensor CPU1_Temp reading 58 C ok
+02:18:51 core-sw1 Interface Ethernet1/45 link up, speed 25G
+02:19:09 r11-bmc fan FAN3 speed 9006 RPM ok
+02:19:19 r13-bmc fan FAN2 speed 8001 RPM ok
+02:19:25 core-sw2 BGP neighbor 10.20.9.232 keepalive received
+02:19:36 core-sw1 BGP neighbor 10.20.7.155 keepalive received
+02:20:00 r10-bmc heartbeat seq=28 ok
+02:20:00 r11-bmc heartbeat seq=28 ok
+02:20:00 r12-bmc heartbeat seq=28 ok
+02:20:00 r13-bmc heartbeat seq=28 ok
+02:20:00 r14-bmc heartbeat seq=28 ok
+02:20:00 r15-bmc heartbeat seq=28 ok
+02:20:06 r15-bmc session closed for user svc_monitor from 10.20.8.21
+02:20:14 r14-bmc fan FAN6 speed 8273 RPM ok
+02:20:22 core-sw1 Interface Ethernet1/22 link down
+02:20:29 pdu-b3 outlet 13 current 1.7 A within limit
+02:20:31 r10-bmc sensor CPU0_Temp reading 62 C ok
+02:21:02 r15-bmc sensor CPU1_Temp reading 53 C ok
+02:21:14 core-sw2 BGP neighbor 10.20.4.142 keepalive received
+02:21:31 r13-bmc session closed for user svc_monitor from 10.20.4.191
+02:21:35 r12-bmc sensor CPU0_Temp reading 57 C ok
+02:21:39 core-sw1 BGP neighbor 10.20.9.60 keepalive received
+02:22:10 r13-bmc sensor CPU1_Temp reading 55 C ok
+02:22:12 r13-bmc sensor CPU0_Temp reading 57 C ok
+02:22:16 core-sw2 Interface Ethernet1/33 link up, speed 25G
+02:22:45 r14-bmc fan FAN3 speed 8277 RPM ok
+02:22:46 r14-bmc sensor CPU0_Temp reading 53 C ok
+02:23:21 r12-bmc fan FAN5 speed 8076 RPM ok
+02:23:28 r11-bmc session opened for user svc_monitor from 10.20.1.198
+02:23:31 r10-bmc fan FAN3 speed 8073 RPM ok
+02:23:33 r15-bmc session closed for user svc_monitor from 10.20.0.106
+02:23:49 r10-bmc session opened for user svc_monitor from 10.20.7.21
+02:24:00 r13-bmc fan FAN2 speed 8603 RPM ok
+02:24:17 r14-bmc sensor CPU0_Temp reading 63 C ok
+02:24:47 core-sw2 Interface Ethernet1/48 link down
+02:24:53 core-sw1 Interface Ethernet1/33 link up, speed 25G
+02:24:54 core-sw1 Interface Ethernet1/23 link down
+02:24:54 core-sw1 Interface Ethernet1/9 link up, speed 25G
+02:25:00 r10-bmc heartbeat seq=29 ok
+02:25:00 r11-bmc heartbeat seq=29 ok
+02:25:00 r12-bmc heartbeat seq=29 ok
+02:25:00 r13-bmc heartbeat seq=29 ok
+02:25:00 r14-bmc heartbeat seq=29 ok
+02:25:00 r15-bmc heartbeat seq=29 ok
+02:25:01 r12-bmc fan FAN2 speed 8735 RPM ok
+02:25:29 r13-bmc sensor CPU0_Temp reading 62 C ok
+02:25:38 r10-bmc sensor CPU1_Temp reading 59 C ok
+02:25:38 r15-bmc fan FAN5 speed 8268 RPM ok
+02:25:46 r12-bmc sensor CPU1_Temp reading 56 C ok
+02:26:24 r10-bmc sensor CPU1_Temp reading 50 C ok
+02:26:27 core-sw2 Interface Ethernet1/20 link up, speed 25G
+02:26:27 r14-bmc sensor CPU0_Temp reading 65 C ok
+02:26:28 core-sw2 Interface Ethernet1/18 link down
+02:26:46 core-sw1 Interface Ethernet1/33 link up, speed 25G
+02:26:57 r10-bmc session closed for user svc_monitor from 10.20.0.2
+02:27:01 r13-bmc session closed for user svc_monitor from 10.20.4.56
+02:27:20 r12-bmc sensor CPU1_Temp reading 54 C ok
+02:27:22 core-sw2 BGP neighbor 10.20.9.106 keepalive received
+02:27:26 core-sw1 BGP neighbor 10.20.2.30 keepalive received
+02:27:46 core-sw2 Interface Ethernet1/7 link up, speed 25G
+02:27:59 r13-bmc fan FAN4 speed 8973 RPM ok
+02:28:00 r11-bmc sensor CPU1_Temp reading 51 C ok
+02:28:03 core-sw1 BGP neighbor 10.20.4.106 keepalive received
+02:28:03 r10-bmc sensor CPU1_Temp reading 59 C ok
+02:28:18 r15-bmc fan FAN2 speed 8933 RPM ok
+02:28:23 core-sw2 BGP neighbor 10.20.3.174 keepalive received
+02:29:08 r13-bmc fan FAN5 speed 8322 RPM ok
+02:29:09 r15-bmc sensor CPU0_Temp reading 56 C ok
+02:29:14 core-sw2 Interface Ethernet1/40 link up, speed 25G
+02:29:33 core-sw1 Interface Ethernet1/9 link down
+02:29:41 r12-bmc SEL log 46% full
+02:29:57 core-sw1 BGP neighbor 10.20.2.35 keepalive received
+02:30:00 r10-bmc heartbeat seq=30 ok
+02:30:00 r11-bmc heartbeat seq=30 ok
+02:30:00 r12-bmc heartbeat seq=30 ok
+02:30:00 r13-bmc heartbeat seq=30 ok
+02:30:00 r14-bmc heartbeat seq=30 ok
+02:30:00 r15-bmc heartbeat seq=30 ok
+02:30:10 r12-bmc session closed for user svc_monitor from 10.20.0.183
+02:30:14 r14-bmc fan FAN4 speed 7947 RPM ok
+02:30:24 r12-bmc sensor CPU1_Temp reading 52 C ok
+02:30:42 core-sw1 Interface Ethernet1/19 link down
+02:31:28 core-sw2 BGP neighbor 10.20.4.183 keepalive received
+02:31:31 r10-bmc sensor CPU0_Temp reading 58 C ok
+02:31:36 r12-bmc session opened for user svc_monitor from 10.20.6.91
+02:31:44 r12-bmc sensor CPU1_Temp reading 65 C ok
+02:31:51 r13-bmc session opened for user svc_monitor from 10.20.3.87
+02:32:07 r10-bmc sensor CPU0_Temp reading 52 C ok
+02:32:23 r12-bmc session closed for user svc_monitor from 10.20.9.169
+02:32:30 r12-bmc sensor CPU1_Temp reading 63 C ok
+02:32:31 r14-bmc fan FAN1 speed 7913 RPM ok
+02:32:46 r13-bmc sensor CPU0_Temp reading 58 C ok
+02:32:54 r10-bmc session opened for user svc_monitor from 10.20.2.125
+02:33:10 r11-bmc sensor CPU0_Temp reading 55 C ok
+02:33:10 r15-bmc sensor CPU0_Temp reading 52 C ok
+02:33:11 core-sw2 Interface Ethernet1/23 link down
+02:33:20 r14-bmc sensor CPU0_Temp reading 51 C ok
+02:33:22 r13-bmc sensor CPU0_Temp reading 48 C ok
+02:33:44 pdu-b3 outlet 12 current 4.2 A within limit
+02:34:05 r13-bmc fan FAN4 speed 8494 RPM ok
+02:34:16 r14-bmc session opened for user svc_monitor from 10.20.2.129
+02:34:30 pdu-a3 outlet 9 current 3.8 A within limit
+02:34:32 core-sw2 Interface Ethernet1/21 link up, speed 25G
+02:34:42 r11-bmc fan FAN1 speed 9007 RPM ok
+02:34:55 core-sw2 BGP neighbor 10.20.5.27 keepalive received
+02:35:00 r10-bmc heartbeat seq=31 ok
+02:35:00 r11-bmc heartbeat seq=31 ok
+02:35:00 r12-bmc heartbeat seq=31 ok
+02:35:00 r13-bmc heartbeat seq=31 ok
+02:35:00 r14-bmc heartbeat seq=31 ok
+02:35:00 r15-bmc heartbeat seq=31 ok
+02:35:19 core-sw1 BGP neighbor 10.20.9.10 keepalive received
+02:35:43 r15-bmc sensor CPU0_Temp reading 60 C ok
+02:35:46 r10-bmc fan FAN5 speed 8208 RPM ok
+02:35:51 core-sw2 BGP neighbor 10.20.5.228 keepalive received
+02:35:59 r15-bmc sensor CPU1_Temp reading 54 C ok
+02:36:08 r13-bmc session opened for user svc_monitor from 10.20.8.236
+02:36:22 core-sw1 Interface Ethernet1/18 link up, speed 25G
+02:36:44 r14-bmc fan FAN2 speed 8002 RPM ok
+02:36:44 r15-bmc fan FAN1 speed 8679 RPM ok
+02:36:55 r15-bmc sensor CPU1_Temp reading 56 C ok
+02:37:07 r13-bmc fan FAN2 speed 8531 RPM ok
+02:37:18 core-sw2 Interface Ethernet1/43 link up, speed 25G
+02:37:21 core-sw2 Interface Ethernet1/29 link up, speed 25G
+02:37:30 core-sw1 Interface Ethernet1/2 link up, speed 25G
+02:37:31 r15-bmc sensor CPU1_Temp reading 58 C ok
+02:37:48 r13-bmc sensor CPU0_Temp reading 61 C ok
+02:38:04 r12-bmc sensor CPU0_Temp reading 66 C ok
+02:38:10 r13-bmc fan FAN6 speed 8882 RPM ok
+02:38:23 core-sw2 Interface Ethernet1/40 link up, speed 25G
+02:38:48 r11-bmc session closed for user svc_monitor from 10.20.2.164
+02:38:58 r14-bmc session opened for user svc_monitor from 10.20.8.246
+02:39:00 core-sw2 Interface Ethernet1/48 link up, speed 25G
+02:39:41 r15-bmc session opened for user svc_monitor from 10.20.5.101
+02:39:42 r12-bmc sensor CPU0_Temp reading 58 C ok
+02:39:47 r10-bmc fan FAN2 speed 8571 RPM ok
+02:39:50 r12-bmc sensor CPU0_Temp reading 48 C ok
+02:40:00 r10-bmc heartbeat seq=32 ok
+02:40:00 r11-bmc heartbeat seq=32 ok
+02:40:00 r12-bmc heartbeat seq=32 ok
+02:40:00 r13-bmc heartbeat seq=32 ok
+02:40:00 r14-bmc heartbeat seq=32 ok
+02:40:00 r15-bmc heartbeat seq=32 ok
+02:40:01 r13-bmc sensor CPU0_Temp reading 62 C ok
+02:40:15 r15-bmc session opened for user svc_monitor from 10.20.1.197
+02:40:32 r14-bmc session opened for user svc_monitor from 10.20.4.81
+02:40:54 r10-bmc sensor CPU0_Temp reading 64 C ok
+02:40:55 r10-bmc sensor CPU0_Temp reading 52 C ok
+02:40:59 r11-bmc sensor CPU1_Temp reading 59 C ok
+02:41:01 r13-bmc fan FAN6 speed 8773 RPM ok
+02:41:19 r15-bmc session closed for user svc_monitor from 10.20.3.226
+02:41:19 r15-bmc session opened for user svc_monitor from 10.20.8.223
+02:41:37 r10-bmc SEL log 39% full
+02:41:53 r15-bmc fan FAN5 speed 9058 RPM ok
+02:41:57 core-sw2 Interface Ethernet1/42 link up, speed 25G
+02:42:27 r14-bmc sensor CPU0_Temp reading 56 C ok
+02:42:27 r15-bmc fan FAN3 speed 9108 RPM ok
+02:42:42 r11-bmc sensor CPU1_Temp reading 64 C ok
+02:42:54 r13-bmc fan FAN2 speed 8780 RPM ok
+02:43:11 r11-bmc sensor CPU1_Temp reading 49 C ok
+02:43:16 core-sw1 Interface Ethernet1/1 link up, speed 25G
+02:43:53 r12-bmc sensor CPU0_Temp reading 57 C ok
+02:43:56 r13-bmc fan FAN5 speed 9020 RPM ok
+02:44:18 r11-bmc fan FAN3 speed 8308 RPM ok
+02:44:23 r13-bmc session closed for user svc_monitor from 10.20.9.4
+02:44:35 r14-bmc session closed for user svc_monitor from 10.20.4.24
+02:44:40 r15-bmc session closed for user svc_monitor from 10.20.2.238
+02:44:46 r14-bmc session opened for user svc_monitor from 10.20.2.218
+02:45:00 core-sw2 BGP neighbor 10.20.6.214 keepalive received
+02:45:00 r10-bmc heartbeat seq=33 ok
+02:45:00 r11-bmc heartbeat seq=33 ok
+02:45:00 r12-bmc heartbeat seq=33 ok
+02:45:00 r13-bmc heartbeat seq=33 ok
+02:45:00 r14-bmc heartbeat seq=33 ok
+02:45:00 r15-bmc heartbeat seq=33 ok
+02:45:30 core-sw1 Interface Ethernet1/48 link up, speed 25G
+02:45:34 r14-bmc fan FAN4 speed 8993 RPM ok
+02:45:36 r10-bmc sensor CPU0_Temp reading 66 C ok
+02:46:00 r10-bmc session closed for user svc_monitor from 10.20.6.184
+02:46:19 core-sw2 BGP neighbor 10.20.9.71 keepalive received
+02:46:26 pdu-a3 outlet 24 current 1.9 A within limit
+02:46:31 pdu-b3 outlet 24 current 3.8 A within limit
+02:46:35 r14-bmc fan FAN4 speed 8623 RPM ok
+02:47:15 r12-bmc fan FAN6 speed 7888 RPM ok
+02:47:21 core-sw2 BGP neighbor 10.20.3.50 keepalive received
+02:47:27 r14-bmc session opened for user svc_monitor from 10.20.9.207
+02:47:59 r12-bmc sensor CPU1_Temp reading 56 C ok
+02:48:18 r14-bmc session closed for user svc_monitor from 10.20.4.83
+02:48:19 r14-bmc sensor CPU0_Temp reading 62 C ok
+02:48:26 r13-bmc SEL log 81% full
+02:48:26 r13-bmc sensor CPU0_Temp reading 53 C ok
+02:48:38 core-sw1 BGP neighbor 10.20.5.138 keepalive received
+02:49:02 core-sw1 BGP neighbor 10.20.8.73 keepalive received
+02:49:14 r11-bmc sensor CPU0_Temp reading 48 C ok
+02:49:22 r13-bmc sensor CPU1_Temp reading 56 C ok
+02:49:29 r14-bmc fan FAN1 speed 8995 RPM ok
+02:49:43 r14-bmc fan FAN2 speed 8696 RPM ok
+02:49:57 r14-bmc sensor CPU1_Temp reading 56 C ok
+02:50:00 r10-bmc heartbeat seq=34 ok
+02:50:00 r11-bmc heartbeat seq=34 ok
+02:50:00 r12-bmc heartbeat seq=34 ok
+02:50:00 r13-bmc heartbeat seq=34 ok
+02:50:00 r14-bmc heartbeat seq=34 ok
+02:50:00 r15-bmc heartbeat seq=34 ok
+02:50:01 core-sw1 Interface Ethernet1/28 link up, speed 25G
+02:50:16 core-sw1 BGP neighbor 10.20.7.118 keepalive received
+02:50:21 r13-bmc sensor CPU1_Temp reading 60 C ok
+02:50:30 core-sw2 BGP neighbor 10.20.6.54 keepalive received
+02:50:34 r11-bmc session opened for user svc_monitor from 10.20.4.162
+02:50:57 core-sw2 BGP neighbor 10.20.9.72 keepalive received
+02:51:15 r13-bmc session closed for user svc_monitor from 10.20.4.32
+02:51:22 r11-bmc sensor CPU1_Temp reading 58 C ok
+02:51:31 r15-bmc session closed for user svc_monitor from 10.20.4.82
+02:51:33 r15-bmc sensor CPU1_Temp reading 59 C ok
+02:51:49 r12-bmc SEL log 27% full
+02:52:01 r14-bmc fan FAN4 speed 9011 RPM ok
+02:52:13 r12-bmc fan FAN4 speed 7892 RPM ok
+02:52:29 core-sw1 Interface Ethernet1/15 link down
+02:52:40 r12-bmc session closed for user svc_monitor from 10.20.9.237
+02:53:03 core-sw2 Interface Ethernet1/8 link up, speed 25G
+02:53:07 core-sw2 Interface Ethernet1/30 link up, speed 25G
+02:53:20 r14-bmc sensor CPU1_Temp reading 48 C ok
+02:53:38 r10-bmc sensor CPU1_Temp reading 59 C ok
+02:53:45 r14-bmc fan FAN3 speed 8242 RPM ok
+02:54:10 r13-bmc session closed for user svc_monitor from 10.20.2.56
+02:54:40 r13-bmc fan FAN4 speed 8021 RPM ok
+02:54:49 r14-bmc fan FAN1 speed 8305 RPM ok
+02:54:54 r14-bmc fan FAN5 speed 9071 RPM ok
+02:55:00 r10-bmc heartbeat seq=35 ok
+02:55:00 r11-bmc heartbeat seq=35 ok
+02:55:00 r12-bmc heartbeat seq=35 ok
+02:55:00 r13-bmc heartbeat seq=35 ok
+02:55:00 r14-bmc heartbeat seq=35 ok
+02:55:00 r15-bmc heartbeat seq=35 ok
+02:55:26 r15-bmc fan FAN6 speed 8229 RPM ok
+02:55:32 r10-bmc fan FAN6 speed 7874 RPM ok
+02:55:34 r13-bmc sensor CPU0_Temp reading 61 C ok
+02:55:36 core-sw1 BGP neighbor 10.20.2.226 keepalive received
+02:55:37 core-sw1 Interface Ethernet1/7 link up, speed 25G
+02:56:08 core-sw1 Interface Ethernet1/30 link down
+02:56:29 r11-bmc sensor CPU0_Temp reading 65 C ok
+02:56:39 r15-bmc fan FAN4 speed 8662 RPM ok
+02:56:42 r14-bmc session opened for user svc_monitor from 10.20.6.144
+02:56:47 core-sw1 Interface Ethernet1/42 link up, speed 25G
+02:57:07 core-sw2 Interface Ethernet1/28 link up, speed 25G
+02:57:17 pdu-a3 outlet 17 current 0.4 A within limit
+02:57:23 core-sw2 Interface Ethernet1/11 link up, speed 25G
+02:57:24 core-sw2 BGP neighbor 10.20.9.80 keepalive received
+02:57:46 r15-bmc sensor CPU0_Temp reading 66 C ok
+02:57:55 r14-bmc fan FAN4 speed 8249 RPM ok
+02:58:19 core-sw2 Interface Ethernet1/7 link up, speed 25G
+02:58:40 r11-bmc sensor CPU0_Temp reading 57 C ok
+02:58:54 core-sw2 Interface Ethernet1/13 link up, speed 25G
+02:58:54 r14-bmc fan FAN4 speed 8628 RPM ok
+02:58:59 core-sw2 Interface Ethernet1/43 link up, speed 25G
+02:59:11 r11-bmc sensor CPU0_Temp reading 63 C ok
+02:59:23 r15-bmc fan FAN1 speed 9073 RPM ok
+02:59:44 r12-bmc fan FAN3 speed 8406 RPM ok
+02:59:47 r12-bmc fan FAN2 speed 8306 RPM ok
+02:59:54 r11-bmc fan FAN6 speed 8303 RPM ok
+03:00:00 r10-bmc heartbeat seq=36 ok
+03:00:00 r11-bmc heartbeat seq=36 ok
+03:00:00 r12-bmc heartbeat seq=36 ok
+03:00:00 r13-bmc heartbeat seq=36 ok
+03:00:00 r14-bmc heartbeat seq=36 ok
+03:00:00 r15-bmc heartbeat seq=36 ok
+03:00:01 r10-bmc session opened for user svc_monitor from 10.20.8.154
+03:00:03 r15-bmc sensor CPU0_Temp reading 54 C ok
+03:00:15 r15-bmc fan FAN2 speed 9061 RPM ok
+03:00:21 r10-bmc fan FAN3 speed 8067 RPM ok
+03:00:43 pdu-a3 outlet 3 current 1.2 A within limit
+03:01:04 r12-bmc session closed for user svc_monitor from 10.20.4.227
+03:01:30 r15-bmc session closed for user svc_monitor from 10.20.8.42
+03:01:36 r15-bmc sensor CPU0_Temp reading 53 C ok
+03:01:40 r10-bmc fan FAN1 speed 8477 RPM ok
+03:01:47 r13-bmc session opened for user svc_monitor from 10.20.0.153
+03:02:11 core-sw1 Interface Ethernet1/34 link up, speed 25G
+03:02:12 r14-bmc sensor CPU0_Temp reading 50 C ok
+03:02:17 r14-bmc session opened for user svc_monitor from 10.20.2.110
+03:02:43 r10-bmc sensor CPU1_Temp reading 55 C ok
+03:02:56 core-sw2 Interface Ethernet1/44 link up, speed 25G
+03:03:13 r13-bmc fan FAN2 speed 7914 RPM ok
+03:03:19 pdu-b3 outlet 16 current 0.5 A within limit
+03:03:27 r10-bmc fan FAN2 speed 8168 RPM ok
+03:03:39 r14-bmc session opened for user svc_monitor from 10.20.2.206
+03:03:47 core-sw1 Interface Ethernet1/21 link up, speed 25G
+03:03:49 r11-bmc session opened for user svc_monitor from 10.20.7.189
+03:04:03 r11-bmc fan FAN3 speed 7933 RPM ok
+03:04:24 pdu-b3 outlet 19 current 2.5 A within limit
+03:04:40 r11-bmc sensor CPU0_Temp reading 53 C ok
+03:04:47 r12-bmc fan FAN4 speed 8660 RPM ok
+03:04:56 r12-bmc fan FAN6 speed 8201 RPM ok
+03:05:00 r10-bmc heartbeat seq=37 ok
+03:05:00 r11-bmc heartbeat seq=37 ok
+03:05:00 r12-bmc heartbeat seq=37 ok
+03:05:00 r13-bmc heartbeat seq=37 ok
+03:05:00 r14-bmc heartbeat seq=37 ok
+03:05:00 r15-bmc heartbeat seq=37 ok
+03:05:02 r11-bmc SEL log 63% full
+03:05:17 r12-bmc session closed for user svc_monitor from 10.20.0.172
+03:05:21 r10-bmc session opened for user svc_monitor from 10.20.0.104
+03:05:43 r15-bmc sensor CPU0_Temp reading 64 C ok
+03:05:50 r14-bmc fan FAN3 speed 8205 RPM ok
+03:06:28 r15-bmc fan FAN6 speed 8376 RPM ok
+03:06:33 r12-bmc sensor CPU1_Temp reading 61 C ok
+03:06:39 r13-bmc session closed for user svc_monitor from 10.20.1.138
+03:06:46 core-sw2 BGP neighbor 10.20.1.30 keepalive received
+03:07:00 r15-bmc sensor CPU1_Temp reading 66 C ok
+03:07:07 core-sw2 BGP neighbor 10.20.8.193 keepalive received
+03:07:16 core-sw2 BGP neighbor 10.20.1.80 keepalive received
+03:07:23 r14-bmc fan FAN3 speed 8189 RPM ok
+03:07:39 r14-bmc fan FAN3 speed 8377 RPM ok
+03:08:12 r15-bmc session opened for user svc_monitor from 10.20.5.194
+03:08:14 r13-bmc sensor CPU1_Temp reading 61 C ok
+03:08:17 pdu-a3 outlet 14 current 3.1 A within limit
+03:08:22 r11-bmc sensor CPU0_Temp reading 52 C ok
+03:08:46 core-sw1 BGP neighbor 10.20.3.89 keepalive received
+03:09:29 core-sw1 BGP neighbor 10.20.0.39 keepalive received
+03:09:44 core-sw1 Interface Ethernet1/15 link up, speed 25G
+03:09:56 r10-bmc sensor CPU1_Temp reading 57 C ok
+03:09:57 r12-bmc sensor CPU0_Temp reading 53 C ok
+03:10:00 r10-bmc heartbeat seq=38 ok
+03:10:00 r11-bmc heartbeat seq=38 ok
+03:10:00 r12-bmc heartbeat seq=38 ok
+03:10:00 r13-bmc heartbeat seq=38 ok
+03:10:00 r14-bmc heartbeat seq=38 ok
+03:10:00 r15-bmc heartbeat seq=38 ok
+03:10:04 core-sw2 BGP neighbor 10.20.9.20 keepalive received
+03:10:06 r10-bmc fan FAN6 speed 9194 RPM ok
+03:10:27 r13-bmc sensor CPU0_Temp reading 66 C ok
+03:10:51 r12-bmc sensor CPU1_Temp reading 59 C ok
+03:11:05 r13-bmc sensor CPU0_Temp reading 52 C ok
+03:11:12 r13-bmc sensor CPU0_Temp reading 63 C ok
+03:11:43 r11-bmc fan FAN6 speed 9189 RPM ok
+03:11:47 r11-bmc SEL log 58% full
+03:11:48 pdu-a3 outlet 10 current 2.8 A within limit
+03:11:59 r15-bmc SEL log 47% full
+03:12:14 core-sw2 Interface Ethernet1/47 link up, speed 25G
+03:12:26 pdu-b3 outlet 20 current 3.4 A within limit
+03:12:27 core-sw1 BGP neighbor 10.20.2.177 keepalive received
+03:12:43 r10-bmc sensor CPU0_Temp reading 63 C ok
+03:12:54 r12-bmc session closed for user svc_monitor from 10.20.9.193
+03:13:02 r14-bmc sensor CPU1_Temp reading 52 C ok
+03:13:19 r14-bmc fan FAN6 speed 8317 RPM ok
+03:13:25 core-sw1 Interface Ethernet1/14 link up, speed 25G
+03:13:39 r11-bmc sensor CPU1_Temp reading 66 C ok
+03:13:40 r15-bmc sensor CPU0_Temp reading 49 C ok
+03:14:00 r12-bmc sensor CPU0_Temp reading 56 C ok
+03:14:16 r10-bmc session closed for user svc_monitor from 10.20.7.222
+03:14:20 r12-bmc sensor CPU1_Temp reading 50 C ok
+03:14:38 core-sw2 Interface Ethernet1/14 link up, speed 25G
+03:14:43 core-sw1 Interface Ethernet1/15 link up, speed 25G
+03:15:00 r10-bmc heartbeat seq=39 ok
+03:15:00 r11-bmc heartbeat seq=39 ok
+03:15:00 r12-bmc heartbeat seq=39 ok
+03:15:00 r13-bmc heartbeat seq=39 ok
+03:15:00 r14-bmc heartbeat seq=39 ok
+03:15:00 r15-bmc heartbeat seq=39 ok
+03:15:06 r13-bmc sensor CPU1_Temp reading 65 C ok
+03:15:11 r13-bmc fan FAN4 speed 9011 RPM ok
+03:15:20 r15-bmc session opened for user svc_monitor from 10.20.6.150
+03:15:53 r13-bmc sensor CPU0_Temp reading 65 C ok
+03:16:35 r11-bmc sensor CPU1_Temp reading 55 C ok
+03:16:38 r15-bmc fan FAN6 speed 8426 RPM ok
+03:16:40 r15-bmc fan FAN3 speed 8960 RPM ok
+03:16:58 r15-bmc sensor CPU1_Temp reading 56 C ok
+03:17:03 r10-bmc fan FAN1 speed 8009 RPM ok
+03:17:28 r11-bmc sensor CPU0_Temp reading 59 C ok
+03:17:29 r14-bmc sensor CPU0_Temp reading 66 C ok
+03:17:37 r11-bmc SEL log 69% full
+03:17:42 r14-bmc sensor CPU0_Temp reading 49 C ok
+03:18:18 r12-bmc fan FAN6 speed 8103 RPM ok
+03:18:31 r15-bmc sensor CPU1_Temp reading 57 C ok
+03:18:42 r11-bmc session closed for user svc_monitor from 10.20.7.238
+03:18:47 core-sw1 Interface Ethernet1/39 link up, speed 25G
+03:18:50 r13-bmc sensor CPU1_Temp reading 61 C ok
+03:19:01 pdu-b3 outlet 23 current 2.3 A within limit
+03:19:01 r12-bmc fan FAN6 speed 8067 RPM ok
+03:19:33 core-sw1 BGP neighbor 10.20.6.162 keepalive received
+03:19:36 r15-bmc fan FAN4 speed 9099 RPM ok
+03:19:57 r15-bmc sensor CPU0_Temp reading 58 C ok
+03:20:00 r10-bmc heartbeat seq=40 ok
+03:20:00 r11-bmc heartbeat seq=40 ok
+03:20:00 r12-bmc heartbeat seq=40 ok
+03:20:00 r13-bmc heartbeat seq=40 ok
+03:20:00 r14-bmc heartbeat seq=40 ok
+03:20:00 r15-bmc heartbeat seq=40 ok
+03:20:04 r14-bmc sensor CPU0_Temp reading 63 C ok
+03:20:21 r10-bmc fan FAN5 speed 8842 RPM ok
+03:20:26 r11-bmc fan FAN5 speed 8132 RPM ok
+03:20:31 r13-bmc session closed for user svc_monitor from 10.20.2.110
+03:20:38 r13-bmc fan FAN2 speed 8228 RPM ok
+03:21:00 pdu-a3 outlet 16 current 4.3 A within limit
+03:21:03 r14-bmc fan FAN6 speed 8372 RPM ok
+03:21:36 core-sw2 Interface Ethernet1/5 link up, speed 25G
+03:21:50 r10-bmc fan FAN2 speed 8551 RPM ok
+03:21:52 r15-bmc fan FAN6 speed 8882 RPM ok
+03:22:00 r12-bmc sensor CPU1_Temp reading 62 C ok
+03:22:16 core-sw2 Interface Ethernet1/6 link up, speed 25G
+03:22:27 r12-bmc session closed for user svc_monitor from 10.20.8.184
+03:22:35 r15-bmc sensor CPU0_Temp reading 53 C ok
+03:22:50 r11-bmc sensor CPU1_Temp reading 51 C ok
+03:23:03 r13-bmc sensor CPU1_Temp reading 64 C ok
+03:23:14 r12-bmc sensor CPU0_Temp reading 55 C ok
+03:23:18 r14-bmc sensor CPU0_Temp reading 59 C ok
+03:23:38 r14-bmc sensor CPU0_Temp reading 55 C ok
+03:23:50 core-sw1 Interface Ethernet1/32 link down
+03:23:51 r15-bmc sensor CPU1_Temp reading 56 C ok
+03:24:01 r12-bmc sensor CPU1_Temp reading 57 C ok
+03:24:20 core-sw1 Interface Ethernet1/20 link up, speed 25G
+03:24:36 r14-bmc session opened for user svc_monitor from 10.20.4.17
+03:24:53 r14-bmc SEL log 80% full
+03:24:54 r11-bmc sensor CPU1_Temp reading 53 C ok
+03:25:00 r10-bmc heartbeat seq=41 ok
+03:25:00 r11-bmc heartbeat seq=41 ok
+03:25:00 r12-bmc heartbeat seq=41 ok
+03:25:00 r13-bmc heartbeat seq=41 ok
+03:25:00 r14-bmc heartbeat seq=41 ok
+03:25:00 r15-bmc heartbeat seq=41 ok
+03:25:02 r10-bmc session closed for user svc_monitor from 10.20.0.226
+03:25:15 r13-bmc fan FAN5 speed 8408 RPM ok
+03:25:17 r12-bmc fan FAN1 speed 9060 RPM ok
+03:25:22 core-sw1 Interface Ethernet1/27 link up, speed 25G
+03:25:23 r10-bmc session closed for user svc_monitor from 10.20.7.173
+03:25:40 r10-bmc sensor CPU1_Temp reading 49 C ok
+03:26:00 r11-bmc sensor CPU0_Temp reading 60 C ok
+03:26:02 r14-bmc sensor CPU1_Temp reading 48 C ok
+03:26:11 core-sw1 Interface Ethernet1/17 link up, speed 25G
+03:26:11 r15-bmc sensor CPU1_Temp reading 54 C ok
+03:26:13 r15-bmc sensor CPU0_Temp reading 57 C ok
+03:26:27 pdu-a3 outlet 2 current 2.6 A within limit
+03:27:15 core-sw2 Interface Ethernet1/33 link up, speed 25G
+03:27:17 core-sw1 Interface Ethernet1/2 link up, speed 25G
+03:27:19 core-sw2 Interface Ethernet1/7 link down
+03:27:28 core-sw1 BGP neighbor 10.20.5.46 keepalive received
+03:27:31 r15-bmc fan FAN2 speed 8813 RPM ok
+03:28:24 pdu-a3 outlet 22 current 0.7 A within limit
+03:28:26 r14-bmc sensor CPU1_Temp reading 55 C ok
+03:28:33 r10-bmc session opened for user svc_monitor from 10.20.6.233
+03:28:42 r10-bmc fan FAN6 speed 8888 RPM ok
+03:28:49 r14-bmc fan FAN3 speed 7869 RPM ok
+03:28:51 r10-bmc fan FAN1 speed 8878 RPM ok
+03:29:03 r12-bmc sensor CPU0_Temp reading 53 C ok
+03:29:25 core-sw1 BGP neighbor 10.20.7.74 keepalive received
+03:29:26 r14-bmc session closed for user svc_monitor from 10.20.6.176
+03:29:33 core-sw1 Interface Ethernet1/36 link up, speed 25G
+03:29:41 r13-bmc fan FAN1 speed 8909 RPM ok
+03:29:47 r11-bmc sensor CPU1_Temp reading 57 C ok
+03:30:00 r10-bmc heartbeat seq=42 ok
+03:30:00 r11-bmc heartbeat seq=42 ok
+03:30:00 r12-bmc heartbeat seq=42 ok
+03:30:00 r13-bmc heartbeat seq=42 ok
+03:30:00 r14-bmc heartbeat seq=42 ok
+03:30:00 r15-bmc heartbeat seq=42 ok
+03:30:04 core-sw1 BGP neighbor 10.20.7.60 keepalive received
+03:30:10 r10-bmc sensor CPU0_Temp reading 61 C ok
+03:30:43 r11-bmc sensor CPU1_Temp reading 61 C ok
+03:30:45 r11-bmc sensor CPU0_Temp reading 48 C ok
+03:30:46 r13-bmc fan FAN2 speed 9177 RPM ok
+03:31:01 r11-bmc sensor CPU1_Temp reading 60 C ok
+03:31:09 core-sw2 Interface Ethernet1/41 link up, speed 25G
+03:31:22 r13-bmc sensor CPU0_Temp reading 65 C ok
+03:31:39 r10-bmc session opened for user svc_monitor from 10.20.3.135
+03:31:41 r11-bmc sensor CPU1_Temp reading 53 C ok
+03:32:32 core-sw1 Interface Ethernet1/4 link up, speed 25G
+03:32:41 core-sw2 BGP neighbor 10.20.1.203 keepalive received
+03:32:44 r14-bmc sensor CPU1_Temp reading 65 C ok
+03:32:56 r10-bmc session closed for user svc_monitor from 10.20.0.85
+03:33:00 r10-bmc fan FAN3 speed 8576 RPM ok
+03:33:07 core-sw2 Interface Ethernet1/4 link down
+03:33:16 r11-bmc session closed for user svc_monitor from 10.20.6.28
+03:33:19 r15-bmc session opened for user svc_monitor from 10.20.9.47
+03:33:44 core-sw2 BGP neighbor 10.20.1.149 keepalive received
+03:34:07 r10-bmc sensor CPU1_Temp reading 54 C ok
+03:34:18 r14-bmc sensor CPU0_Temp reading 61 C ok
+03:34:22 core-sw2 BGP neighbor 10.20.5.145 keepalive received
+03:34:32 r14-bmc fan FAN3 speed 8164 RPM ok
+03:34:34 r10-bmc session closed for user svc_monitor from 10.20.3.156
+03:34:56 core-sw1 BGP neighbor 10.20.9.202 keepalive received
+03:35:00 r10-bmc heartbeat seq=43 ok
+03:35:00 r11-bmc heartbeat seq=43 ok
+03:35:00 r12-bmc heartbeat seq=43 ok
+03:35:00 r13-bmc heartbeat seq=43 ok
+03:35:00 r14-bmc heartbeat seq=43 ok
+03:35:00 r15-bmc heartbeat seq=43 ok
+03:35:09 r13-bmc fan FAN5 speed 8423 RPM ok
+03:35:12 r13-bmc fan FAN1 speed 8148 RPM ok
+03:35:16 r11-bmc fan FAN4 speed 8518 RPM ok
+03:35:31 core-sw2 Interface Ethernet1/3 link up, speed 25G
+03:35:33 core-sw1 Interface Ethernet1/32 link up, speed 25G
+03:36:19 core-sw2 BGP neighbor 10.20.6.234 keepalive received
+03:36:20 r10-bmc fan FAN6 speed 8947 RPM ok
+03:36:36 r14-bmc sensor CPU0_Temp reading 58 C ok
+03:36:53 r12-bmc fan FAN5 speed 8791 RPM ok
+03:37:09 r13-bmc sensor CPU1_Temp reading 53 C ok
+03:37:13 r15-bmc sensor CPU0_Temp reading 56 C ok
+03:37:41 r11-bmc session opened for user svc_monitor from 10.20.1.237
+03:37:45 r13-bmc sensor CPU0_Temp reading 60 C ok
+03:37:59 pdu-a3 outlet 20 current 3.0 A within limit
+03:38:01 core-sw1 BGP neighbor 10.20.8.239 keepalive received
+03:38:05 pdu-a3 outlet 1 current 4.1 A within limit
+03:38:12 r10-bmc sensor CPU0_Temp reading 51 C ok
+03:38:24 core-sw1 BGP neighbor 10.20.5.105 keepalive received
+03:38:27 r15-bmc sensor CPU0_Temp reading 54 C ok
+03:39:05 r12-bmc sensor CPU1_Temp reading 60 C ok
+03:39:10 r13-bmc sensor CPU1_Temp reading 56 C ok
+03:39:20 r14-bmc sensor CPU1_Temp reading 48 C ok
+03:39:38 core-sw1 Interface Ethernet1/46 link up, speed 25G
+03:40:00 r10-bmc heartbeat seq=44 ok
+03:40:00 r11-bmc heartbeat seq=44 ok
+03:40:00 r12-bmc heartbeat seq=44 ok
+03:40:00 r13-bmc heartbeat seq=44 ok
+03:40:00 r14-bmc heartbeat seq=44 ok
+03:40:00 r15-bmc heartbeat seq=44 ok
+03:40:02 r15-bmc sensor CPU1_Temp reading 55 C ok
+03:40:11 core-sw2 BGP neighbor 10.20.3.57 keepalive received
+03:40:13 r13-bmc fan FAN4 speed 9166 RPM ok
+03:40:27 core-sw2 BGP neighbor 10.20.7.63 keepalive received
+03:40:53 r13-bmc SEL log 27% full
+03:41:09 core-sw2 Interface Ethernet1/11 link down
+03:41:28 pdu-a3 outlet 3 current 4.6 A within limit
+03:41:38 core-sw1 Interface Ethernet1/3 link up, speed 25G
+03:41:44 r14-bmc session closed for user svc_monitor from 10.20.4.141
+03:41:48 core-sw1 BGP neighbor 10.20.3.156 keepalive received
+03:42:01 pdu-a3 outlet 19 current 3.2 A within limit
+03:42:10 core-sw1 BGP neighbor 10.20.0.184 keepalive received
+03:42:10 r13-bmc session closed for user svc_monitor from 10.20.0.40
+03:42:16 r11-bmc session opened for user svc_monitor from 10.20.7.197
+03:42:45 pdu-a3 outlet 13 current 3.6 A within limit
+03:43:20 r11-bmc sensor CPU1_Temp reading 63 C ok
+03:43:30 r14-bmc session closed for user svc_monitor from 10.20.8.216
+03:43:34 r11-bmc session closed for user svc_monitor from 10.20.2.45
+03:43:37 r15-bmc session closed for user svc_monitor from 10.20.8.59
+03:43:54 core-sw2 Interface Ethernet1/47 link up, speed 25G
+03:44:17 core-sw1 Interface Ethernet1/19 link up, speed 25G
+03:44:18 r14-bmc SEL log 76% full
+03:44:34 core-sw2 Interface Ethernet1/18 link up, speed 25G
+03:44:47 core-sw1 BGP neighbor 10.20.0.54 keepalive received
+03:44:59 r11-bmc fan FAN1 speed 8736 RPM ok
+03:45:00 r10-bmc heartbeat seq=45 ok
+03:45:00 r11-bmc heartbeat seq=45 ok
+03:45:00 r12-bmc heartbeat seq=45 ok
+03:45:00 r13-bmc heartbeat seq=45 ok
+03:45:00 r14-bmc heartbeat seq=45 ok
+03:45:00 r15-bmc heartbeat seq=45 ok
+03:45:23 r10-bmc sensor CPU1_Temp reading 55 C ok
+03:45:31 r13-bmc fan FAN3 speed 9062 RPM ok
+03:45:32 core-sw1 Interface Ethernet1/27 link up, speed 25G
+03:45:35 r10-bmc sensor CPU1_Temp reading 58 C ok
+03:45:47 core-sw2 Interface Ethernet1/48 link up, speed 25G
+03:46:06 r11-bmc fan FAN1 speed 8808 RPM ok
+03:46:11 r10-bmc fan FAN2 speed 8577 RPM ok
+03:46:42 core-sw1 Interface Ethernet1/46 link up, speed 25G
+03:46:56 r13-bmc fan FAN2 speed 8355 RPM ok
+03:47:03 r13-bmc fan FAN4 speed 9132 RPM ok
+03:47:06 r12-bmc sensor CPU1_Temp reading 61 C ok
+03:47:12 pdu-b3 outlet 24 current 3.5 A within limit
+03:47:31 r12-bmc sensor CPU0_Temp reading 54 C ok
+03:47:59 r14-bmc fan FAN1 speed 8871 RPM ok
+03:48:12 r10-bmc session opened for user svc_monitor from 10.20.2.85
+03:48:26 core-sw1 Interface Ethernet1/34 link up, speed 25G
+03:48:33 r12-bmc session opened for user svc_monitor from 10.20.7.197
+03:48:45 r15-bmc session opened for user svc_monitor from 10.20.8.103
+03:49:11 r14-bmc fan FAN2 speed 7940 RPM ok
+03:49:16 r15-bmc fan FAN2 speed 8980 RPM ok
+03:49:31 core-sw1 Interface Ethernet1/17 link up, speed 25G
+03:49:46 r10-bmc session opened for user svc_monitor from 10.20.9.177
+03:50:00 core-sw2 Interface Ethernet1/39 link up, speed 25G
+03:50:00 r10-bmc heartbeat seq=46 ok
+03:50:00 r11-bmc heartbeat seq=46 ok
+03:50:00 r12-bmc heartbeat seq=46 ok
+03:50:00 r13-bmc heartbeat seq=46 ok
+03:50:00 r14-bmc heartbeat seq=46 ok
+03:50:00 r15-bmc heartbeat seq=46 ok
+03:50:10 pdu-b3 outlet 11 current 1.6 A within limit
+03:50:42 core-sw1 Interface Ethernet1/47 link up, speed 25G
+03:50:50 r10-bmc sensor CPU1_Temp reading 49 C ok
+03:50:53 core-sw1 BGP neighbor 10.20.1.16 keepalive received
+03:51:06 r14-bmc sensor CPU0_Temp reading 65 C ok
+03:51:07 r14-bmc fan FAN3 speed 8963 RPM ok
+03:51:14 r10-bmc fan FAN5 speed 8288 RPM ok
+03:51:15 core-sw1 BGP neighbor 10.20.7.172 keepalive received
+03:51:17 r12-bmc fan FAN2 speed 8434 RPM ok
+03:51:22 r15-bmc sensor CPU0_Temp reading 50 C ok
+03:52:11 core-sw2 Interface Ethernet1/14 link down
+03:52:16 r10-bmc sensor CPU1_Temp reading 61 C ok
+03:52:18 r11-bmc fan FAN3 speed 8205 RPM ok
+03:52:38 core-sw1 Interface Ethernet1/24 link down
+03:52:45 r11-bmc fan FAN6 speed 8148 RPM ok
+03:53:08 r14-bmc sensor CPU0_Temp reading 61 C ok
+03:53:10 r13-bmc fan FAN2 speed 8912 RPM ok
+03:53:42 r11-bmc sensor CPU0_Temp reading 59 C ok
+03:53:45 r12-bmc fan FAN3 speed 8117 RPM ok
+03:53:50 r10-bmc sensor CPU1_Temp reading 50 C ok
+03:53:51 r13-bmc fan FAN6 speed 8309 RPM ok
+03:54:07 r13-bmc fan FAN3 speed 9096 RPM ok
+03:54:11 r10-bmc sensor CPU1_Temp reading 64 C ok
+03:54:15 core-sw1 BGP neighbor 10.20.7.239 keepalive received
+03:54:50 core-sw2 BGP neighbor 10.20.5.8 keepalive received
+03:54:50 r13-bmc sensor CPU1_Temp reading 58 C ok
+03:55:00 r10-bmc heartbeat seq=47 ok
+03:55:00 r11-bmc heartbeat seq=47 ok
+03:55:00 r12-bmc heartbeat seq=47 ok
+03:55:00 r13-bmc heartbeat seq=47 ok
+03:55:00 r14-bmc heartbeat seq=47 ok
+03:55:00 r15-bmc heartbeat seq=47 ok
+03:55:03 r10-bmc session closed for user svc_monitor from 10.20.5.174
+03:55:33 r10-bmc fan FAN3 speed 8891 RPM ok
+03:55:46 core-sw1 Interface Ethernet1/3 link up, speed 25G
+03:55:55 core-sw1 Interface Ethernet1/9 link up, speed 25G
+03:56:01 r15-bmc sensor CPU1_Temp reading 49 C ok
+03:56:03 r15-bmc sensor CPU0_Temp reading 48 C ok
+03:56:26 r12-bmc SEL log 85% full
+03:56:33 r10-bmc fan FAN4 speed 8994 RPM ok
+03:56:54 r14-bmc fan FAN4 speed 8784 RPM ok
+03:57:05 core-sw1 Interface Ethernet1/40 link up, speed 25G
+03:57:09 r11-bmc sensor CPU0_Temp reading 48 C ok
+03:57:09 r14-bmc fan FAN6 speed 8900 RPM ok
+03:57:41 r14-bmc fan FAN4 speed 9133 RPM ok
+03:57:42 core-sw1 BGP neighbor 10.20.6.205 keepalive received
+03:57:55 core-sw2 Interface Ethernet1/14 link down
+03:58:03 r10-bmc session opened for user svc_monitor from 10.20.5.154
+03:58:18 r10-bmc session opened for user svc_monitor from 10.20.6.8
+03:58:40 r10-bmc sensor CPU0_Temp reading 51 C ok
+03:58:45 core-sw1 Interface Ethernet1/18 link up, speed 25G
+03:58:46 core-sw2 Interface Ethernet1/6 link up, speed 25G
+03:59:02 r15-bmc fan FAN2 speed 8670 RPM ok
+03:59:29 core-sw2 Interface Ethernet1/5 link up, speed 25G
+03:59:38 r15-bmc session opened for user svc_monitor from 10.20.0.25
+03:59:53 r11-bmc session closed for user svc_monitor from 10.20.3.249
+04:00:00 r10-bmc heartbeat seq=48 ok
+04:00:00 r11-bmc heartbeat seq=48 ok
+04:00:00 r12-bmc heartbeat seq=48 ok
+04:00:00 r13-bmc heartbeat seq=48 ok
+04:00:00 r14-bmc heartbeat seq=48 ok
+04:00:00 r15-bmc heartbeat seq=48 ok
+04:00:07 r11-bmc sensor CPU1_Temp reading 53 C ok
+04:00:19 r15-bmc sensor CPU1_Temp reading 60 C ok
+04:00:35 r14-bmc sensor CPU0_Temp reading 51 C ok
+04:00:43 core-sw1 Interface Ethernet1/39 link up, speed 25G
+04:00:44 r13-bmc sensor CPU1_Temp reading 63 C ok
+04:01:01 r15-bmc sensor CPU0_Temp reading 62 C ok
+04:01:14 r15-bmc fan FAN3 speed 8025 RPM ok
+04:01:36 r15-bmc sensor CPU1_Temp reading 54 C ok
+04:01:43 r14-bmc sensor CPU0_Temp reading 48 C ok
+04:01:47 r15-bmc session closed for user svc_monitor from 10.20.7.105
+04:02:05 r14-bmc session closed for user svc_monitor from 10.20.3.194
+04:02:06 core-sw1 BGP neighbor 10.20.0.42 keepalive received
+04:02:17 r11-bmc fan FAN3 speed 8060 RPM ok
+04:02:18 r11-bmc fan FAN2 speed 9026 RPM ok
+04:02:32 r10-bmc sensor CPU1_Temp reading 53 C ok
+04:02:47 core-sw1 BGP neighbor 10.20.1.60 keepalive received
+04:03:12 r10-bmc fan FAN2 speed 8793 RPM ok
+04:03:17 r13-bmc session opened for user svc_monitor from 10.20.2.76
+04:03:47 r14-bmc fan FAN2 speed 8203 RPM ok
+04:03:49 r11-bmc sensor CPU1_Temp reading 65 C ok
+04:04:04 r15-bmc sensor CPU1_Temp reading 66 C ok
+04:04:19 core-sw1 Interface Ethernet1/37 link up, speed 25G
+04:04:22 core-sw2 Interface Ethernet1/47 link up, speed 25G
+04:04:52 core-sw1 BGP neighbor 10.20.1.124 keepalive received
+04:04:52 r11-bmc sensor CPU0_Temp reading 54 C ok
+04:05:00 r10-bmc heartbeat seq=49 ok
+04:05:00 r11-bmc heartbeat seq=49 ok
+04:05:00 r12-bmc heartbeat seq=49 ok
+04:05:00 r13-bmc heartbeat seq=49 ok
+04:05:00 r14-bmc heartbeat seq=49 ok
+04:05:00 r15-bmc heartbeat seq=49 ok
+04:05:05 core-sw2 Interface Ethernet1/11 link up, speed 25G
+04:05:14 core-sw1 Interface Ethernet1/17 link up, speed 25G
+04:05:20 pdu-a3 outlet 5 current 4.8 A within limit
+04:05:30 r11-bmc fan FAN5 speed 8439 RPM ok
+04:05:39 r15-bmc sensor CPU1_Temp reading 50 C ok
+04:05:42 r11-bmc sensor CPU1_Temp reading 50 C ok
+04:06:02 pdu-b3 outlet 10 current 2.6 A within limit
+04:06:11 core-sw2 Interface Ethernet1/28 link up, speed 25G
+04:06:39 core-sw1 BGP neighbor 10.20.2.60 keepalive received
+04:06:40 r15-bmc sensor CPU1_Temp reading 50 C ok
+04:07:00 r10-bmc sensor CPU1_Temp reading 58 C ok
+04:07:07 r15-bmc sensor CPU0_Temp reading 51 C ok
+04:07:48 core-sw1 BGP neighbor 10.20.3.68 keepalive received
+04:07:48 r12-bmc sensor CPU0_Temp reading 64 C ok
+04:08:22 r10-bmc session opened for user svc_monitor from 10.20.7.89
+04:08:25 r15-bmc session opened for user svc_monitor from 10.20.2.189
+04:08:46 r11-bmc sensor CPU0_Temp reading 53 C ok
+04:08:48 pdu-b3 outlet 3 current 4.5 A within limit
+04:08:55 r13-bmc sensor CPU0_Temp reading 48 C ok
+04:09:37 r12-bmc SEL log 17% full
+04:09:40 r13-bmc sensor CPU0_Temp reading 51 C ok
+04:09:42 core-sw2 BGP neighbor 10.20.3.64 keepalive received
+04:09:54 r11-bmc sensor CPU1_Temp reading 57 C ok
+04:09:57 r10-bmc fan FAN5 speed 9145 RPM ok
+04:10:00 r10-bmc heartbeat seq=50 ok
+04:10:00 r11-bmc heartbeat seq=50 ok
+04:10:00 r12-bmc heartbeat seq=50 ok
+04:10:00 r13-bmc heartbeat seq=50 ok
+04:10:00 r14-bmc heartbeat seq=50 ok
+04:10:00 r14-bmc sensor CPU1_Temp reading 66 C ok
+04:10:00 r15-bmc heartbeat seq=50 ok
+04:10:01 core-sw2 Interface Ethernet1/31 link up, speed 25G
+04:10:01 r10-bmc sensor CPU1_Temp reading 64 C ok
+04:10:09 r15-bmc session closed for user svc_monitor from 10.20.8.238
+04:10:15 r15-bmc sensor CPU1_Temp reading 49 C ok
+04:11:10 pdu-b3 outlet 4 current 4.0 A within limit
+04:11:17 core-sw2 Interface Ethernet1/29 link down
+04:11:42 r14-bmc session closed for user svc_monitor from 10.20.0.174
+04:11:44 r12-bmc fan FAN2 speed 7914 RPM ok
+04:11:53 pdu-b3 outlet 12 current 1.8 A within limit
+04:12:20 core-sw1 Interface Ethernet1/3 link down
+04:12:21 pdu-a3 outlet 18 current 2.0 A within limit
+04:12:26 core-sw1 BGP neighbor 10.20.8.84 keepalive received
+04:12:31 r15-bmc sensor CPU0_Temp reading 64 C ok
+04:12:52 r15-bmc sensor CPU0_Temp reading 63 C ok
+04:13:20 r13-bmc sensor CPU0_Temp reading 61 C ok
+04:13:42 r11-bmc sensor CPU0_Temp reading 54 C ok
+04:13:49 r14-bmc session opened for user svc_monitor from 10.20.4.107
+04:13:55 r14-bmc sensor CPU1_Temp reading 56 C ok
+04:13:57 r12-bmc fan FAN4 speed 8210 RPM ok
+04:14:03 r10-bmc sensor CPU0_Temp reading 61 C ok
+04:14:11 r11-bmc session closed for user svc_monitor from 10.20.9.53
+04:14:35 r14-bmc sensor CPU1_Temp reading 54 C ok
+04:14:39 core-sw1 BGP neighbor 10.20.7.243 keepalive received
+04:14:55 r14-bmc fan FAN1 speed 8892 RPM ok
+04:15:00 r10-bmc heartbeat seq=51 ok
+04:15:00 r11-bmc heartbeat seq=51 ok
+04:15:00 r12-bmc heartbeat seq=51 ok
+04:15:00 r13-bmc heartbeat seq=51 ok
+04:15:00 r14-bmc heartbeat seq=51 ok
+04:15:00 r15-bmc heartbeat seq=51 ok
+04:15:03 r12-bmc fan FAN1 speed 8883 RPM ok
+04:15:13 r14-bmc sensor CPU1_Temp reading 59 C ok
+04:15:29 core-sw1 BGP neighbor 10.20.9.123 keepalive received
+04:15:41 pdu-a3 outlet 24 current 4.1 A within limit
+04:15:56 r14-bmc sensor CPU0_Temp reading 66 C ok
+04:16:22 r13-bmc fan FAN4 speed 7807 RPM ok
+04:16:27 r10-bmc sensor CPU1_Temp reading 58 C ok
+04:16:40 r10-bmc fan FAN1 speed 7990 RPM ok
+04:16:52 r12-bmc fan FAN2 speed 7968 RPM ok
+04:16:55 r12-bmc session opened for user svc_monitor from 10.20.1.9
+04:16:56 pdu-b3 outlet 5 current 1.6 A within limit
+04:17:20 r10-bmc fan FAN3 speed 8396 RPM ok
+04:17:25 core-sw2 BGP neighbor 10.20.1.210 keepalive received
+04:17:26 r11-bmc session opened for user svc_monitor from 10.20.0.68
+04:17:26 r13-bmc session opened for user svc_monitor from 10.20.3.174
+04:17:27 r11-bmc sensor CPU1_Temp reading 64 C ok
+04:18:10 pdu-b3 outlet 6 current 2.8 A within limit
+04:18:20 r10-bmc fan FAN3 speed 8145 RPM ok
+04:18:22 r13-bmc sensor CPU1_Temp reading 64 C ok
+04:18:48 r14-bmc sensor CPU0_Temp reading 53 C ok
+04:19:03 r14-bmc session closed for user svc_monitor from 10.20.4.249
+04:19:32 core-sw1 Interface Ethernet1/42 link down
+04:19:42 r10-bmc fan FAN1 speed 7880 RPM ok
+04:19:46 r10-bmc fan FAN4 speed 9065 RPM ok
+04:19:48 core-sw1 BGP neighbor 10.20.9.214 keepalive received
+04:20:00 r10-bmc heartbeat seq=52 ok
+04:20:00 r11-bmc heartbeat seq=52 ok
+04:20:00 r12-bmc heartbeat seq=52 ok
+04:20:00 r14-bmc heartbeat seq=52 ok
+04:20:00 r15-bmc heartbeat seq=52 ok
+04:20:04 r12-bmc fan FAN3 speed 12818 RPM ok
+04:20:10 r13-bmc PSU2 input voltage 170 V out of range, failing over to PSU1
+04:20:11 r13-bmc PSU2 input voltage 157 V out of range, failing over to PSU1
+04:20:11 r15-bmc sensor CPU0_Temp reading 50 C ok
+04:20:12 r10-bmc session opened for user svc_monitor from 10.20.9.161
+04:20:33 r14-bmc fan FAN2 speed 13271 RPM ok
+04:20:37 r11-bmc sensor CPU0_Temp reading 54 C ok
+04:20:49 r14-bmc session closed for user svc_monitor from 10.20.3.159
+04:20:51 r12-bmc fan FAN3 speed 12840 RPM ok
+04:20:58 r12-bmc fan FAN6 speed 13411 RPM ok
+04:21:00 r13-bmc PSU2 input voltage 154 V out of range, failing over to PSU1
+04:21:01 r13-bmc PSU2 input voltage 159 V out of range, failing over to PSU1
+04:21:05 r12-bmc sensor CPU0_Temp reading 53 C ok
+04:21:14 r12-bmc sensor CPU1_Temp reading 56 C ok
+04:21:19 r14-bmc fan FAN5 speed 12942 RPM ok
+04:21:26 core-sw2 BGP neighbor 10.20.8.115 keepalive received
+04:21:38 r13-bmc PSU2 input voltage 154 V out of range, failing over to PSU1
+04:21:48 r10-bmc session closed for user svc_monitor from 10.20.8.136
+04:21:50 r12-bmc fan FAN5 speed 12647 RPM ok
+04:21:56 r14-bmc fan FAN6 speed 13759 RPM ok
+04:22:09 r13-bmc PSU2 input voltage 157 V out of range, failing over to PSU1
+04:22:10 r13-bmc PSU2 input voltage 156 V out of range, failing over to PSU1
+04:22:11 r12-bmc fan FAN3 speed 12934 RPM ok
+04:22:19 r12-bmc fan FAN6 speed 8295 RPM ok
+04:22:19 r13-bmc PSU2 input voltage 166 V out of range, failing over to PSU1
+04:22:26 r15-bmc session opened for user svc_monitor from 10.20.1.115
+04:22:27 r14-bmc fan FAN5 speed 12989 RPM ok
+04:22:32 r12-bmc fan FAN3 speed 13967 RPM ok
+04:22:35 r12-bmc fan FAN2 speed 13494 RPM ok
+04:22:37 r14-bmc fan FAN4 speed 13890 RPM ok
+04:22:48 r13-bmc PSU2 input voltage 157 V out of range, failing over to PSU1
+04:22:49 r14-bmc fan FAN2 speed 12852 RPM ok
+04:23:01 r10-bmc sensor CPU1_Temp reading 53 C ok
+04:23:06 r12-bmc fan FAN4 speed 13450 RPM ok
+04:23:12 core-sw1 Interface Ethernet1/44 link up, speed 25G
+04:23:13 pdu-a3 outlet 13 current 11.0 A above warning threshold
+04:23:17 r14-bmc fan FAN6 speed 13057 RPM ok
+04:23:19 core-sw1 Interface Ethernet1/29 link up, speed 25G
+04:23:21 core-sw2 Interface Ethernet1/3 link up, speed 25G
+04:23:21 r13-bmc PSU2 input voltage 159 V out of range, failing over to PSU1
+04:23:24 r14-bmc fan FAN1 speed 13388 RPM ok
+04:23:29 r14-bmc fan FAN5 speed 13245 RPM ok
+04:23:33 r12-bmc fan FAN4 speed 13617 RPM ok
+04:23:38 r12-bmc fan FAN4 speed 13431 RPM ok
+04:23:46 r13-bmc PSU2 input voltage 159 V out of range, failing over to PSU1
+04:23:48 r13-bmc PSU2 input voltage 170 V out of range, failing over to PSU1
+04:23:52 r13-bmc PSU2 input voltage 161 V out of range, failing over to PSU1
+04:24:00 r14-bmc fan FAN5 speed 13273 RPM ok
+04:24:01 r14-bmc fan FAN5 speed 13329 RPM ok
+04:24:03 r14-bmc fan FAN5 speed 13127 RPM ok
+04:24:14 r12-bmc fan FAN5 speed 13436 RPM ok
+04:24:17 r13-bmc PSU2 input voltage 163 V out of range, failing over to PSU1
+04:24:18 r13-bmc PSU2 input voltage 153 V out of range, failing over to PSU1
+04:24:20 r12-bmc fan FAN1 speed 12689 RPM ok
+04:24:54 core-sw1 Interface Ethernet1/26 link down
+04:24:55 r12-bmc fan FAN4 speed 13227 RPM ok
+04:24:57 core-sw1 BGP neighbor 10.20.6.164 keepalive received
+04:25:00 r10-bmc fan FAN3 speed 8717 RPM ok
+04:25:00 r10-bmc heartbeat seq=53 ok
+04:25:00 r11-bmc heartbeat seq=53 ok
+04:25:00 r12-bmc heartbeat seq=53 ok
+04:25:00 r14-bmc heartbeat seq=53 ok
+04:25:00 r15-bmc heartbeat seq=53 ok
+04:25:04 r14-bmc session opened for user svc_monitor from 10.20.9.228
+04:25:09 r13-bmc PSU2 input voltage 173 V out of range, failing over to PSU1
+04:25:10 r12-bmc fan FAN3 speed 13061 RPM ok
+04:25:12 r14-bmc sensor CPU0_Temp reading 54 C ok
+04:25:17 r14-bmc fan FAN1 speed 12544 RPM ok
+04:25:17 r14-bmc fan FAN6 speed 12538 RPM ok
+04:25:22 r13-bmc PSU2 input voltage 170 V out of range, failing over to PSU1
+04:25:30 r12-bmc fan FAN2 speed 12850 RPM ok
+04:25:37 r13-bmc PSU2 input voltage 172 V out of range, failing over to PSU1
+04:25:47 core-sw2 Interface Ethernet1/33 link up, speed 25G
+04:25:51 r13-bmc PSU2 input voltage 165 V out of range, failing over to PSU1
+04:25:59 pdu-a3 outlet 13 current 10.6 A above warning threshold
+04:26:00 r13-bmc PSU2 input voltage 159 V out of range, failing over to PSU1
+04:26:06 pdu-a3 outlet 16 current 9.9 A above warning threshold
+04:26:06 r14-bmc fan FAN6 speed 13515 RPM ok
+04:26:07 r13-bmc PSU2 input voltage 157 V out of range, failing over to PSU1
+04:26:14 r13-bmc PSU2 input voltage 173 V out of range, failing over to PSU1
+04:26:25 r12-bmc fan FAN6 speed 13197 RPM ok
+04:26:27 r13-bmc PSU2 input voltage 163 V out of range, failing over to PSU1
+04:26:30 r15-bmc sensor CPU0_Temp reading 64 C ok
+04:26:33 r11-bmc sensor CPU0_Temp reading 56 C ok
+04:26:37 core-sw1 BGP neighbor 10.20.7.214 keepalive received
+04:26:44 r12-bmc fan FAN3 speed 13998 RPM ok
+04:26:50 core-sw2 Interface Ethernet1/31 link up, speed 25G
+04:26:51 r12-bmc fan FAN1 speed 13507 RPM ok
+04:26:52 core-sw1 Interface Ethernet1/14 link up, speed 25G
+04:26:53 r14-bmc fan FAN3 speed 13557 RPM ok
+04:26:57 r11-bmc sensor CPU0_Temp reading 66 C ok
+04:27:04 r14-bmc fan FAN1 speed 13830 RPM ok
+04:27:15 core-sw1 BGP neighbor 10.20.0.130 keepalive received
+04:27:17 r12-bmc fan FAN1 speed 12935 RPM ok
+04:27:17 r14-bmc fan FAN6 speed 12951 RPM ok
+04:27:22 r14-bmc fan FAN5 speed 13467 RPM ok
+04:27:34 r13-bmc PSU2 input voltage 154 V out of range, failing over to PSU1
+04:27:40 core-sw1 Interface Ethernet1/30 link up, speed 25G
+04:27:48 r13-bmc PSU2 input voltage 174 V out of range, failing over to PSU1
+04:27:53 r11-bmc session closed for user svc_monitor from 10.20.4.66
+04:27:58 core-sw2 Interface Ethernet1/48 link up, speed 25G
+04:27:58 r11-bmc session opened for user svc_monitor from 10.20.2.90
+04:27:59 core-sw2 BGP neighbor 10.20.6.47 keepalive received
+04:28:01 r14-bmc fan FAN1 speed 13689 RPM ok
+04:28:11 r13-bmc PSU2 input voltage 150 V out of range, failing over to PSU1
+04:28:19 r14-bmc fan FAN4 speed 13355 RPM ok
+04:28:28 pdu-a3 outlet 14 current 10.0 A above warning threshold
+04:28:29 core-sw1 Interface Ethernet1/39 link up, speed 25G
+04:28:31 r12-bmc fan FAN6 speed 13439 RPM ok
+04:28:34 r10-bmc fan FAN3 speed 8677 RPM ok
+04:28:34 r13-bmc PSU2 input voltage 156 V out of range, failing over to PSU1
+04:28:34 r13-bmc PSU2 input voltage 166 V out of range, failing over to PSU1
+04:28:41 r13-bmc PSU2 input voltage 151 V out of range, failing over to PSU1
+04:28:41 r14-bmc fan FAN1 speed 12529 RPM ok
+04:28:45 r12-bmc sensor CPU1_Temp reading 58 C ok
+04:28:46 r14-bmc fan FAN2 speed 13953 RPM ok
+04:29:06 r13-bmc PSU2 input voltage 174 V out of range, failing over to PSU1
+04:29:12 r14-bmc fan FAN6 speed 13651 RPM ok
+04:29:16 core-sw1 Interface Ethernet1/27 link up, speed 25G
+04:29:17 r12-bmc fan FAN4 speed 13375 RPM ok
+04:29:20 r10-bmc session opened for user svc_monitor from 10.20.2.59
+04:29:21 r14-bmc fan FAN5 speed 12646 RPM ok
+04:29:25 r13-bmc PSU2 input voltage 150 V out of range, failing over to PSU1
+04:29:26 r13-bmc PSU2 input voltage 168 V out of range, failing over to PSU1
+04:29:32 r13-bmc PSU2 input voltage 158 V out of range, failing over to PSU1
+04:29:55 r12-bmc fan FAN1 speed 13469 RPM ok
+04:30:00 r10-bmc heartbeat seq=54 ok
+04:30:00 r11-bmc heartbeat seq=54 ok
+04:30:00 r12-bmc heartbeat seq=54 ok
+04:30:00 r14-bmc heartbeat seq=54 ok
+04:30:00 r15-bmc heartbeat seq=54 ok
+04:30:10 r13-bmc PSU2 input voltage 159 V out of range, failing over to PSU1
+04:30:13 r13-bmc PSU2 input voltage 167 V out of range, failing over to PSU1
+04:30:21 core-sw1 Interface Ethernet1/34 link up, speed 25G
+04:30:21 r12-bmc fan FAN4 speed 12850 RPM ok
+04:30:29 pdu-a3 outlet 1 current 2.5 A within limit
+04:30:35 core-sw2 BGP neighbor 10.20.0.189 keepalive received
+04:30:38 pdu-a3 outlet 14 current 11.4 A above warning threshold
+04:30:38 r12-bmc fan FAN5 speed 13312 RPM ok
+04:30:42 r12-bmc fan FAN6 speed 13806 RPM ok
+04:30:44 core-sw1 BGP neighbor 10.20.9.203 keepalive received
+04:30:49 r13-bmc PSU2 input voltage 157 V out of range, failing over to PSU1
+04:30:55 r15-bmc fan FAN2 speed 8396 RPM ok
+04:31:00 r15-bmc sensor CPU1_Temp reading 59 C ok
+04:31:02 r13-bmc PSU2 input voltage 160 V out of range, failing over to PSU1
+04:31:03 core-sw1 BGP neighbor 10.20.2.228 keepalive received
+04:31:09 r12-bmc fan FAN5 speed 13980 RPM ok
+04:31:09 r13-bmc PSU2 input voltage 155 V out of range, failing over to PSU1
+04:31:16 core-sw1 Interface Ethernet1/31 link up, speed 25G
+04:31:17 r12-bmc fan FAN4 speed 13260 RPM ok
+04:31:20 r12-bmc fan FAN4 speed 13571 RPM ok
+04:31:26 r14-bmc fan FAN1 speed 12536 RPM ok
+04:31:31 r11-bmc sensor CPU0_Temp reading 54 C ok
+04:31:36 r12-bmc fan FAN3 speed 13554 RPM ok
+04:31:45 pdu-b3 outlet 16 current 1.3 A within limit
+04:31:46 r13-bmc PSU2 input voltage 169 V out of range, failing over to PSU1
+04:31:56 r14-bmc fan FAN1 speed 13453 RPM ok
+04:32:01 r14-bmc fan FAN4 speed 12950 RPM ok
+04:32:09 r12-bmc fan FAN2 speed 13601 RPM ok
+04:32:13 r12-bmc fan FAN3 speed 13712 RPM ok
+04:32:14 core-sw2 BGP neighbor 10.20.6.63 keepalive received
+04:32:14 r12-bmc fan FAN2 speed 12956 RPM ok
+04:32:24 core-sw2 BGP neighbor 10.20.1.217 keepalive received
+04:32:25 pdu-a3 outlet 14 current 9.8 A above warning threshold
+04:32:26 r13-bmc PSU2 input voltage 151 V out of range, failing over to PSU1
+04:32:34 r11-bmc sensor CPU1_Temp reading 54 C ok
+04:32:37 pdu-b3 outlet 24 current 1.0 A within limit
+04:32:37 r11-bmc fan FAN6 speed 8469 RPM ok
+04:32:37 r14-bmc sensor CPU0_Temp reading 54 C ok
+04:32:41 r12-bmc fan FAN6 speed 13608 RPM ok
+04:32:57 r13-bmc PSU2 input voltage 152 V out of range, failing over to PSU1
+04:33:00 r13-bmc PSU2 input voltage 164 V out of range, failing over to PSU1
+04:33:06 r10-bmc sensor CPU0_Temp reading 66 C ok
+04:33:18 r10-bmc sensor CPU0_Temp reading 48 C ok
+04:33:20 r12-bmc session opened for user svc_monitor from 10.20.7.12
+04:33:29 r14-bmc fan FAN4 speed 13343 RPM ok
+04:33:31 r13-bmc PSU2 input voltage 166 V out of range, failing over to PSU1
+04:33:34 r11-bmc fan FAN1 speed 8330 RPM ok
+04:33:38 r12-bmc fan FAN6 speed 13612 RPM ok
+04:33:47 r14-bmc fan FAN4 speed 13888 RPM ok
+04:33:51 core-sw2 Interface Ethernet1/8 link up, speed 25G
+04:33:54 r10-bmc sensor CPU1_Temp reading 54 C ok
+04:34:13 r12-bmc fan FAN3 speed 13276 RPM ok
+04:34:17 r14-bmc fan FAN6 speed 12609 RPM ok
+04:34:22 r13-bmc PSU2 input voltage 154 V out of range, failing over to PSU1
+04:34:23 r11-bmc sensor CPU1_Temp reading 64 C ok
+04:34:29 r12-bmc fan FAN2 speed 12784 RPM ok
+04:34:37 r14-bmc fan FAN2 speed 12667 RPM ok
+04:34:44 pdu-a3 outlet 5 current 1.0 A within limit
+04:34:46 r12-bmc fan FAN4 speed 12527 RPM ok
+04:34:49 r13-bmc PSU2 input voltage 165 V out of range, failing over to PSU1
+04:34:57 r12-bmc fan FAN6 speed 13773 RPM ok
+04:35:00 r10-bmc heartbeat seq=55 ok
+04:35:00 r11-bmc heartbeat seq=55 ok
+04:35:00 r12-bmc heartbeat seq=55 ok
+04:35:00 r14-bmc heartbeat seq=55 ok
+04:35:00 r15-bmc heartbeat seq=55 ok
+04:35:01 r12-bmc fan FAN1 speed 13611 RPM ok
+04:35:01 r14-bmc fan FAN2 speed 13482 RPM ok
+04:35:03 r13-bmc PSU2 input voltage 170 V out of range, failing over to PSU1
+04:35:10 r12-bmc fan FAN5 speed 8308 RPM ok
+04:35:11 r13-bmc PSU2 input voltage 170 V out of range, failing over to PSU1
+04:35:20 r11-bmc sensor CPU1_Temp reading 63 C ok
+04:35:21 r12-bmc fan FAN3 speed 13495 RPM ok
+04:35:24 r14-bmc fan FAN3 speed 14000 RPM ok
+04:35:30 pdu-a3 outlet 17 current 4.2 A within limit
+04:35:43 r12-bmc fan FAN6 speed 13611 RPM ok
+04:35:47 core-sw2 Interface Ethernet1/19 link up, speed 25G
+04:35:50 r13-bmc PSU2 input voltage 175 V out of range, failing over to PSU1
+04:35:55 core-sw1 BGP neighbor 10.20.9.47 keepalive received
+04:35:57 r12-bmc fan FAN3 speed 13035 RPM ok
+04:36:12 r10-bmc fan FAN2 speed 7825 RPM ok
+04:36:13 r12-bmc fan FAN2 speed 13472 RPM ok
+04:36:14 r12-bmc fan FAN5 speed 13711 RPM ok
+04:36:16 r13-bmc PSU2 input voltage 171 V out of range, failing over to PSU1
+04:36:23 r12-bmc fan FAN3 speed 12728 RPM ok
+04:36:24 r12-bmc sensor CPU0_Temp reading 59 C ok
+04:36:25 r12-bmc sensor CPU0_Temp reading 55 C ok
+04:36:32 r13-bmc PSU2 input voltage 165 V out of range, failing over to PSU1
+04:36:36 r10-bmc session closed for user svc_monitor from 10.20.1.136
+04:36:41 r14-bmc fan FAN5 speed 13113 RPM ok
+04:36:42 r13-bmc PSU2 input voltage 153 V out of range, failing over to PSU1
+04:36:46 r12-bmc session opened for user svc_monitor from 10.20.2.124
+04:37:01 r14-bmc fan FAN3 speed 12788 RPM ok
+04:37:03 r13-bmc PSU2 input voltage 174 V out of range, failing over to PSU1
+04:37:06 r13-bmc PSU2 input voltage 167 V out of range, failing over to PSU1
+04:37:13 r14-bmc fan FAN6 speed 13737 RPM ok
+04:37:24 r11-bmc sensor CPU0_Temp reading 52 C ok
+04:37:26 core-sw2 Interface Ethernet1/39 link up, speed 25G
+04:37:29 r15-bmc sensor CPU1_Temp reading 65 C ok
+04:37:32 r12-bmc fan FAN4 speed 13512 RPM ok
+04:37:35 r14-bmc fan FAN3 speed 13446 RPM ok
+04:37:53 pdu-a3 outlet 13 current 10.0 A above warning threshold
+04:37:53 r14-bmc fan FAN1 speed 13797 RPM ok
+04:37:53 r14-bmc fan FAN2 speed 7808 RPM ok
+04:37:57 r13-bmc PSU2 input voltage 160 V out of range, failing over to PSU1
+04:38:00 r15-bmc sensor CPU0_Temp reading 62 C ok
+04:38:03 r12-bmc session closed for user svc_monitor from 10.20.7.12
+04:38:10 r13-bmc PSU2 input voltage 174 V out of range, failing over to PSU1
+04:38:10 r15-bmc session opened for user svc_monitor from 10.20.5.156
+04:38:12 r14-bmc fan FAN5 speed 13067 RPM ok
+04:38:13 r12-bmc fan FAN1 speed 12900 RPM ok
+04:38:24 r14-bmc fan FAN1 speed 13716 RPM ok
+04:38:36 r12-bmc fan FAN2 speed 13058 RPM ok
+04:38:36 r14-bmc fan FAN2 speed 13952 RPM ok
+04:38:44 r13-bmc PSU2 input voltage 151 V out of range, failing over to PSU1
+04:38:45 r14-bmc fan FAN6 speed 13692 RPM ok
+04:38:48 r13-bmc PSU2 input voltage 161 V out of range, failing over to PSU1
+04:38:56 pdu-a3 outlet 18 current 3.2 A within limit
+04:38:59 r13-bmc PSU2 input voltage 175 V out of range, failing over to PSU1
+04:39:08 r13-bmc PSU2 input voltage 154 V out of range, failing over to PSU1
+04:39:12 r11-bmc session opened for user svc_monitor from 10.20.6.191
+04:39:12 r12-bmc fan FAN5 speed 13273 RPM ok
+04:39:13 r14-bmc fan FAN5 speed 13853 RPM ok
+04:39:20 core-sw1 Interface Ethernet1/18 link up, speed 25G
+04:39:24 r12-bmc fan FAN1 speed 8679 RPM ok
+04:39:36 r14-bmc fan FAN3 speed 12512 RPM ok
+04:39:37 r13-bmc PSU2 input voltage 152 V out of range, failing over to PSU1
+04:39:41 pdu-a3 outlet 14 current 10.4 A above warning threshold
+04:39:52 r15-bmc fan FAN5 speed 8781 RPM ok
+04:39:56 core-sw2 Interface Ethernet1/24 link up, speed 25G
+04:40:00 r10-bmc heartbeat seq=56 ok
+04:40:00 r11-bmc heartbeat seq=56 ok
+04:40:00 r12-bmc heartbeat seq=56 ok
+04:40:00 r14-bmc heartbeat seq=56 ok
+04:40:00 r15-bmc heartbeat seq=56 ok
+04:40:07 r14-bmc fan FAN4 speed 12619 RPM ok
+04:40:11 r11-bmc sensor CPU1_Temp reading 63 C ok
+04:40:15 r12-bmc fan FAN1 speed 12621 RPM ok
+04:40:15 r13-bmc PSU2 input voltage 160 V out of range, failing over to PSU1
+04:40:22 r11-bmc sensor CPU1_Temp reading 65 C ok
+04:40:22 r12-bmc fan FAN3 speed 13004 RPM ok
+04:40:23 r14-bmc fan FAN5 speed 13873 RPM ok
+04:40:35 r13-bmc PSU2 input voltage 167 V out of range, failing over to PSU1
+04:40:40 pdu-a3 outlet 22 current 1.9 A within limit
+04:40:41 core-sw2 Interface Ethernet1/36 link up, speed 25G
+04:40:42 r12-bmc fan FAN3 speed 13198 RPM ok
+04:40:53 core-sw1 BGP neighbor 10.20.0.202 keepalive received
+04:40:58 r13-bmc PSU2 input voltage 159 V out of range, failing over to PSU1
+04:40:58 r14-bmc fan FAN6 speed 12927 RPM ok
+04:41:00 r12-bmc fan FAN3 speed 13357 RPM ok
+04:41:05 r15-bmc session opened for user svc_monitor from 10.20.7.26
+04:41:13 r12-bmc fan FAN2 speed 13943 RPM ok
+04:41:20 r12-bmc fan FAN1 speed 12875 RPM ok
+04:41:21 r13-bmc PSU2 input voltage 158 V out of range, failing over to PSU1
+04:41:26 pdu-a3 outlet 5 current 2.2 A within limit
+04:41:35 r10-bmc fan FAN5 speed 8270 RPM ok
+04:41:38 r14-bmc fan FAN6 speed 12907 RPM ok
+04:41:45 r13-bmc PSU2 input voltage 157 V out of range, failing over to PSU1
+04:41:48 r11-bmc fan FAN3 speed 8804 RPM ok
+04:41:53 core-sw1 Interface Ethernet1/3 link down
+04:41:56 pdu-a3 outlet 16 current 10.1 A above warning threshold
+04:41:57 pdu-b3 outlet 5 current 1.9 A within limit
+04:41:58 r14-bmc fan FAN6 speed 13152 RPM ok
+04:42:03 pdu-a3 outlet 14 current 11.1 A above warning threshold
+04:42:04 r12-bmc fan FAN3 speed 13739 RPM ok
+04:42:05 r13-bmc PSU2 input voltage 156 V out of range, failing over to PSU1
+04:42:08 r10-bmc session closed for user svc_monitor from 10.20.4.57
+04:42:11 r13-bmc PSU2 input voltage 172 V out of range, failing over to PSU1
+04:42:20 r12-bmc fan FAN6 speed 13388 RPM ok
+04:42:27 r12-bmc sensor CPU1_Temp reading 53 C ok
+04:42:29 r14-bmc fan FAN6 speed 13165 RPM ok
+04:42:33 r14-bmc sensor CPU0_Temp reading 64 C ok
+04:42:35 core-sw2 BGP neighbor 10.20.8.60 keepalive received
+04:42:40 r13-bmc PSU2 input voltage 161 V out of range, failing over to PSU1
+04:42:45 r14-bmc fan FAN2 speed 13938 RPM ok
+04:42:53 core-sw2 Interface Ethernet1/15 link up, speed 25G
+04:43:01 r12-bmc fan FAN6 speed 13452 RPM ok
+04:43:01 r14-bmc fan FAN2 speed 12605 RPM ok
+04:43:02 r13-bmc PSU2 input voltage 169 V out of range, failing over to PSU1
+04:43:04 r12-bmc session opened for user svc_monitor from 10.20.6.216
+04:43:09 r15-bmc fan FAN6 speed 8448 RPM ok
+04:43:10 r14-bmc fan FAN3 speed 13360 RPM ok
+04:43:13 r13-bmc PSU2 input voltage 171 V out of range, failing over to PSU1
+04:43:14 r14-bmc session closed for user svc_monitor from 10.20.6.83
+04:43:20 r13-bmc PSU2 input voltage 170 V out of range, failing over to PSU1
+04:43:28 r10-bmc sensor CPU1_Temp reading 62 C ok
+04:43:32 r14-bmc fan FAN3 speed 13248 RPM ok
+04:43:35 pdu-a3 outlet 11 current 3.4 A within limit
+04:43:36 r12-bmc fan FAN6 speed 13818 RPM ok
+04:43:37 r14-bmc fan FAN5 speed 13852 RPM ok
+04:43:46 r13-bmc PSU2 input voltage 156 V out of range, failing over to PSU1
+04:43:54 r14-bmc sensor CPU1_Temp reading 62 C ok
+04:44:01 r13-bmc PSU2 input voltage 155 V out of range, failing over to PSU1
+04:44:05 r15-bmc fan FAN2 speed 9175 RPM ok
+04:44:08 r13-bmc PSU2 input voltage 151 V out of range, failing over to PSU1
+04:44:09 core-sw2 BGP neighbor 10.20.8.166 keepalive received
+04:44:15 r13-bmc PSU2 input voltage 158 V out of range, failing over to PSU1
+04:44:16 r12-bmc fan FAN1 speed 13177 RPM ok
+04:44:27 pdu-a3 outlet 4 current 4.6 A within limit
+04:44:44 r12-bmc fan FAN3 speed 12640 RPM ok
+04:44:45 r12-bmc sensor CPU1_Temp reading 61 C ok
+04:44:55 r14-bmc fan FAN2 speed 12539 RPM ok
+04:44:58 r13-bmc PSU2 input voltage 150 V out of range, failing over to PSU1
+04:45:00 r10-bmc heartbeat seq=57 ok
+04:45:00 r11-bmc heartbeat seq=57 ok
+04:45:00 r12-bmc heartbeat seq=57 ok
+04:45:00 r14-bmc heartbeat seq=57 ok
+04:45:00 r15-bmc heartbeat seq=57 ok
+04:45:28 r14-bmc session closed for user svc_monitor from 10.20.8.139
+04:45:34 core-sw2 Interface Ethernet1/13 link up, speed 25G
+04:45:52 r15-bmc session opened for user svc_monitor from 10.20.6.186
+04:45:58 core-sw2 BGP neighbor 10.20.5.242 keepalive received
+04:46:08 r12-bmc session closed for user svc_monitor from 10.20.1.66
+04:46:41 core-sw1 Interface Ethernet1/8 link up, speed 25G
+04:46:46 r11-bmc session opened for user svc_monitor from 10.20.7.245
+04:46:52 r15-bmc fan FAN3 speed 8138 RPM ok
+04:47:00 r12-bmc session closed for user svc_monitor from 10.20.6.163
+04:47:29 r15-bmc session closed for user svc_monitor from 10.20.1.179
+04:47:38 core-sw2 BGP neighbor 10.20.0.115 keepalive received
+04:48:24 r11-bmc fan FAN2 speed 8686 RPM ok
+04:48:49 core-sw2 Interface Ethernet1/21 link up, speed 25G
+04:48:49 r14-bmc sensor CPU1_Temp reading 55 C ok
+04:48:50 core-sw1 BGP neighbor 10.20.9.199 keepalive received
+04:49:07 r10-bmc session closed for user svc_monitor from 10.20.0.136
+04:49:26 r15-bmc sensor CPU0_Temp reading 60 C ok
+04:49:30 r10-bmc fan FAN3 speed 8863 RPM ok
+04:49:41 r12-bmc fan FAN1 speed 8482 RPM ok
+04:50:00 r10-bmc heartbeat seq=58 ok
+04:50:00 r11-bmc heartbeat seq=58 ok
+04:50:00 r12-bmc heartbeat seq=58 ok
+04:50:00 r14-bmc heartbeat seq=58 ok
+04:50:00 r15-bmc heartbeat seq=58 ok
+04:50:06 r15-bmc SEL log 71% full
+04:50:23 core-sw1 Interface Ethernet1/44 link up, speed 25G
+04:50:39 core-sw1 Interface Ethernet1/8 link down
+04:50:40 core-sw2 BGP neighbor 10.20.5.179 keepalive received
+04:50:47 r10-bmc sensor CPU0_Temp reading 54 C ok
+04:51:06 r12-bmc fan FAN2 speed 8549 RPM ok
+04:51:12 r10-bmc session closed for user svc_monitor from 10.20.5.15
+04:51:29 core-sw2 Interface Ethernet1/41 link up, speed 25G
+04:51:44 core-sw2 Interface Ethernet1/5 link up, speed 25G
+04:51:56 core-sw2 Interface Ethernet1/7 link up, speed 25G
+04:52:16 r15-bmc session opened for user svc_monitor from 10.20.8.41
+04:52:24 pdu-b3 outlet 14 current 1.4 A within limit
+04:52:43 r12-bmc sensor CPU0_Temp reading 66 C ok
+04:52:47 r14-bmc sensor CPU0_Temp reading 51 C ok
+04:52:52 r14-bmc fan FAN3 speed 8303 RPM ok
+04:53:17 core-sw1 Interface Ethernet1/48 link up, speed 25G
+04:53:22 r10-bmc sensor CPU1_Temp reading 66 C ok
+04:53:39 core-sw1 BGP neighbor 10.20.9.76 keepalive received
+04:53:43 r12-bmc sensor CPU0_Temp reading 66 C ok
+04:53:50 r15-bmc fan FAN6 speed 8511 RPM ok
+04:54:09 r15-bmc fan FAN3 speed 8328 RPM ok
+04:54:20 r12-bmc session opened for user svc_monitor from 10.20.8.93
+04:54:31 r11-bmc fan FAN1 speed 8862 RPM ok
+04:54:36 core-sw2 Interface Ethernet1/28 link up, speed 25G
+04:54:59 r10-bmc fan FAN3 speed 8680 RPM ok
+04:55:00 r10-bmc heartbeat seq=59 ok
+04:55:00 r11-bmc heartbeat seq=59 ok
+04:55:00 r12-bmc heartbeat seq=59 ok
+04:55:00 r14-bmc heartbeat seq=59 ok
+04:55:00 r15-bmc heartbeat seq=59 ok
+04:55:15 r15-bmc fan FAN6 speed 7829 RPM ok
+04:55:32 r12-bmc session opened for user svc_monitor from 10.20.5.204
+04:55:54 r14-bmc sensor CPU1_Temp reading 57 C ok
+04:56:11 r11-bmc fan FAN2 speed 8965 RPM ok
+04:56:12 r14-bmc fan FAN6 speed 8424 RPM ok
+04:56:53 core-sw1 BGP neighbor 10.20.4.180 keepalive received
+04:57:09 r15-bmc sensor CPU0_Temp reading 56 C ok
+04:57:17 pdu-b3 outlet 7 current 3.8 A within limit
+04:57:27 core-sw1 BGP neighbor 10.20.4.234 keepalive received
+04:57:58 core-sw2 Interface Ethernet1/47 link up, speed 25G
+04:58:01 r15-bmc sensor CPU0_Temp reading 51 C ok
+04:58:03 r10-bmc fan FAN2 speed 8082 RPM ok
+04:58:08 r15-bmc fan FAN3 speed 8261 RPM ok
+04:58:52 r11-bmc session opened for user svc_monitor from 10.20.5.145
+04:59:03 r10-bmc sensor CPU1_Temp reading 52 C ok
+04:59:21 core-sw1 BGP neighbor 10.20.8.79 keepalive received
+04:59:32 core-sw1 Interface Ethernet1/16 link up, speed 25G
+04:59:44 core-sw1 Interface Ethernet1/11 link up, speed 25G
+04:59:48 r14-bmc sensor CPU0_Temp reading 51 C ok
+05:00:00 r10-bmc heartbeat seq=60 ok
+05:00:00 r11-bmc heartbeat seq=60 ok
+05:00:00 r12-bmc heartbeat seq=60 ok
+05:00:00 r14-bmc heartbeat seq=60 ok
+05:00:00 r15-bmc heartbeat seq=60 ok
+05:00:03 core-sw2 Interface Ethernet1/36 link up, speed 25G
+05:00:20 r10-bmc fan FAN2 speed 9146 RPM ok
+05:00:22 r10-bmc sensor CPU0_Temp reading 55 C ok
+05:00:52 r12-bmc fan FAN4 speed 8360 RPM ok
+05:01:07 r12-bmc sensor CPU0_Temp reading 52 C ok
+05:01:20 r15-bmc SEL log 24% full
+05:01:58 r11-bmc session opened for user svc_monitor from 10.20.1.224
+05:01:58 r14-bmc sensor CPU0_Temp reading 65 C ok
+05:02:00 core-sw1 Interface Ethernet1/18 link up, speed 25G
+05:02:04 core-sw1 BGP neighbor 10.20.1.110 keepalive received
+05:02:07 core-sw2 Interface Ethernet1/1 link up, speed 25G
+05:02:24 pdu-a3 outlet 7 current 0.5 A within limit
+05:02:58 r14-bmc session closed for user svc_monitor from 10.20.0.201
+05:03:07 core-sw2 Interface Ethernet1/4 link up, speed 25G
+05:04:12 r12-bmc sensor CPU0_Temp reading 65 C ok
+05:04:12 r14-bmc session closed for user svc_monitor from 10.20.4.10
+05:04:42 core-sw1 Interface Ethernet1/41 link up, speed 25G
+05:04:49 r15-bmc fan FAN1 speed 9011 RPM ok
+05:04:59 r14-bmc fan FAN1 speed 8586 RPM ok
+05:05:00 r10-bmc heartbeat seq=61 ok
+05:05:00 r11-bmc heartbeat seq=61 ok
+05:05:00 r12-bmc heartbeat seq=61 ok
+05:05:00 r14-bmc heartbeat seq=61 ok
+05:05:00 r15-bmc heartbeat seq=61 ok
+05:05:02 r12-bmc session opened for user svc_monitor from 10.20.0.177
+05:05:15 r10-bmc sensor CPU0_Temp reading 61 C ok
+05:05:17 r12-bmc sensor CPU1_Temp reading 54 C ok
+05:05:21 r11-bmc fan FAN5 speed 8371 RPM ok
+05:06:01 core-sw1 BGP neighbor 10.20.7.129 keepalive received
+05:06:22 core-sw2 Interface Ethernet1/45 link up, speed 25G
+05:06:27 r11-bmc fan FAN2 speed 8970 RPM ok
+05:06:29 r14-bmc fan FAN4 speed 7973 RPM ok
+05:06:43 core-sw2 Interface Ethernet1/25 link up, speed 25G
+05:07:14 pdu-a3 outlet 20 current 4.0 A within limit
+05:07:20 core-sw1 Interface Ethernet1/7 link up, speed 25G
+05:07:49 core-sw1 Interface Ethernet1/41 link up, speed 25G
+05:07:56 r12-bmc session closed for user svc_monitor from 10.20.6.143
+05:08:06 r12-bmc sensor CPU0_Temp reading 49 C ok
+05:08:15 pdu-a3 outlet 2 current 3.4 A within limit
+05:08:45 r15-bmc sensor CPU0_Temp reading 48 C ok
+05:09:13 r10-bmc fan FAN3 speed 8500 RPM ok
+05:09:30 core-sw2 BGP neighbor 10.20.2.124 keepalive received
+05:09:30 r11-bmc sensor CPU1_Temp reading 53 C ok
+05:09:39 r15-bmc sensor CPU1_Temp reading 54 C ok
+05:09:46 r11-bmc sensor CPU0_Temp reading 65 C ok
+05:10:00 r10-bmc heartbeat seq=62 ok
+05:10:00 r11-bmc heartbeat seq=62 ok
+05:10:00 r12-bmc heartbeat seq=62 ok
+05:10:00 r14-bmc heartbeat seq=62 ok
+05:10:00 r15-bmc heartbeat seq=62 ok
+05:10:33 pdu-b3 outlet 3 current 1.2 A within limit
+05:10:38 core-sw1 Interface Ethernet1/11 link up, speed 25G
+05:10:41 r15-bmc fan FAN4 speed 8175 RPM ok
+05:10:49 core-sw2 Interface Ethernet1/21 link down
+05:10:59 r15-bmc sensor CPU1_Temp reading 59 C ok
+05:11:04 r14-bmc session closed for user svc_monitor from 10.20.4.36
+05:11:28 r10-bmc fan FAN4 speed 8937 RPM ok
+05:11:39 r14-bmc sensor CPU1_Temp reading 51 C ok
+05:11:44 core-sw2 Interface Ethernet1/16 link down
+05:12:15 r12-bmc sensor CPU0_Temp reading 59 C ok
+05:12:23 r11-bmc sensor CPU0_Temp reading 55 C ok
+05:12:34 r14-bmc session opened for user svc_monitor from 10.20.4.148
+05:12:52 pdu-b3 outlet 14 current 2.0 A within limit
+05:13:00 r10-bmc sensor CPU0_Temp reading 56 C ok
+05:13:19 r15-bmc sensor CPU0_Temp reading 60 C ok
+05:13:39 core-sw1 Interface Ethernet1/2 link up, speed 25G
+05:13:52 r10-bmc sensor CPU1_Temp reading 58 C ok
+05:14:35 core-sw1 BGP neighbor 10.20.0.38 keepalive received
+05:14:44 r10-bmc session opened for user svc_monitor from 10.20.0.95
+05:14:50 r11-bmc sensor CPU1_Temp reading 59 C ok
+05:14:57 pdu-b3 outlet 9 current 4.0 A within limit
+05:15:00 r10-bmc heartbeat seq=63 ok
+05:15:00 r11-bmc heartbeat seq=63 ok
+05:15:00 r12-bmc heartbeat seq=63 ok
+05:15:00 r14-bmc heartbeat seq=63 ok
+05:15:00 r15-bmc heartbeat seq=63 ok
+05:15:23 r10-bmc sensor CPU0_Temp reading 54 C ok
+05:15:29 r10-bmc sensor CPU0_Temp reading 51 C ok
+05:15:39 r11-bmc sensor CPU0_Temp reading 55 C ok
+05:15:43 r10-bmc sensor CPU1_Temp reading 59 C ok
+05:15:49 r10-bmc sensor CPU0_Temp reading 57 C ok
+05:16:17 r10-bmc session opened for user svc_monitor from 10.20.0.115
+05:16:36 r10-bmc fan FAN4 speed 8720 RPM ok
+05:17:18 r14-bmc fan FAN5 speed 7986 RPM ok
+05:17:25 pdu-b3 outlet 23 current 4.7 A within limit
+05:17:32 core-sw1 BGP neighbor 10.20.3.56 keepalive received
+05:17:33 r15-bmc fan FAN2 speed 8601 RPM ok
+05:17:41 r14-bmc fan FAN6 speed 8225 RPM ok
+05:18:14 core-sw1 Interface Ethernet1/9 link up, speed 25G
+05:18:19 r15-bmc fan FAN1 speed 8013 RPM ok
+05:18:39 r10-bmc fan FAN1 speed 7879 RPM ok
+05:18:48 r14-bmc fan FAN3 speed 7805 RPM ok
+05:19:05 r15-bmc fan FAN1 speed 8599 RPM ok
+05:19:19 r12-bmc sensor CPU0_Temp reading 52 C ok
+05:19:45 r12-bmc fan FAN1 speed 8470 RPM ok
+05:19:54 r15-bmc sensor CPU0_Temp reading 60 C ok
+05:20:00 r10-bmc heartbeat seq=64 ok
+05:20:00 r11-bmc heartbeat seq=64 ok
+05:20:00 r12-bmc heartbeat seq=64 ok
+05:20:00 r14-bmc heartbeat seq=64 ok
+05:20:00 r15-bmc heartbeat seq=64 ok
+05:20:57 r10-bmc sensor CPU1_Temp reading 55 C ok
+05:20:59 core-sw1 Interface Ethernet1/40 link up, speed 25G
+05:21:01 r10-bmc session opened for user svc_monitor from 10.20.7.135
+05:21:14 r15-bmc fan FAN6 speed 8153 RPM ok
+05:21:26 core-sw1 BGP neighbor 10.20.4.99 keepalive received
+05:21:40 r15-bmc sensor CPU0_Temp reading 57 C ok
+05:21:45 pdu-a3 outlet 15 current 1.5 A within limit
+05:21:58 core-sw2 BGP neighbor 10.20.2.166 keepalive received
+05:22:15 pdu-a3 outlet 23 current 0.7 A within limit
+05:22:19 core-sw2 Interface Ethernet1/20 link up, speed 25G
+05:22:19 core-sw2 Interface Ethernet1/22 link up, speed 25G
+05:22:35 r14-bmc fan FAN5 speed 8852 RPM ok
+05:22:53 r10-bmc session closed for user svc_monitor from 10.20.5.24
+05:22:57 core-sw1 Interface Ethernet1/6 link up, speed 25G
+05:23:23 core-sw1 Interface Ethernet1/44 link up, speed 25G
+05:23:24 core-sw2 Interface Ethernet1/28 link up, speed 25G
+05:23:29 r12-bmc sensor CPU0_Temp reading 65 C ok
+05:23:58 core-sw1 Interface Ethernet1/47 link up, speed 25G
+05:23:58 r10-bmc fan FAN2 speed 8217 RPM ok
+05:24:05 r10-bmc fan FAN5 speed 8722 RPM ok
+05:24:26 r15-bmc sensor CPU0_Temp reading 62 C ok
+05:24:27 core-sw2 BGP neighbor 10.20.2.179 keepalive received
+05:24:36 r14-bmc fan FAN6 speed 9042 RPM ok
+05:24:42 r12-bmc sensor CPU0_Temp reading 50 C ok
+05:24:50 core-sw2 Interface Ethernet1/24 link down
+05:25:00 r10-bmc heartbeat seq=65 ok
+05:25:00 r11-bmc heartbeat seq=65 ok
+05:25:00 r12-bmc heartbeat seq=65 ok
+05:25:00 r14-bmc heartbeat seq=65 ok
+05:25:00 r15-bmc heartbeat seq=65 ok
+05:25:40 core-sw2 Interface Ethernet1/36 link up, speed 25G
+05:25:49 r15-bmc session opened for user svc_monitor from 10.20.9.243
+05:25:53 r15-bmc fan FAN5 speed 9170 RPM ok
+05:26:09 r12-bmc sensor CPU0_Temp reading 62 C ok
+05:26:28 r12-bmc fan FAN2 speed 8901 RPM ok
+05:26:47 core-sw1 Interface Ethernet1/8 link up, speed 25G
+05:26:47 r10-bmc sensor CPU0_Temp reading 50 C ok
+05:26:54 core-sw1 BGP neighbor 10.20.9.240 keepalive received
+05:27:06 r15-bmc sensor CPU0_Temp reading 55 C ok
+05:27:21 r15-bmc sensor CPU0_Temp reading 56 C ok
+05:27:31 core-sw1 BGP neighbor 10.20.3.138 keepalive received
+05:27:48 core-sw1 BGP neighbor 10.20.3.209 keepalive received
+05:28:21 r10-bmc sensor CPU0_Temp reading 60 C ok
+05:28:30 r15-bmc sensor CPU0_Temp reading 61 C ok
+05:28:42 r15-bmc sensor CPU1_Temp reading 56 C ok
+05:28:47 core-sw1 Interface Ethernet1/18 link up, speed 25G
+05:28:49 core-sw2 BGP neighbor 10.20.0.246 keepalive received
+05:29:35 core-sw1 BGP neighbor 10.20.7.39 keepalive received
+05:29:40 r12-bmc fan FAN3 speed 8068 RPM ok
+05:29:42 r12-bmc sensor CPU0_Temp reading 60 C ok
+05:29:55 core-sw2 BGP neighbor 10.20.8.219 keepalive received
+05:30:00 r10-bmc heartbeat seq=66 ok
+05:30:00 r11-bmc heartbeat seq=66 ok
+05:30:00 r12-bmc heartbeat seq=66 ok
+05:30:00 r14-bmc heartbeat seq=66 ok
+05:30:00 r15-bmc heartbeat seq=66 ok
+05:30:03 r11-bmc fan FAN3 speed 7913 RPM ok
+05:30:26 r10-bmc fan FAN4 speed 7886 RPM ok
+05:30:46 r12-bmc fan FAN6 speed 8996 RPM ok
+05:30:56 r15-bmc fan FAN2 speed 7997 RPM ok
+05:31:07 r14-bmc sensor CPU0_Temp reading 52 C ok
+05:31:14 r14-bmc session closed for user svc_monitor from 10.20.4.81
+05:31:19 r15-bmc sensor CPU1_Temp reading 53 C ok
+05:31:24 core-sw1 BGP neighbor 10.20.5.3 keepalive received
+05:31:52 r10-bmc session closed for user svc_monitor from 10.20.8.67
+05:32:07 r10-bmc sensor CPU0_Temp reading 54 C ok
+05:32:14 core-sw2 BGP neighbor 10.20.2.195 keepalive received
+05:32:35 r15-bmc sensor CPU0_Temp reading 65 C ok
+05:32:41 r10-bmc fan FAN3 speed 8938 RPM ok
+05:32:43 core-sw1 BGP neighbor 10.20.7.218 keepalive received
+05:33:13 r14-bmc sensor CPU0_Temp reading 60 C ok
+05:33:35 core-sw1 BGP neighbor 10.20.3.82 keepalive received
+05:33:48 r14-bmc sensor CPU0_Temp reading 61 C ok
+05:33:54 core-sw1 Interface Ethernet1/16 link up, speed 25G
+05:33:54 r15-bmc fan FAN2 speed 8153 RPM ok
+05:34:07 r14-bmc session closed for user svc_monitor from 10.20.8.152
+05:34:18 r11-bmc sensor CPU0_Temp reading 50 C ok
+05:34:19 r11-bmc sensor CPU1_Temp reading 61 C ok
+05:34:32 r12-bmc session opened for user svc_monitor from 10.20.7.204
+05:34:35 core-sw1 Interface Ethernet1/32 link up, speed 25G
+05:35:00 r10-bmc heartbeat seq=67 ok
+05:35:00 r11-bmc heartbeat seq=67 ok
+05:35:00 r12-bmc heartbeat seq=67 ok
+05:35:00 r14-bmc heartbeat seq=67 ok
+05:35:00 r15-bmc heartbeat seq=67 ok
+05:35:07 core-sw2 Interface Ethernet1/9 link up, speed 25G
+05:35:15 core-sw2 BGP neighbor 10.20.8.100 keepalive received
+05:35:23 core-sw2 BGP neighbor 10.20.3.47 keepalive received
+05:36:25 core-sw1 BGP neighbor 10.20.6.78 keepalive received
+05:36:25 r10-bmc sensor CPU1_Temp reading 63 C ok
+05:36:33 core-sw2 Interface Ethernet1/2 link up, speed 25G
+05:36:48 r12-bmc sensor CPU0_Temp reading 60 C ok
+05:36:52 r14-bmc fan FAN1 speed 8623 RPM ok
+05:37:14 core-sw2 Interface Ethernet1/40 link up, speed 25G
+05:37:28 r14-bmc fan FAN1 speed 8157 RPM ok
+05:37:29 r11-bmc SEL log 80% full
+05:37:38 pdu-b3 outlet 10 current 4.3 A within limit
+05:38:00 core-sw1 Interface Ethernet1/34 link up, speed 25G
+05:38:20 core-sw1 BGP neighbor 10.20.0.67 keepalive received
+05:38:43 r15-bmc sensor CPU1_Temp reading 54 C ok
+05:38:49 r14-bmc session opened for user svc_monitor from 10.20.0.66
+05:38:57 pdu-b3 outlet 14 current 0.4 A within limit
+05:39:19 r12-bmc fan FAN6 speed 8634 RPM ok
+05:39:21 core-sw2 BGP neighbor 10.20.2.11 keepalive received
+05:39:30 r12-bmc fan FAN6 speed 9185 RPM ok
+05:39:56 r11-bmc fan FAN5 speed 8383 RPM ok
+05:40:00 r10-bmc heartbeat seq=68 ok
+05:40:00 r11-bmc heartbeat seq=68 ok
+05:40:00 r12-bmc heartbeat seq=68 ok
+05:40:00 r14-bmc heartbeat seq=68 ok
+05:40:00 r15-bmc heartbeat seq=68 ok
+05:40:07 core-sw1 BGP neighbor 10.20.2.16 keepalive received
+05:40:12 core-sw2 BGP neighbor 10.20.5.187 keepalive received
+05:40:24 r14-bmc session closed for user svc_monitor from 10.20.8.118
+05:40:33 core-sw1 BGP neighbor 10.20.5.230 keepalive received
+05:40:36 r12-bmc sensor CPU1_Temp reading 58 C ok
+05:41:08 r10-bmc sensor CPU0_Temp reading 63 C ok
+05:41:39 core-sw1 BGP neighbor 10.20.6.154 keepalive received
+05:41:51 r11-bmc session closed for user svc_monitor from 10.20.3.86
+05:42:03 core-sw1 BGP neighbor 10.20.0.13 keepalive received
+05:42:20 r14-bmc fan FAN3 speed 8758 RPM ok
+05:42:26 r10-bmc sensor CPU0_Temp reading 51 C ok
+05:42:34 pdu-b3 outlet 22 current 4.1 A within limit
+05:43:02 r14-bmc session opened for user svc_monitor from 10.20.2.101
+05:43:03 r14-bmc fan FAN6 speed 8683 RPM ok
+05:43:23 r11-bmc fan FAN6 speed 9119 RPM ok
+05:43:39 pdu-a3 outlet 20 current 2.8 A within limit
+05:44:07 r15-bmc fan FAN2 speed 9113 RPM ok
+05:44:25 r11-bmc session opened for user svc_monitor from 10.20.5.141
+05:44:28 r10-bmc sensor CPU1_Temp reading 60 C ok
+05:45:00 r10-bmc heartbeat seq=69 ok
+05:45:00 r11-bmc heartbeat seq=69 ok
+05:45:00 r12-bmc heartbeat seq=69 ok
+05:45:00 r14-bmc heartbeat seq=69 ok
+05:45:00 r15-bmc heartbeat seq=69 ok
+05:45:17 r14-bmc sensor CPU1_Temp reading 54 C ok
+05:45:19 r15-bmc sensor CPU1_Temp reading 63 C ok
+05:45:41 r10-bmc sensor CPU1_Temp reading 59 C ok
+05:45:48 r14-bmc session closed for user svc_monitor from 10.20.9.51
+05:46:08 pdu-b3 outlet 21 current 2.5 A within limit
+05:46:19 r11-bmc fan FAN4 speed 8901 RPM ok
+05:46:19 r15-bmc session opened for user svc_monitor from 10.20.5.23
+05:46:29 r15-bmc sensor CPU0_Temp reading 50 C ok
+05:46:39 r14-bmc sensor CPU0_Temp reading 54 C ok
+05:47:34 core-sw2 BGP neighbor 10.20.3.131 keepalive received
+05:47:44 core-sw1 Interface Ethernet1/37 link up, speed 25G
+05:47:56 core-sw2 Interface Ethernet1/17 link up, speed 25G
+05:48:16 r11-bmc session opened for user svc_monitor from 10.20.3.149
+05:48:20 r14-bmc sensor CPU0_Temp reading 55 C ok
+05:48:27 core-sw1 Interface Ethernet1/9 link up, speed 25G
+05:48:38 r11-bmc sensor CPU1_Temp reading 51 C ok
+05:48:45 core-sw2 Interface Ethernet1/16 link up, speed 25G
+05:49:03 pdu-b3 outlet 15 current 3.6 A within limit
+05:49:23 r10-bmc sensor CPU1_Temp reading 65 C ok
+05:49:38 r15-bmc sensor CPU0_Temp reading 52 C ok
+05:49:42 r12-bmc fan FAN2 speed 8005 RPM ok
+05:50:00 r10-bmc heartbeat seq=70 ok
+05:50:00 r11-bmc heartbeat seq=70 ok
+05:50:00 r12-bmc heartbeat seq=70 ok
+05:50:00 r14-bmc heartbeat seq=70 ok
+05:50:00 r15-bmc heartbeat seq=70 ok
+05:50:25 pdu-b3 outlet 14 current 4.2 A within limit
+05:50:43 r10-bmc fan FAN6 speed 9070 RPM ok
+05:50:46 core-sw1 BGP neighbor 10.20.0.164 keepalive received
+05:50:49 r14-bmc session opened for user svc_monitor from 10.20.5.97
+05:50:55 core-sw2 Interface Ethernet1/28 link up, speed 25G
+05:51:14 core-sw2 BGP neighbor 10.20.0.205 keepalive received
+05:51:34 core-sw1 Interface Ethernet1/32 link up, speed 25G
+05:51:39 pdu-b3 outlet 21 current 1.3 A within limit
+05:51:59 pdu-b3 outlet 12 current 4.6 A within limit
+05:52:01 r14-bmc sensor CPU1_Temp reading 57 C ok
+05:52:12 core-sw2 BGP neighbor 10.20.9.144 keepalive received
+05:52:36 core-sw2 Interface Ethernet1/33 link down
+05:52:48 r10-bmc sensor CPU1_Temp reading 51 C ok
+05:53:00 r10-bmc fan FAN5 speed 8497 RPM ok
+05:53:35 core-sw2 Interface Ethernet1/6 link up, speed 25G
+05:53:44 core-sw2 Interface Ethernet1/39 link up, speed 25G
+05:53:59 core-sw1 Interface Ethernet1/33 link up, speed 25G
+05:54:00 r14-bmc fan FAN2 speed 8188 RPM ok
+05:54:06 r10-bmc fan FAN2 speed 8651 RPM ok
+05:54:46 r14-bmc session closed for user svc_monitor from 10.20.6.245
+05:54:58 pdu-b3 outlet 16 current 1.7 A within limit
+05:54:59 r11-bmc session closed for user svc_monitor from 10.20.4.180
+05:55:00 r10-bmc heartbeat seq=71 ok
+05:55:00 r11-bmc heartbeat seq=71 ok
+05:55:00 r12-bmc heartbeat seq=71 ok
+05:55:00 r14-bmc heartbeat seq=71 ok
+05:55:00 r15-bmc heartbeat seq=71 ok
+05:55:04 core-sw1 Interface Ethernet1/2 link up, speed 25G
+05:55:23 r10-bmc sensor CPU1_Temp reading 63 C ok
+05:55:34 r15-bmc session opened for user svc_monitor from 10.20.9.243
+05:55:42 r14-bmc sensor CPU0_Temp reading 53 C ok
+05:56:01 r14-bmc fan FAN2 speed 8174 RPM ok
+05:56:06 r11-bmc fan FAN6 speed 8751 RPM ok
+05:56:25 core-sw1 Interface Ethernet1/2 link up, speed 25G
+05:56:37 r10-bmc sensor CPU1_Temp reading 65 C ok
+05:56:57 r12-bmc sensor CPU0_Temp reading 60 C ok
+05:57:01 r14-bmc fan FAN6 speed 7988 RPM ok
+05:57:07 pdu-a3 outlet 7 current 3.5 A within limit
+05:57:32 r14-bmc sensor CPU1_Temp reading 51 C ok
+05:57:33 r14-bmc sensor CPU0_Temp reading 58 C ok
+05:57:59 r15-bmc fan FAN2 speed 8864 RPM ok
+05:58:02 core-sw1 BGP neighbor 10.20.5.168 keepalive received
+05:58:17 r10-bmc session opened for user svc_monitor from 10.20.6.242
+05:58:28 r15-bmc sensor CPU1_Temp reading 53 C ok
+05:58:30 core-sw2 Interface Ethernet1/9 link up, speed 25G
+05:58:59 r11-bmc fan FAN2 speed 8321 RPM ok
+05:59:39 r12-bmc sensor CPU0_Temp reading 57 C ok
+05:59:45 r12-bmc SEL log 25% full
+05:59:49 r10-bmc fan FAN4 speed 9170 RPM ok
+05:59:52 core-sw2 Interface Ethernet1/4 link down
+05:59:58 r11-bmc sensor CPU0_Temp reading 59 C ok

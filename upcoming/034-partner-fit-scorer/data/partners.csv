@@ -1,0 +1,9 @@
+partner,type,revenue_potential,customer_overlap,integration_effort,financial_health,strategic_alignment,channel_conflict
+Northwind Logistics Cloud,ISV,4.2,35,6,8,9,2
+Brightline Systems Integrator,SI,6.5,22,2,7,6,5
+Atlas ERP,ISV,8.0,48,14,9,7,6
+Cobalt Freight Marketplace,Marketplace,2.1,55,4,5,8,3
+Meridian Consulting,SI,3.0,18,1,9,5,2
+Pioneer Robotics,OEM,5.5,12,18,6,9,1
+Harbor Payments,ISV,3.8,40,5,8,6,4
+Summit Reseller Group,Reseller,7.2,30,2,4,4,9

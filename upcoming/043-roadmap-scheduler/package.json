@@ -1,0 +1,10 @@
+{
+  "name": "roadmap-scheduler",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "npx --yes tsx --test src/*.test.ts",
+    "demo": "npx --yes tsx src/cli.ts"
+  }
+}

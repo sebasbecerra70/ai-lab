@@ -1,0 +1,13 @@
+supplier,category,country,annual_spend_usd,single_source,current_ratio,debt_to_equity,net_margin_pct,days_payable_trend,on_time_pct,lead_time_days,lead_time_cv,defect_ppm
+Shenzhen Precision Electronics,PCB assemblies,CN,4200000,yes,1.3,1.4,4.5,12,88,42,0.35,850
+Taichung Semicon Supply,Microcontrollers,TW,6100000,yes,2.1,0.5,14.0,0,95,56,0.20,120
+Monterrey Metal Works,Enclosures,MX,1800000,no,1.6,0.9,7.5,3,93,14,0.18,400
+Ohio Cable & Harness,Wire harnesses,US,950000,no,1.9,0.6,6.0,-2,97,9,0.10,200
+Penang Passive Components,Capacitors,MY,700000,no,2.4,0.3,11.0,0,96,35,0.15,60
+Bavaria Sensorik GmbH,Sensors,DE,2300000,yes,1.8,0.7,9.0,1,94,28,0.12,90
+Hanoi Plastics Co,Injection molding,VN,600000,no,1.1,2.2,2.0,18,81,38,0.42,1500
+Ontario Packaging Inc,Packaging,CA,300000,no,1.5,0.8,5.0,0,98,6,0.08,300
+Chennai Firmware Services,Firmware dev,IN,800000,yes,1.4,1.1,8.0,6,90,21,0.30,0
+Busan Battery Cells,Li-ion cells,KR,3100000,no,1.7,1.0,6.5,4,92,45,0.25,350
+Guadalajara Logistics,3PL services,MX,500000,no,0.9,3.1,-1.5,25,85,5,0.30,0
+Lyon Precision Optics,Lenses,FR,1200000,yes,2.6,0.4,12.0,0,99,30,0.10,40

@@ -1,0 +1,1 @@
+{"slug":"warehouse-slotting","title":"Warehouse Slotting Optimizer","summary":"ABC velocity analysis and slot assignment that cuts picker travel","technique":"ABC/Pareto analysis, greedy assignment, order-pick route simulation","domain":"Supply Chain","stack":"Python"}

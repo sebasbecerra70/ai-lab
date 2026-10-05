@@ -1,0 +1,55 @@
+commit 9f1c2ab
+feat(billing): add usage-based invoices with per-seat line items (#412)
+
+Invoices now itemize seats and metered usage separately.
+
+commit 4e7d0a1
+fix(export): csv export drops rows with unicode customer names (#418)
+
+commit 0b9e3f2
+feat(dashboard)!: replace legacy widgets API with v2 layout engine (#401)
+
+BREAKING CHANGE: custom widgets built on /api/v1/widgets must migrate to /api/v2/layouts.
+
+commit 7aa81c3
+perf(search): cache tokenized index per workspace, p95 from 840ms to 210ms (#415)
+
+commit 1c4d9e8
+chore(deps): bump eslint from 9.1.0 to 9.2.0
+
+commit 5d2f7b0
+fix(auth): sso login loop when idp session expired (#420)
+
+Refs: #398
+
+commit c3e0a44
+test(billing): add fixtures for prorated invoices
+
+commit 88b1f6d
+feat(integrations): slack notifications for sla breaches (#409)
+
+commit 2f6a9c1
+docs: update self-hosting guide for postgres 17
+
+commit e7b3d52
+fix(billing): rounding error on prorated seat refunds (#422)
+
+commit 6c0d1f9
+feat(integrations): slack notifications for sla breaches (#409)
+
+commit a9d4e27
+ci: cache node_modules between workflow runs
+
+commit 3b8c6f5
+refactor(dashboard): split layout engine into modules
+
+commit d1e2f3a
+fix(notifications)!: email digests now respect the workspace timezone (#411)
+
+BREAKING CHANGE: digest send time moves from 09:00 UTC to 09:00 in each workspace's timezone.
+
+commit f0e9d8c
+Merge branch 'main' into release
+
+commit b7a6c5d
+updated stuff

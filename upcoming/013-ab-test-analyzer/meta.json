@@ -1,0 +1,1 @@
+{"slug":"ab-test-analyzer","title":"A/B Test Analyzer","summary":"Z-tests, confidence intervals, power planning and SRM checks for experiments","technique":"frequentist hypothesis testing, power analysis, chi-square SRM","domain":"Product","stack":"Python"}

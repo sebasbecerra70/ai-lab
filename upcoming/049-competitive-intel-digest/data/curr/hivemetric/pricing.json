@@ -1,0 +1,6 @@
+{"currency": "USD", "plans": [
+  {"name": "Free", "price": 0, "unit": "month", "limits": {"events_m": 5, "dashboards": 10}, "features": ["Dashboards", "Alerts", "Community support"]},
+  {"name": "Team", "price": 299, "unit": "month", "limits": {"events_m": 25, "dashboards": 50}, "features": ["Dashboards", "Alerts", "Email support", "Warehouse sync"]},
+  {"name": "Scale", "price": 599, "unit": "month", "limits": {"events_m": 50, "dashboards": 100}, "features": ["Dashboards", "Alerts", "Email support", "Warehouse sync", "SSO"]},
+  {"name": "Business", "price": 999, "unit": "month", "limits": {"events_m": 100, "dashboards": null}, "features": ["Dashboards", "Alerts", "SSO", "Priority support", "Warehouse sync"]}
+]}

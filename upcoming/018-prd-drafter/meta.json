@@ -1,0 +1,1 @@
+{"slug":"prd-drafter","title":"PRD Drafter","summary":"Structured PM interview, LLM-filled PRD template and a completeness checker","technique":"structured elicitation, templated LLM generation, rule-based doc linting","domain":"Product","stack":"TypeScript"}

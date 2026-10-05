@@ -1,0 +1,29 @@
+{
+  "quarter": "Q4",
+  "weeks_in_quarter": 13,
+  "objectives": [
+    {
+      "id": "O1", "title": "Make self-serve onboarding effortless",
+      "key_results": [
+        {"id": "KR1.1", "title": "Activation rate (7-day)", "metric": "activation_rate", "baseline": 0.31, "target": 0.40, "unit": "%", "weight": 0.4},
+        {"id": "KR1.2", "title": "Median time-to-first-value", "metric": "ttfv_minutes", "baseline": 42, "target": 15, "unit": "min", "weight": 0.3},
+        {"id": "KR1.3", "title": "Onboarding support tickets per week", "metric": "onboarding_tickets", "baseline": 120, "target": 60, "unit": "", "weight": 0.3}
+      ]
+    },
+    {
+      "id": "O2", "title": "Grow expansion revenue from teams",
+      "key_results": [
+        {"id": "KR2.1", "title": "Net revenue retention", "metric": "nrr", "baseline": 1.04, "target": 1.12, "unit": "%", "weight": 0.5},
+        {"id": "KR2.2", "title": "Workspaces on Team plan", "metric": "team_workspaces", "baseline": 820, "target": 1100, "unit": "", "weight": 0.3},
+        {"id": "KR2.3", "title": "Seat-based upgrade flow shipped", "metric": "upgrade_flow_milestones", "baseline": 0, "target": 4, "unit": "milestones", "weight": 0.2}
+      ]
+    },
+    {
+      "id": "O3", "title": "Earn enterprise trust",
+      "key_results": [
+        {"id": "KR3.1", "title": "p95 API latency", "metric": "p95_latency_ms", "baseline": 640, "target": 300, "unit": "ms", "weight": 0.5},
+        {"id": "KR3.2", "title": "SOC 2 Type II controls evidenced", "metric": "soc2_controls", "baseline": 22, "target": 64, "unit": "", "weight": 0.5}
+      ]
+    }
+  ]
+}

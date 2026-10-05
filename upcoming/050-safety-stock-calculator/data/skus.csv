@@ -1,0 +1,9 @@
+sku,description,unit_cost,order_qty,abc
+PMP-100,Centrifugal pump 1HP,310,180,A
+VLV-220,Ball valve 2in,38,800,A
+FLT-310,Hydraulic filter,22,400,B
+SNS-410,Pressure sensor,145,120,A
+GSK-500,Gasket kit,4,1500,C
+MTR-620,Servo motor 400W,690,40,B
+BRG-710,Bearing 6205,3,2000,C
+CBL-800,Control cable 50m,120,200,B

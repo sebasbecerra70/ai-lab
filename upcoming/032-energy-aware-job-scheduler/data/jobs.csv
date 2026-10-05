@@ -1,0 +1,13 @@
+job_id,team,power_kw,duration_h,release_h,deadline_h,preemptible
+etl-nightly,data,180,3,0,10,no
+ml-train-recsys,ml,420,6,0,30,yes
+backup-full,infra,90,4,0,24,no
+report-finance,finance,40,1,6,9,no
+ml-train-fraud,ml,380,5,2,40,yes
+video-transcode,media,250,8,0,46,yes
+index-rebuild,search,160,2,10,20,no
+log-compaction,infra,70,3,0,48,yes
+genomics-batch,research,300,10,4,48,yes
+cache-warm,web,60,1,20,24,no
+analytics-weekly,data,140,4,12,36,no
+sim-capacity,infra,200,6,8,44,yes

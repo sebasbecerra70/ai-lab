@@ -1,0 +1,1 @@
+{"slug":"okr-reporter","title":"OKR Reporter","summary":"Score OKRs from live metrics, forecast quarter-end, draft the status update","technique":"pace-adjusted progress, linear trend forecast, grounded LLM narrative","domain":"Product","stack":"Python"}

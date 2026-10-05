@@ -1,0 +1,44 @@
+{"text": "What is the capital of France?", "label": "easy"}
+{"text": "Translate 'good morning' into Spanish.", "label": "easy"}
+{"text": "Fix the typo in this sentence: 'Teh shipment arrived late.'", "label": "easy"}
+{"text": "Summarize this email in one sentence: the meeting moved to Thursday at 3pm.", "label": "easy"}
+{"text": "Convert 5 kilometers to miles.", "label": "easy"}
+{"text": "List three synonyms for 'fast'.", "label": "easy"}
+{"text": "What time zone is Chicago in?", "label": "easy"}
+{"text": "Classify the sentiment of: 'The delivery was quick and friendly.'", "label": "easy"}
+{"text": "Give me a short subject line for an invoice reminder email.", "label": "easy"}
+{"text": "Extract the order number from: 'Order #48213 shipped today.'", "label": "easy"}
+{"text": "Is 17 a prime number?", "label": "easy"}
+{"text": "Rewrite this sentence to be more polite: 'Send the report now.'", "label": "easy"}
+{"text": "What does SKU stand for?", "label": "easy"}
+{"text": "Spell out the acronym API.", "label": "easy"}
+{"text": "Name the largest planet in the solar system.", "label": "easy"}
+{"text": "Format this date as ISO 8601: March 4 2025.", "label": "easy"}
+{"text": "Tag this ticket as billing, shipping, or technical: 'I was charged twice.'", "label": "easy"}
+{"text": "What is 15 percent of 200?", "label": "easy"}
+{"text": "Write a one-line thank you note to a supplier.", "label": "easy"}
+{"text": "Uppercase the word warehouse.", "label": "easy"}
+{"text": "Define the term lead time in one sentence.", "label": "easy"}
+{"text": "Which is bigger, a terabyte or a gigabyte?", "label": "easy"}
+{"text": "Give the plural of 'pallet'.", "label": "easy"}
+{"text": "Turn this list into a comma separated string: apples, pears, plums.", "label": "easy"}
+{"text": "Design a multi-region failover architecture for a payments API, explain the trade-offs between active-active and active-passive, and estimate the cost impact.", "label": "hard"}
+{"text": "Prove that the sum of the first n odd numbers equals n squared, step by step.", "label": "hard"}
+{"text": "Write a Python function that parses a nested JSON config, validates it against a schema, and explains each error. Include tests.", "label": "hard"}
+{"text": "Analyze why our churn rose 3 points last quarter given these five cohorts, and propose experiments to test each hypothesis.", "label": "hard"}
+{"text": "Debug this stack trace and explain the race condition causing the deadlock between the two worker threads.", "label": "hard"}
+{"text": "Compare three pricing strategies for a usage-based SaaS product and recommend one, considering margin, adoption and competitive response.", "label": "hard"}
+{"text": "Refactor this 400-line legacy module into smaller classes and justify each design decision.", "label": "hard"}
+{"text": "Derive the optimal reorder point under stochastic demand and lead time, then compute it for mean 40, sd 12, lead time 5 days.", "label": "hard"}
+{"text": "Plan a phased migration of 2,000 servers to a new data center with no more than 15 minutes downtime per service, step by step.", "label": "hard"}
+{"text": "Explain the difference between eventual and strong consistency and when each breaks a checkout flow, with examples.", "label": "hard"}
+{"text": "Draft a negotiation strategy for a three-year supplier contract, including BATNA, concessions and walk-away terms.", "label": "hard"}
+{"text": "Write SQL to compute 7-day rolling retention by signup cohort and explain how you handle users with gaps in activity.", "label": "hard"}
+{"text": "Given these 12 constraints, build a weekly staff schedule that minimizes overtime and explain why it is optimal.", "label": "hard"}
+{"text": "Critique this product requirements document and identify the riskiest assumptions, then rank them.", "label": "hard"}
+{"text": "Implement a rate limiter using a token bucket in TypeScript and analyze its behavior under bursty traffic.", "label": "hard"}
+{"text": "Evaluate whether we should build or buy a forecasting tool, with a five-year TCO model and qualitative risks.", "label": "hard"}
+{"text": "Explain step by step how to reconcile inventory discrepancies across three warehouses with different cut-off times.", "label": "hard"}
+{"text": "Reason through this logic puzzle: five suppliers, five cities, and nine clues; who ships from Lyon?", "label": "hard"}
+{"text": "Write a detailed root cause analysis for a cooling failure that tripped two racks, including contributing factors and corrective actions.", "label": "hard"}
+{"text": "Optimize this recursive function for memory and explain the time complexity before and after.", "label": "hard"}

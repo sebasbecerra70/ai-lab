@@ -1,0 +1,10 @@
+[
+  {"name": "Taiwan Strait blockade", "description": "shipping through the strait halted for 6 weeks",
+   "country_shock": {"TW": {"political_risk": 35, "logistics_risk": 50}, "CN": {"logistics_risk": 25}},
+   "lead_time_multiplier": {"TW": 2.0, "CN": 1.2}},
+  {"name": "Trans-Pacific port strike", "description": "US West Coast ports slow for a month",
+   "lead_time_multiplier": {"CN": 1.4, "TW": 1.4, "KR": 1.4, "VN": 1.4, "MY": 1.3}},
+  {"name": "Supplier distress", "description": "Hanoi Plastics misses payroll; Guadalajara Logistics loses its main customer",
+   "supplier_shock": {"Hanoi Plastics Co": {"current_ratio": 0.6, "net_margin_pct": -8.0, "days_payable_trend": 35},
+                      "Guadalajara Logistics": {"current_ratio": 0.6, "net_margin_pct": -6.0}}}
+]

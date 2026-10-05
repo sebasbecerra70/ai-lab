@@ -1,0 +1,201 @@
+id,queue,text
+T10161,security,hello team - my laptop was stolen at warehouse DC3. this is blocking me
+T10005,network,DNS not resolving internal hostnames for 2 days asap
+T10096,hardware,urgent: docking station not detecting badge reader
+T10063,access,permission denied opening the shared drive folder. this is blocking me
+T10112,hardware,urgent: desk phone will not turn on asap
+T10111,hardware,urgent: printer on the Austin office is jammed again. can someone look
+T10181,security,lost my badge at the Denver branch. this is blocking me
+T10124,software,Excel shows an error after the update
+T10117,hardware,re: spilled coffee on my laptop keyboard
+T10163,security,re: Workday asking me to approve MFA requests I did not make
+T10115,hardware,"pls help, printer on Building 2 is jammed again"
+T10019,network,"hi, wifi keeps dropping in HQ intermittently. can someone look"
+T10050,access,SSO loop when signing in to Jira since this morning asap
+T10071,access,MFA prompt not arriving on my phone asap
+T10119,hardware,urgent: need a second monitor for a contractor. can someone look
+T10092,hardware,re: laptop overheating and shutting down since yesterday. can someone look
+T10041,access,hello team - MFA prompt not arriving on my phone asap
+T10036,network,"pls help, no network connection on my keyboard at the Denver branch. this is blocking me"
+T10087,hardware,urgent: need a second monitor for a an intern. ticket from the Austin office
+T10182,security,urgent: clicked a link in a phishing email asap
+T10156,software,re: macro in Excel stopped working intermittently. thanks
+T10020,network,"cannot reach shared drive, network path not found. can someone look"
+T10197,security,found a USB drive in the parking lot. thanks
+T10183,security,got a suspicious email asking for my password. can someone look
+T10138,software,"pls help, macro in Excel stopped working after the update. this is blocking me"
+T10078,access,re: need admin rights to install software asap
+T10079,access,"hi, permission denied opening the shared drive folder"
+T10093,hardware,laptop battery drains in an hour. thanks
+T10107,hardware,"hi, laptop battery drains in an hour. thanks"
+T10145,software,re: license expired for the ERP. thanks
+T10001,network,"pls help, packet loss on video calls in the 4th floor. ticket from the Austin office"
+T10049,access,hello team - MFA prompt not arriving on my phone asap
+T10025,network,urgent: wifi keeps dropping in warehouse DC3 intermittently. can someone look
+T10042,access,hello team - VPN says my account is not authorized. ticket from warehouse DC3
+T10056,access,hello team - VPN says my account is not authorized. this is blocking me
+T10085,hardware,urgent: laptop battery drains in an hour
+T10150,software,hello team - macro in Excel stopped working again
+T10060,access,"hi, please create accounts for a my manager starting monday. thanks"
+T10000,network,"hi, VPN disconnects every few minutes since this morning. this is blocking me"
+T10044,access,"hi, locked out of my account since this morning. ticket from Building 2"
+T10101,hardware,my badge reader screen is flickering since this morning
+T10146,software,urgent: macro in Excel stopped working after the update. this is blocking me
+T10004,network,"Zoom times out, everything else online is slow too"
+T10030,network,no network connection on my monitor at Building 2. ticket from Building 2
+T10053,access,re: permission denied opening the shared drive folder. can someone look
+T10075,access,urgent: permission denied opening the shared drive folder. this is blocking me
+T10167,security,received an invoice email with a strange attachment. ticket from the Austin office
+T10091,hardware,"hello team - laptop is broken, need a replacement. ticket from warehouse DC3"
+T10172,security,re: pop-up says my files are encrypted
+T10070,access,urgent: SSO loop when signing in to Salesforce since this morning. this is blocking me
+T10015,network,"hi, cannot reach shared drive, network path not found. can someone look"
+T10122,software,"cannot export report from SAP, error 500. can someone look"
+T10131,software,"hi, cannot export report from Chrome, error 500. ticket from warehouse DC3"
+T10179,security,urgent: unknown login alert for my account from another country
+T10170,security,Chrome asking me to approve MFA requests I did not make asap
+T10171,security,urgent: unknown login alert for my account from another country
+T10121,software,"pls help, Excel keeps freezing again"
+T10045,access,"pls help, please create accounts for a contractor starting monday. this is blocking me"
+T10103,hardware,laptop battery drains in an hour. thanks
+T10054,access,urgent: permission denied opening the shared drive folder
+T10126,software,re: Salesforce plugin missing after reinstall. can someone look
+T10174,security,urgent: received an invoice email with a strange attachment
+T10037,network,wifi keeps dropping in Building 2 for 2 days
+T10135,software,license expired for the ERP
+T10055,access,re: need access to the Workday finance module. can someone look
+T10065,access,re: SSO loop when signing in to Workday since this morning. can someone look
+T10022,network,"hi, DNS not resolving internal hostnames intermittently. thanks"
+T10027,network,hello team - wifi keeps dropping in the Denver branch intermittently. ticket from the Denver branch
+T10009,network,re: ethernet port at my desk is dead. can someone look
+T10164,security,"pls help, unknown login alert for my account from another country asap"
+T10177,security,re: got a suspicious email asking for my password. this is blocking me
+T10189,security,received an invoice email with a strange attachment. thanks
+T10165,security,clicked a link in a phishing email. this is blocking me
+T10166,security,clicked a link in a phishing email
+T10013,network,hello team - no network connection on my badge reader at the Denver branch. this is blocking me
+T10034,network,urgent: no network connection on my printer at the 4th floor. this is blocking me
+T10159,software,re: license expired for SAP. ticket from warehouse DC3
+T10012,network,urgent: DNS not resolving internal hostnames intermittently. ticket from HQ
+T10109,hardware,hello team - spilled coffee on my laptop keyboard
+T10180,security,re: my laptop was stolen at Building 2
+T10194,security,clicked a link in a phishing email
+T10187,security,"pls help, found a USB drive in the parking lot. thanks"
+T10110,hardware,hello team - laptop overheating and shutting down intermittently. this is blocking me
+T10072,access,urgent: remove access for a the temp in finance who left. ticket from warehouse DC3
+T10028,network,"SAP times out, everything else online is slow too asap"
+T10105,hardware,hello team - docking station not detecting headset asap
+T10018,network,urgent: VPN connects but cannot reach internal sites asap
+T10003,network,"pls help, wifi keeps dropping in the 4th floor again asap"
+T10191,security,urgent: lost my badge at the Denver branch
+T10193,security,"pls help, received an invoice email with a strange attachment. ticket from Building 2"
+T10068,access,please create accounts for a the temp in finance starting monday asap
+T10153,software,Excel crashes when I open attachments asap
+T10140,software,hello team - license expired for Workday. this is blocking me
+T10059,access,"hi, MFA prompt not arriving on my phone. ticket from warehouse DC3"
+T10039,network,hello team - ethernet port at my desk is dead. ticket from the Austin office
+T10155,software,hello team - license expired for Workday
+T10047,access,hello team - MFA prompt not arriving on my phone. this is blocking me
+T10082,hardware,need a second monitor for a an intern. thanks
+T10120,software,Workday shows an error after the update. can someone look
+T10043,access,remove access for a my manager who left
+T10095,hardware,re: spilled coffee on my laptop keyboard. this is blocking me
+T10141,software,hello team - Teams very slow to open files. this is blocking me
+T10089,hardware,"printer is broken, need a replacement. thanks"
+T10132,software,re: the ERP is not syncing again
+T10169,security,urgent: received an invoice email with a strange attachment. thanks
+T10147,software,hello team - macro in Excel stopped working since this morning asap
+T10073,access,"hi, cannot log in to Teams, says invalid credentials"
+T10176,security,unknown login alert for my account from another country
+T10067,access,urgent: need access to the Excel finance module
+T10198,security,lost my badge at the 4th floor asap
+T10127,software,re: license expired for Teams. ticket from the Austin office
+T10158,software,re: Chrome crashes when I open attachments. this is blocking me
+T10102,hardware,"pls help, docking station not detecting badge reader asap"
+T10157,software,hello team - macro in Excel stopped working since yesterday
+T10010,network,VPN disconnects every few minutes since yesterday asap
+T10113,hardware,hello team - docking station making a clicking noise. can someone look
+T10168,security,"pls help, someone is sending emails from my account. can someone look"
+T10048,access,hello team - SSO loop when signing in to Outlook for 2 days
+T10154,software,"hi, cannot export report from Zoom, error 500. can someone look"
+T10118,hardware,re: desk phone making a clicking noise. this is blocking me
+T10046,access,password reset for the temp in finance. ticket from Building 2
+T10116,hardware,re: laptop overheating and shutting down since yesterday asap
+T10058,access,need access to the Salesforce finance module
+T10061,access,re: MFA prompt not arriving on my phone. can someone look
+T10035,network,urgent: no network connection on my printer at the 4th floor. ticket from the Austin office
+T10125,software,"hi, macro in Excel stopped working intermittently. ticket from warehouse DC3"
+T10057,access,need admin rights to install software
+T10017,network,re: VPN disconnects every few minutes after the update. can someone look
+T10129,software,Chrome crashes when I open attachments asap
+T10162,security,re: my laptop was stolen at the Austin office asap
+T10139,software,"cannot export report from Zoom, error 500. can someone look"
+T10038,network,"urgent: cannot reach shared drive, network path not found asap"
+T10031,network,no network connection on my headset at Building 2. ticket from the Denver branch
+T10002,network,re: wifi keeps dropping in the 4th floor for 2 days. can someone look
+T10175,security,"hi, Jira asking me to approve MFA requests I did not make. can someone look"
+T10152,software,"pls help, cannot export report from Zoom, error 500. this is blocking me"
+T10151,software,"hi, Excel shows an error after the update"
+T10195,security,re: pop-up says my files are encrypted
+T10090,hardware,re: docking station not detecting headset
+T10081,hardware,printer on the 4th floor is jammed again
+T10144,software,re: Chrome keeps freezing since this morning. thanks
+T10106,hardware,re: my printer screen is flickering after the update. can someone look
+T10185,security,unknown login alert for my account from another country. this is blocking me
+T10136,software,"pls help, the ERP very slow to open files"
+T10076,access,need access to the Zoom finance module. can someone look
+T10011,network,"pls help, VPN disconnects every few minutes again asap"
+T10016,network,VPN connects but cannot reach internal sites. this is blocking me
+T10032,network,no network connection on my docking station at the Austin office. thanks
+T10088,hardware,need a second monitor for a the temp in finance asap
+T10104,hardware,spilled coffee on my laptop keyboard asap
+T10178,security,re: pop-up says my files are encrypted. can someone look
+T10192,security,urgent: lost my badge at HQ
+T10160,security,re: my laptop was stolen at the Denver branch. this is blocking me
+T10099,hardware,laptop overheating and shutting down intermittently
+T10094,hardware,"keyboard is broken, need a replacement. thanks"
+T10051,access,urgent: need admin rights to install software
+T10040,access,re: VPN says my account is not authorized asap
+T10074,access,locked out of my account since this morning. ticket from warehouse DC3
+T10007,network,urgent: packet loss on video calls in the Denver branch
+T10137,software,hello team - the ERP plugin missing after reinstall. this is blocking me
+T10133,software,"hi, Excel plugin missing after reinstall. can someone look"
+T10148,software,"hi, Teams keeps freezing since yesterday. this is blocking me"
+T10143,software,"pls help, need Workday installed on my laptop. ticket from warehouse DC3"
+T10196,security,re: clicked a link in a phishing email. can someone look
+T10199,security,re: pop-up says my files are encrypted asap
+T10184,security,my laptop was stolen at warehouse DC3. ticket from Building 2
+T10026,network,urgent: DNS not resolving internal hostnames for 2 days. ticket from warehouse DC3
+T10123,software,Chrome crashes when I open attachments
+T10149,software,"pls help, cannot export report from Salesforce, error 500 asap"
+T10100,hardware,urgent: printer on the Denver branch is jammed again. this is blocking me
+T10130,software,"pls help, macro in Excel stopped working since yesterday asap"
+T10086,hardware,"pls help, my monitor screen is flickering since this morning asap"
+T10084,hardware,hello team - docking station not detecting monitor
+T10052,access,"hi, remove access for a new hire who left"
+T10142,software,"pls help, Excel shows an error after the update asap"
+T10128,software,license expired for Excel. ticket from Building 2
+T10062,access,"cannot log in to Chrome, says invalid credentials. can someone look"
+T10108,hardware,"hi, docking station not detecting docking station asap"
+T10024,network,"hello team - cannot reach shared drive, network path not found. ticket from the Denver branch"
+T10190,security,"pls help, lost my badge at the Denver branch"
+T10173,security,re: unknown login alert for my account from another country. thanks
+T10029,network,"Teams times out, everything else online is slow too. ticket from the Denver branch"
+T10097,hardware,need a second monitor for a my manager. this is blocking me
+T10186,security,"pls help, SAP asking me to approve MFA requests I did not make asap"
+T10033,network,"pls help, cannot reach shared drive, network path not found. thanks"
+T10080,hardware,printer on the Austin office is jammed again. thanks
+T10066,access,SSO loop when signing in to Excel again. thanks
+T10014,network,urgent: wifi keeps dropping in the Austin office since yesterday. ticket from the 4th floor
+T10098,hardware,hello team - laptop making a clicking noise
+T10008,network,re: internet is very slow in the 4th floor. thanks
+T10077,access,"hi, need access to the SAP finance module. ticket from the Denver branch"
+T10021,network,re: wifi keeps dropping in the Austin office intermittently. ticket from the Denver branch
+T10083,hardware,"hi, headset is broken, need a replacement"
+T10064,access,re: password reset for contractor. thanks
+T10023,network,"pls help, no network connection on my laptop at the 4th floor. ticket from HQ"
+T10069,access,remove access for a new hire who left
+T10134,software,urgent: Teams very slow to open files asap
+T10188,security,unknown login alert for my account from another country
+T10006,network,"pls help, ethernet port at my desk is dead"
+T10114,hardware,hello team - monitor will not turn on. ticket from warehouse DC3

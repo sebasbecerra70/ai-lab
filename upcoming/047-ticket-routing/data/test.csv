@@ -1,0 +1,89 @@
+id,queue,text
+T20023,access,re: forgot my password and the reset link has expired. can someone look
+T20057,software,urgent: add-in disappeared from SAP toolbar. can someone look
+T20045,hardware,"hi, requesting a replacement charger for my laptop asap"
+T20003,network,hello team - remote desktop drops connection from home over VPN. this is blocking me
+T20026,access,I don't have permission to edit the finance folder
+T20020,access,"pls help, permission denied opening the shared drive folder"
+T20009,network,re: packet loss on video calls in the 4th floor asap
+T20038,hardware,"hi, requesting a replacement charger for my laptop. thanks"
+T20041,hardware,laptop fan is loud and it gets very hot
+T20025,access,urgent: locked out of my account since yesterday. ticket from Building 2
+T20080,triage,"pls help, parking garage gate is stuck open"
+T20018,access,"hi, account disabled after too many attempts asap"
+T20083,triage,"pls help, who approves my travel expense report"
+T20007,network,remote desktop drops connection from home over VPN
+T20006,network,can't connect to the corporate wifi network
+T20015,network,"hi, packet loss on video calls in the Denver branch asap"
+T20084,triage,hello team - who approves my travel expense report
+T20076,security,clicked a link in a phishing email. can someone look
+T20033,hardware,"hi, the desk phone I was issued has a cracked screen. ticket from the Denver branch"
+T20056,software,Outlook gives an error every time I save. ticket from the 4th floor
+T20053,software,"hi, Outlook plugin missing after reinstall. can someone look"
+T20005,network,urgent: ethernet port at my desk is dead. can someone look
+T20075,security,urgent: found a USB drive in the parking lot
+T20019,access,"pls help, I don't have permission to edit the finance folder. can someone look"
+T20069,security,urgent: lost my badge at HQ asap
+T20061,software,license expired for Excel
+T20044,hardware,requesting a replacement charger for my laptop. can someone look
+T20086,triage,"pls help, can facilities fix the air conditioning in room 204 asap"
+T20082,triage,re: the coffee machine on the 3rd floor is broken. can someone look
+T20087,triage,"pls help, who approves my travel expense report asap"
+T20014,network,"pls help, VPN connects but cannot reach internal sites. this is blocking me"
+T20021,access,"pls help, MFA prompt not arriving on my phone"
+T20034,hardware,spilled coffee on my laptop keyboard
+T20054,software,hello team - Zoom keeps freezing again asap
+T20062,software,"pls help, Workday gives an error every time I save"
+T20077,security,pop-up says my files are encrypted. thanks
+T20071,security,clicked a link in a phishing email. thanks
+T20004,network,re: wifi keeps dropping in Building 2 again. this is blocking me
+T20013,network,"hello team - shared drive mapping lost, network unreachable. can someone look"
+T20029,access,"pls help, new contractor needs a login for Salesforce. can someone look"
+T20011,network,"shared drive mapping lost, network unreachable. ticket from the 4th floor"
+T20036,hardware,hello team - laptop fan is loud and it gets very hot. can someone look
+T20032,hardware,"hi, my printer screen is flickering for 2 days"
+T20016,access,"urgent: cannot log in to SAP, says invalid credentials. thanks"
+T20030,access,hello team - remove access for a new hire who left. ticket from the Austin office
+T20065,security,re: my laptop was stolen at warehouse DC3. thanks
+T20043,hardware,laptop battery drains in an hour asap
+T20050,software,"pls help, SAP shows an error after the update asap"
+T20000,network,wifi keeps dropping in Building 2 again. ticket from the Austin office
+T20008,network,hello team - VPN connects but cannot reach internal sites asap
+T20039,hardware,"pls help, laptop making a clicking noise asap"
+T20072,security,re: strange text asking me to approve a sign-in. this is blocking me
+T20031,access,forgot my password and the reset link has expired. thanks
+T20058,software,"hi, Outlook crashes when I open attachments. thanks"
+T20055,software,"hi, Outlook is not syncing since yesterday. this is blocking me"
+T20037,hardware,hello team - spilled coffee on my laptop keyboard. thanks
+T20047,hardware,hello team - the monitor I was issued has a cracked screen
+T20017,access,hello team - password reset for my manager. ticket from the 4th floor
+T20064,security,"hi, someone is sending emails from my account. thanks"
+T20081,triage,urgent: who approves my travel expense report asap
+T20063,software,hello team - Jira crashes when I open attachments. ticket from Building 2
+T20035,hardware,re: need a second monitor for a new hire
+T20052,software,hello team - license expired for Chrome
+T20066,security,"pls help, email from the CEO asking me to buy gift cards asap"
+T20085,triage,"hi, who approves my travel expense report. this is blocking me"
+T20073,security,"pls help, clicked a link in a phishing email. ticket from HQ"
+T20049,software,urgent: add-in disappeared from Excel toolbar. can someone look
+T20027,access,need access to the Teams finance module
+T20078,security,"hi, lost my badge at the Austin office"
+T20002,network,"urgent: cannot reach shared drive, network path not found asap"
+T20012,network,"pls help, packet loss on video calls in the Denver branch"
+T20022,access,"hi, forgot my password and the reset link has expired. can someone look"
+T20074,security,urgent: my phone with company email on it was stolen
+T20067,security,re: someone is sending emails from my account asap
+T20059,software,Jira won't start after last night's patch
+T20040,hardware,"pls help, laptop is broken, need a replacement. thanks"
+T20001,network,"hi, no network connection on my keyboard at the Denver branch"
+T20048,software,SAP won't start after last night's patch
+T20051,software,hello team - license expired for Outlook. can someone look
+T20024,access,I don't have permission to edit the finance folder. ticket from the Austin office
+T20079,security,urgent: strange text asking me to approve a sign-in. ticket from warehouse DC3
+T20068,security,strange text asking me to approve a sign-in. this is blocking me
+T20028,access,"hi, forgot my password and the reset link has expired. thanks"
+T20010,network,re: VPN connects but cannot reach internal sites. can someone look
+T20042,hardware,hello team - laptop fan is loud and it gets very hot asap
+T20070,security,hello team - clicked a link in a phishing email asap
+T20046,hardware,the laptop I was issued has a cracked screen. this is blocking me
+T20060,software,urgent: Jira gives an error every time I save

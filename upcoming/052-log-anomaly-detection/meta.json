@@ -1,0 +1,1 @@
+{"slug":"log-anomaly-detection","title":"Log Anomaly Detection","summary":"Mine log templates Drain-style and flag new, bursting or silent event types","technique":"Drain parse-tree template mining, Poisson/robust z-score frequency anomalies","domain":"Data Center Ops","stack":"Python"}

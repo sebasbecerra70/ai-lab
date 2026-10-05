@@ -1,0 +1,1 @@
+{"slug":"llm-as-judge","title":"LLM-as-Judge with Bias Checks","summary":"Pairwise and rubric LLM judging with position-swap and human agreement stats","technique":"LLM-as-judge, position-bias swap, Cohen's kappa","domain":"AI Engineering","stack":"Python"}

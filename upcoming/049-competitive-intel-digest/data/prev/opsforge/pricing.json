@@ -1,0 +1,4 @@
+{"currency": "USD", "plans": [
+  {"name": "Pro", "price": 49, "unit": "seat/mo", "limits": {"workflows": 20}, "features": ["Workflow builder", "Integrations", "Email support"]},
+  {"name": "Enterprise", "price": 89, "unit": "seat/mo", "limits": {"workflows": null}, "features": ["Workflow builder", "Integrations", "SSO", "Audit log", "Phone support"]}
+]}

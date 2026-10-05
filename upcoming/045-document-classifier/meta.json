@@ -1,0 +1,1 @@
+{"slug":"document-classifier","title":"Shipping Document Classifier","summary":"Naive Bayes from scratch sorts BOLs, invoices, packing lists and customs docs","technique":"multinomial naive Bayes, k-fold cross-validation, confidence-based review queue","domain":"Supply Chain","stack":"Python"}

@@ -1,0 +1,31 @@
+{
+  "warehouses": [
+    {"id": "RNO", "name": "Reno DC", "region": "west"},
+    {"id": "DFW", "name": "Dallas DC", "region": "central"},
+    {"id": "ATL", "name": "Atlanta DC", "region": "east"}
+  ],
+  "skus": [
+    {"sku": "PJ-5500", "name": "Manual pallet jack 5500 lb", "unitCost": 389.0, "dailyDemand": {"RNO": 2.1, "DFW": 3.4, "ATL": 1.2}},
+    {"sku": "SW-18-80", "name": "Stretch wrap 18in 80ga", "unitCost": 21.5, "dailyDemand": {"RNO": 40, "DFW": 55, "ATL": 38}},
+    {"sku": "LB-4X6-1K", "name": "Thermal labels 4x6 (1000)", "unitCost": 14.2, "dailyDemand": {"RNO": 22, "DFW": 30, "ATL": 25}},
+    {"sku": "GL-NIT-L", "name": "Nitrile gloves L (100)", "unitCost": 9.8, "dailyDemand": {"RNO": 15, "DFW": 12, "ATL": 18}},
+    {"sku": "SC-BT-200", "name": "Bluetooth barcode scanner", "unitCost": 129.0, "dailyDemand": {"RNO": 0.6, "DFW": 0.9, "ATL": 0.4}}
+  ],
+  "stock": [
+    {"sku": "PJ-5500", "warehouse": "RNO", "onHand": 34, "reserved": 4},
+    {"sku": "PJ-5500", "warehouse": "DFW", "onHand": 18, "reserved": 6},
+    {"sku": "PJ-5500", "warehouse": "ATL", "onHand": 41, "reserved": 0},
+    {"sku": "SW-18-80", "warehouse": "RNO", "onHand": 1250, "reserved": 200},
+    {"sku": "SW-18-80", "warehouse": "DFW", "onHand": 310, "reserved": 120},
+    {"sku": "SW-18-80", "warehouse": "ATL", "onHand": 980, "reserved": 0},
+    {"sku": "LB-4X6-1K", "warehouse": "RNO", "onHand": 640, "reserved": 40},
+    {"sku": "LB-4X6-1K", "warehouse": "DFW", "onHand": 210, "reserved": 60},
+    {"sku": "LB-4X6-1K", "warehouse": "ATL", "onHand": 720, "reserved": 20},
+    {"sku": "GL-NIT-L", "warehouse": "RNO", "onHand": 400, "reserved": 0},
+    {"sku": "GL-NIT-L", "warehouse": "DFW", "onHand": 520, "reserved": 0},
+    {"sku": "GL-NIT-L", "warehouse": "ATL", "onHand": 95, "reserved": 10},
+    {"sku": "SC-BT-200", "warehouse": "RNO", "onHand": 12, "reserved": 0},
+    {"sku": "SC-BT-200", "warehouse": "DFW", "onHand": 30, "reserved": 2},
+    {"sku": "SC-BT-200", "warehouse": "ATL", "onHand": 9, "reserved": 0}
+  ]
+}

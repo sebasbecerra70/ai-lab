@@ -1,0 +1,1 @@
+{"slug":"metrics-anomaly-detection","title":"Product Metrics Anomaly Detection","summary":"Find real anomalies in seasonal product KPIs with decomposition and robust z-scores","technique":"seasonal decomposition, robust z-score (median/MAD)","domain":"Product","stack":"Python"}

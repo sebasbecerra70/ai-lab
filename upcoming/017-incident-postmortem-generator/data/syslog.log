@@ -1,0 +1,26 @@
+01:58:12 pdu-b2 INFO load 71% phase-balance ok
+02:03:40 cfg-mgmt INFO change CHG-4471 applied: firmware 3.2.1 on pdu-b2 by change-bot
+02:14:05 pdu-b2 ERROR breaker B2-3 trip, outlets 13-24 de-energized
+02:14:06 r14-host07 ERROR power supply PSU2 lost input
+02:14:06 r14-host08 ERROR power supply PSU2 lost input
+02:14:06 r14-host09 ERROR power supply PSU2 lost input
+02:14:07 r14-host10 CRIT power supply PSU1 absent, host down
+02:14:07 r14-host11 CRIT power supply PSU1 absent, host down
+02:14:09 tor-r14 WARN port Eth1/11 link down
+02:14:09 tor-r14 WARN port Eth1/12 link down
+02:14:30 orders-api ERROR upstream db-07 connection refused
+02:14:31 orders-api ERROR upstream db-07 connection refused
+02:14:33 orders-api ERROR upstream db-07 connection refused
+02:14:35 orders-api ERROR upstream db-07 connection refused
+02:14:40 checkout ERROR 5xx rate 18.2% (threshold 2%)
+02:16:02 alertmanager INFO page sent: CheckoutErrorRateHigh to oncall-sre
+02:16:40 orders-api ERROR upstream db-07 connection refused
+02:19:15 db-cluster WARN failover started: db-07 -> db-08
+02:20:02 db-cluster INFO failover complete: db-08 primary
+02:20:30 checkout INFO 5xx rate 3.1%
+02:24:10 checkout INFO 5xx rate 0.4%
+02:31:44 pdu-b2 INFO breaker B2-3 reset by facilities
+02:33:05 r14-host10 INFO host up
+02:33:09 r14-host11 INFO host up
+02:41:20 cfg-mgmt INFO change CHG-4471 rolled back: firmware 3.1.9 on pdu-b2
+02:58:00 db-cluster INFO db-07 rejoined as replica

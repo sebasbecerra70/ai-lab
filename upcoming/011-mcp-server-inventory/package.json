@@ -1,0 +1,13 @@
+{
+  "name": "mcp-server-inventory",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A dependency-free Model Context Protocol server over stdio exposing inventory tools and resources",
+  "bin": { "mcp-inventory": "src/stdio.ts" },
+  "scripts": {
+    "test": "npx --yes tsx --test src/*.test.ts",
+    "demo": "npx --yes tsx src/cli.ts",
+    "start": "npx --yes tsx src/stdio.ts"
+  }
+}

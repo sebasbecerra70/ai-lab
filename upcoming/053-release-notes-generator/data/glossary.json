@@ -1,0 +1,6 @@
+{
+  "areas": {"billing": "Billing", "export": "Exports", "dashboard": "Dashboards", "search": "Search", "auth": "Sign-in",
+            "integrations": "Integrations", "notifications": "Notifications"},
+  "jargon": {"idp": "identity provider", "sso": "single sign-on", "p95": "95th-percentile latency", "csv": "CSV",
+             "api": "API", "sla": "SLA", "tokenized index": "search index"}
+}

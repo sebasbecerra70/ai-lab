@@ -1,0 +1,12 @@
+{"text": "What is the boiling point of water in Fahrenheit?", "label": "easy"}
+{"text": "Shorten this sentence: 'We are writing to let you know your package has shipped.'", "label": "easy"}
+{"text": "Which month comes after June?", "label": "easy"}
+{"text": "Extract the email address from: 'Contact ops@acme.io for help.'", "label": "easy"}
+{"text": "Translate 'thank you' into German.", "label": "easy"}
+{"text": "Is this review positive or negative: 'Box was crushed.'", "label": "easy"}
+{"text": "Design a caching layer for a product catalog API and explain invalidation trade-offs.", "label": "hard"}
+{"text": "Analyze the trade-offs of moving our batch ETL to streaming, and estimate the migration effort step by step.", "label": "hard"}
+{"text": "Write a Python class that implements an LRU cache, explain its complexity, and include tests.", "label": "hard"}
+{"text": "Compare two warehouse layouts and recommend one, considering travel distance, congestion and expansion.", "label": "hard"}
+{"text": "Prove that every tree with n nodes has n minus 1 edges.", "label": "hard"}
+{"text": "Name three primary colors.", "label": "easy"}

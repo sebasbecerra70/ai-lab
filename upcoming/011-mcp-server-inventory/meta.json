@@ -1,0 +1,1 @@
+{"slug":"mcp-server-inventory","title":"Inventory MCP Server","summary":"Dependency-free MCP server exposing inventory tools and resources over stdio","technique":"Model Context Protocol (JSON-RPC 2.0), tool schemas","domain":"AI Engineering","stack":"TypeScript"}

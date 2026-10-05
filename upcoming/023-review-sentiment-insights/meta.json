@@ -1,0 +1,1 @@
+{"slug":"review-sentiment-insights","title":"Review Sentiment Insights","summary":"Lexicon sentiment and aspect extraction rank pain points; an LLM writes the brief","technique":"lexicon sentiment with negation, aspect extraction, grounded LLM summary","domain":"Product","stack":"Python"}

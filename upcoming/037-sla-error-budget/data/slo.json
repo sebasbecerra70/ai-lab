@@ -1,0 +1,13 @@
+{
+  "service": "checkout-api",
+  "slo_target": 0.999,
+  "window_days": 30,
+  "baseline_error_rate": 0.0002,
+  "traffic_rpm": {"mean": 1200, "diurnal_amplitude": 700, "peak_hour": 20},
+  "sla_tiers": [
+    {"below": 0.999, "credit_pct": 10},
+    {"below": 0.995, "credit_pct": 25},
+    {"below": 0.99, "credit_pct": 50}
+  ],
+  "monthly_contract_value_usd": 180000
+}

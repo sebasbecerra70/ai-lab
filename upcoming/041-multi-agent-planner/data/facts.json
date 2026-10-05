@@ -1,0 +1,11 @@
+{
+  "server_power_kw": 0.45,
+  "server_height_u": 1,
+  "usable_u_per_rack": 40,
+  "rack_power_limit_kw": 12,
+  "available_facility_power_kw": 40,
+  "pue": 1.4,
+  "rack_cost_usd": 18000,
+  "server_cost_usd": 9500,
+  "energy_cost_usd_per_kwh": 0.11
+}

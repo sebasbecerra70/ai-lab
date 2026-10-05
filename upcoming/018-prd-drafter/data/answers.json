@@ -1,0 +1,19 @@
+{
+  "title": ["Bulk label printing"],
+  "problem": [
+    "Printing labels is slow.",
+    "Shipping clerks at mid-size warehouses print carrier labels one order at a time. At peak a clerk spends 11 minutes per wave of 50 orders clicking through order pages, and label printing drives 140 support tickets a month (18% of all tickets). Two enterprise prospects listed batch printing as a blocker in Q-review notes."
+  ],
+  "users": ["- Shipping clerk at a 20-200 order/hour warehouse\n- Warehouse supervisor who plans pick waves"],
+  "goals": [
+    "- Faster label printing\n- Fewer tickets",
+    "- Median time to print a 50-order wave: 11 min -> under 2 min\n- Label-printing support tickets: 140/month -> under 40/month within 60 days of GA\n- 60% of active warehouses use bulk print weekly by day 90"
+  ],
+  "non_goals": ["- Rate shopping across carriers\n- Printing packing slips or invoices\n- Thermal printer driver management"],
+  "requirements": [
+    "- Select up to 200 orders from the order list and print all labels as one PDF\n- Show which orders failed and why",
+    "- P0: Select up to 200 orders from the order list and print all labels as one PDF in under 30 seconds\n- P0: Show which orders failed (address invalid, carrier error) and let the clerk retry just those\n- P1: Save a selection as a wave and reprint it\n- P2: Sort labels to match the pick path"
+  ],
+  "risks": ["- Carrier API rate limits at 200 labels per batch are unknown\n- Merging 200 PDFs may exceed browser memory on older warehouse PCs\n- Open question: do we charge for this on the Starter plan?"],
+  "launch": ["Feature flag for 10 design-partner warehouses for two weeks, then 25% of Growth plans, then GA if ticket volume and error rate hold"]
+}

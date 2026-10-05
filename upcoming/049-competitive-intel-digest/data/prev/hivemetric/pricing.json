@@ -1,0 +1,5 @@
+{"currency": "USD", "plans": [
+  {"name": "Free", "price": 0, "unit": "month", "limits": {"events_m": 1, "dashboards": 3}, "features": ["Dashboards", "Community support"]},
+  {"name": "Team", "price": 299, "unit": "month", "limits": {"events_m": 20, "dashboards": 50}, "features": ["Dashboards", "Alerts", "Email support"]},
+  {"name": "Business", "price": 999, "unit": "month", "limits": {"events_m": 100, "dashboards": null}, "features": ["Dashboards", "Alerts", "SSO", "Priority support"]}
+]}

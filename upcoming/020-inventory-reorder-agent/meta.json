@@ -1,0 +1,1 @@
+{"slug":"inventory-reorder-agent","title":"Inventory Reorder Agent","summary":"Reorder points and EOQ drive PO proposals routed by approval thresholds","technique":"safety stock / ROP / EOQ, policy-gated agent with LLM memos","domain":"Supply Chain","stack":"Python"}

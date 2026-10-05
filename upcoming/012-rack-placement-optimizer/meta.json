@@ -1,0 +1,1 @@
+{"slug":"rack-placement-optimizer","title":"Rack Placement Optimizer","summary":"Bin-pack servers into racks under power, U-space and anti-affinity rules","technique":"bin-packing heuristics (FFD, BFD, consolidation pass)","domain":"Data Center Ops","stack":"Python"}

@@ -1,0 +1,1 @@
+{"slug":"contract-clause-extractor","title":"Contract Clause Extractor","summary":"Find, classify and risk-flag contract clauses with an LLM and a rules fallback","technique":"LLM structured extraction with validation, regex rules fallback","domain":"Business Development","stack":"Python"}

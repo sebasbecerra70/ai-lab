@@ -1,0 +1,1 @@
+{"slug":"prompt-caching-cost-model","title":"Prompt Caching Cost Model","summary":"Simulate LLM token spend with and without prompt caching across traffic patterns","technique":"discrete-event simulation of cache TTLs, cost modeling","domain":"AI Engineering","stack":"TypeScript"}

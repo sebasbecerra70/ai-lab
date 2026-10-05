@@ -1,0 +1,1 @@
+{"slug":"sla-error-budget","title":"SLA Error Budget Calculator","summary":"SLO error budgets, burn rates, multi-window alerts and SLA credits","technique":"SRE burn-rate math, multi-window alert replay","domain":"Data Center Ops","stack":"Python"}

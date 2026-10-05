@@ -1,0 +1,1 @@
+{"slug":"competitive-intel-digest","title":"Competitive Intel Digest","summary":"Diff competitor pricing and pages, rank the changes, write a cited digest","technique":"structured pricing diff, noise-filtered text diff, severity rules, cited LLM summary","domain":"Business Development","stack":"Python"}

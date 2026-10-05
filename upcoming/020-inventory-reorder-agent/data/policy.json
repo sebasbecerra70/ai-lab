@@ -1,0 +1,10 @@
+{
+  "approval_tiers": [
+    {"max_value": 5000, "approver": "auto"},
+    {"max_value": 25000, "approver": "ops_manager"},
+    {"max_value": null, "approver": "director"}
+  ],
+  "supplier_min_order_value": {"Parker Supply": 1500, "Motion Industrial": 2500, "Safety First": 1000, "Lubricant Depot": 400, "Automation Direct": 750},
+  "max_days_of_supply": 120,
+  "expedite_if_cover_below_lead_time": true
+}

@@ -1,0 +1,1 @@
+{"slug":"safety-stock-calculator","title":"Safety Stock Calculator","summary":"Safety stock under demand and lead-time variability, with service-level tradeoffs","technique":"normal approximation, loss function fill rate, Monte Carlo validation","domain":"Supply Chain","stack":"Python"}

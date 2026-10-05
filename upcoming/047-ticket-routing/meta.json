@@ -1,0 +1,1 @@
+{"slug":"ticket-routing","title":"IT Ticket Routing","summary":"TF-IDF centroid classifier routes IT tickets to queues, with a triage fallback","technique":"TF-IDF, nearest-centroid (Rocchio) classifier, confidence and margin thresholds","domain":"Operations","stack":"Python"}

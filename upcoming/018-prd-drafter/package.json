@@ -1,0 +1,11 @@
+{
+  "name": "prd-drafter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Structured interview -> LLM-drafted PRD -> completeness checker",
+  "scripts": {
+    "test": "npx --yes tsx --test src/*.test.ts",
+    "demo": "npx --yes tsx src/cli.ts"
+  }
+}

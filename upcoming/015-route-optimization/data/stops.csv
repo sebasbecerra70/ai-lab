@@ -1,0 +1,34 @@
+id,name,x_km,y_km,pallets
+DC,Central DC,0.0,0.0,0
+S01,Northgate pharmacy 1,10.9,14.4,2
+S02,Northgate pharmacy 2,12.1,14.7,2
+S03,Northgate hardware 3,6.2,16.7,3
+S04,Northgate hardware 4,3.9,15.7,2
+S05,Northgate hardware 5,6.6,12.0,5
+S06,Northgate cafe 6,6.4,17.3,3
+S07,Riverside cafe 7,-8.6,5.8,3
+S08,Riverside cafe 8,-18.3,1.1,4
+S09,Riverside cafe 9,-11.1,-1.4,1
+S10,Riverside cafe 10,-6.5,2.5,2
+S11,Riverside pharmacy 11,-16.0,3.1,1
+S12,Riverside hardware 12,-13.7,3.7,1
+S13,Riverside grocery 13,-12.9,4.7,5
+S14,Airport hardware 14,12.1,-6.9,2
+S15,Airport convenience 15,17.7,-9.9,2
+S16,Airport hardware 16,12.9,-3.8,3
+S17,Airport cafe 17,17.2,-10.5,4
+S18,Airport grocery 18,15.3,-14.7,2
+S19,Airport cafe 19,17.8,-5.5,3
+S20,Old Town cafe 20,-0.7,-12.8,1
+S21,Old Town hardware 21,0.0,-11.7,1
+S22,Old Town hardware 22,-1.1,-10.0,4
+S23,Old Town cafe 23,-2.0,-12.7,1
+S24,Old Town convenience 24,-0.9,-13.5,6
+S25,Old Town cafe 25,-3.8,-15.2,1
+S26,Old Town convenience 26,-0.3,-12.8,3
+S27,Lakeshore cafe 27,-0.4,9.4,2
+S28,Lakeshore convenience 28,-1.6,7.3,1
+S29,Lakeshore cafe 29,7.0,2.1,1
+S30,Lakeshore hardware 30,-2.9,1.6,1
+S31,Lakeshore pharmacy 31,2.0,9.5,5
+S32,Lakeshore hardware 32,1.0,8.0,6

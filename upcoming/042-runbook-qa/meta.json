@@ -1,0 +1,1 @@
+{"slug":"runbook-qa","title":"Runbook Q&A","summary":"Step-by-step answers from data center runbooks, with citations and refusals","technique":"RAG with BM25, citation validation, safety refusal guard","domain":"Data Center Ops","stack":"Python"}

@@ -1,0 +1,1 @@
+{"slug":"crm-pipeline-forecast","title":"CRM Pipeline Forecast","summary":"Stage-weighted and Monte Carlo quarterly forecast with deal-aging decay","technique":"empirical stage conversion, Monte Carlo simulation","domain":"Business Development","stack":"Python"}

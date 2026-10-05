@@ -1,0 +1,1 @@
+{"slug":"disk-failure-prediction","title":"Disk Failure Prediction","summary":"Logistic regression on SMART-like telemetry with a cost-optimal alert threshold","technique":"logistic regression, precision/recall at threshold, cost curve","domain":"Data Center Ops","stack":"Python"}

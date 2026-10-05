@@ -1,0 +1,1 @@
+{"slug":"structured-output-validator","title":"Structured Output Validator","summary":"Validate LLM JSON against a schema, repair locally, re-ask with errors","technique":"JSON Schema validation, deterministic repair, error-guided retry loop","domain":"AI Engineering","stack":"TypeScript"}

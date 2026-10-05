@@ -1,0 +1,12 @@
+region,tier,facilities,racks_per_site,fit
+North America,hyperscale,420,6000,0.05
+North America,colocation,1850,900,0.60
+North America,enterprise,5200,120,0.35
+Europe,hyperscale,260,5000,0.05
+Europe,colocation,1500,700,0.55
+Europe,enterprise,4800,100,0.30
+APAC,hyperscale,380,5500,0.05
+APAC,colocation,1700,800,0.45
+APAC,enterprise,6100,90,0.20
+LATAM,colocation,420,500,0.40
+LATAM,enterprise,1300,80,0.15

@@ -1,0 +1,1 @@
+{"slug":"model-router","title":"Model Router","summary":"Route prompts to a small or large model by predicted difficulty","technique":"logistic regression classifier, cost/quality frontier","domain":"AI Engineering","stack":"Python"}

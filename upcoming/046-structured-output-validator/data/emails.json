@@ -1,0 +1,8 @@
+[
+  { "id": "e1", "text": "Hi team, please book PO-10421 for Brightline Retail. 40 x CAB-210 at $12.50 and 10 x RCK-1200 at $1,850. Need it by 2026-11-14, standard shipping. Thanks, dana@brightline.example" },
+  { "id": "e2", "text": "PO-10422 from Northwind Labs: 5 units SRV-880 @ 9400 USD. Expedite please, required 2026-10-30. Contact ops@northwind.example" },
+  { "id": "e3", "text": "Order PO-10423 (Cobalt Foods GmbH), EUR pricing: 200 x PSU-450 at 89.00, 200 x FAN-120 at 14.20. Delivery 2026-12-01. Standard." },
+  { "id": "e4", "text": "Quick one - PO-10424, Harbor Clinics, 12 x SWT-480 at 2,310.00 USD, expedite, by 2026-10-22." },
+  { "id": "e5", "text": "PO-10425 for Granite Supply: 1 x UPS-3000 at 4,100 GBP, standard, delivery 2026-11-03, buyer j.ellis@granite.example" },
+  { "id": "e6", "text": "Please process PO-10426, Lotus Electronics, 30 x CAB-210 at 12.50 USD, need by end of month." }
+]

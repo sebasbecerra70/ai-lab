@@ -1,0 +1,1 @@
+{"slug":"route-optimization","title":"Delivery Route Optimizer","summary":"Capacitated vehicle routing with Clarke-Wright savings and 2-opt","technique":"Clarke-Wright savings heuristic, 2-opt local search","domain":"Supply Chain","stack":"Python"}
