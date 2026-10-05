@@ -47,6 +47,25 @@ def git(*args: str) -> None:
     subprocess.run(["git", *args], cwd=ROOT, check=True)
 
 
+def kind(rel: Path) -> str:
+    name = rel.name
+    if name in ("README.md", "NOTES.md"):
+        return "docs"
+    if (
+        "tests" in rel.parts
+        or name in ("conftest.py", "SolutionTest.java", "test.cpp")
+        or name.startswith("test_")
+        or name.endswith((".test.ts", "_test.py"))
+    ):
+        return "tests"
+    return "code"
+
+
+def commit(message: str) -> None:
+    git("-c", f"user.name={AUTHOR[0]}", "-c", f"user.email={AUTHOR[1]}",
+        "commit", "-q", "-m", message, "-m", "Co-Authored-By: Claude <noreply@anthropic.com>")
+
+
 def destination(meta: dict, date: str) -> Path:
     if "language" in meta:  # code-a-day layout
         base = ROOT / LANG_DIRS[meta["language"]]
@@ -102,26 +121,36 @@ def main() -> int:
         clean(item)
         dest = destination(meta, date)
         dest.parent.mkdir(parents=True, exist_ok=True)
-        git("mv", str(item), str(dest))
+        shutil.move(str(item), str(dest))
         (dest / "meta.json").unlink()
         rel = dest.relative_to(ROOT).as_posix()
+        title = meta["title"]
+        label = f"{title} ({meta['language']})" if "language" in meta else title
+
+        # Release in the steps a developer would commit: code, tests, docs, index.
+        groups: dict[str, list[Path]] = {"code": [], "tests": [], "docs": []}
+        for f in sorted(p for p in dest.rglob("*") if p.is_file()):
+            groups[kind(f.relative_to(dest))].append(f)
+        steps = [
+            (groups["code"] + [item], f"Implement {label}"),
+            (groups["tests"], f"Add tests for {title}"),
+            (groups["docs"], f"Document {title}"),
+        ]
+        for paths, message in steps:
+            if not paths:
+                continue
+            git("add", "-A", "--", *map(str, paths))
+            commit(message)
         add_to_index(index_row(meta, date, rel))
         git("add", "-A")
-        title = meta["title"]
-        suffix = f" ({meta['language']})" if "language" in meta else ""
-        git(
-            "-c", f"user.name={AUTHOR[0]}", "-c", f"user.email={AUTHOR[1]}",
-            "commit", "-q", "-m", f"Add {title}{suffix}",
-            "-m", "Co-Authored-By: Claude <noreply@anthropic.com>",
-        )
+        commit(f"Add {title} to the index")
         print(f"Published {rel}")
         return 0
 
     print("::warning::no publishable entry in the queue")
     if flagged:
         # Commit the skip markers so failing entries aren't retried forever.
-        git("-c", f"user.name={AUTHOR[0]}", "-c", f"user.email={AUTHOR[1]}",
-            "commit", "-q", "-m", "Flag queued entries whose tests failed")
+        commit("Flag queued entries whose tests failed")
     return 0
 
 
