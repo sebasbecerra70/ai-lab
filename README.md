@@ -15,6 +15,7 @@ Each project is self-contained and has:
 |------|---------|-----------|--------|-------|
 | 2026-10-05 | [SOP RAG Assistant](projects/2026-10-05-sop-rag-assistant): cited Q&A over warehouse SOPs | RAG, grounding guardrails | Supply Chain | Python |
 | 2026-10-05 | [Tool-Calling Ops Agent](projects/2026-10-05-tool-calling-agent): Agent loop that answers ops questions with calculator, lookup and unit tools | tool-calling agent | AI Engineering | Python |
+| 2026-10-06 | [Data Center Capacity Planner](projects/2026-10-06-datacenter-capacity-planner): Power, cooling and space headroom per hall with a run-out forecast | scenario simulation | Data Center Ops | Python |
 <!-- INDEX:END -->
 
 ## How projects are published
