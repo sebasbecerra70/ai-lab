@@ -1,1 +1,0 @@
-{"slug":"invoice-extraction","title":"Invoice Extraction with Guardrails","summary":"LLM pulls invoice fields to a JSON schema; validation and regex catch errors","technique":"LLM structured extraction","domain":"Supply Chain","stack":"Python"}
