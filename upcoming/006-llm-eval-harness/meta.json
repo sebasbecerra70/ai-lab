@@ -1,1 +1,0 @@
-{"slug":"llm-eval-harness","title":"LLM Eval Harness","summary":"Code-defined test cases, four grader types and a CI gate for LLM apps","technique":"LLM evaluation, LLM-as-judge","domain":"AI Engineering","stack":"Python"}
