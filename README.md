@@ -19,6 +19,7 @@ Each project is self-contained and has:
 | 2026-10-07 | [Feature Request Clustering](projects/2026-10-07-feature-request-clustering): TF-IDF + k-means groups feature requests; an LLM names each theme | TF-IDF, k-means, LLM labeling | Product | Python |
 | 2026-10-08 | [Explainable Lead Scoring](projects/2026-10-08-lead-scoring-model): From-scratch logistic regression that scores B2B leads and says why | logistic regression | Business Development | Python |
 | 2026-10-09 | [Invoice Extraction with Guardrails](projects/2026-10-09-invoice-extraction): LLM pulls invoice fields to a JSON schema; validation and regex catch errors | LLM structured extraction | Supply Chain | Python |
+| 2026-10-10 | [LLM Eval Harness](projects/2026-10-10-llm-eval-harness): Code-defined test cases, four grader types and a CI gate for LLM apps | LLM evaluation, LLM-as-judge | AI Engineering | Python |
 <!-- INDEX:END -->
 
 ## How projects are published
