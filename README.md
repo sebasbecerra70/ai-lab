@@ -20,6 +20,7 @@ Each project is self-contained and has:
 | 2026-10-08 | [Explainable Lead Scoring](projects/2026-10-08-lead-scoring-model): From-scratch logistic regression that scores B2B leads and says why | logistic regression | Business Development | Python |
 | 2026-10-09 | [Invoice Extraction with Guardrails](projects/2026-10-09-invoice-extraction): LLM pulls invoice fields to a JSON schema; validation and regex catch errors | LLM structured extraction | Supply Chain | Python |
 | 2026-10-10 | [LLM Eval Harness](projects/2026-10-10-llm-eval-harness): Code-defined test cases, four grader types and a CI gate for LLM apps | LLM evaluation, LLM-as-judge | AI Engineering | Python |
+| 2026-10-11 | [Alert Triage Assistant](projects/2026-10-11-alert-triage-assistant): Dedupes and correlates monitoring alerts, scores severity, drafts on-call notes | topology correlation + LLM summary | Data Center Ops | Python |
 <!-- INDEX:END -->
 
 ## How projects are published
