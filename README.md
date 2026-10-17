@@ -26,6 +26,7 @@ Each project is self-contained and has:
 | 2026-10-14 | [Demand Forecasting Baselines](projects/2026-10-14-demand-forecasting): Naive, moving average, Holt-Winters and Croston, compared by backtest WAPE | time-series forecasting, backtesting | Supply Chain | Python |
 | 2026-10-15 | [Inventory MCP Server](projects/2026-10-15-mcp-server-inventory): Dependency-free MCP server exposing inventory tools and resources over stdio | Model Context Protocol (JSON-RPC 2.0), tool schemas | AI Engineering | TypeScript |
 | 2026-10-16 | [Rack Placement Optimizer](projects/2026-10-16-rack-placement-optimizer): Bin-pack servers into racks under power, U-space and anti-affinity rules | bin-packing heuristics (FFD, BFD, consolidation pass) | Data Center Ops | Python |
+| 2026-10-17 | [A/B Test Analyzer](projects/2026-10-17-ab-test-analyzer): Z-tests, confidence intervals, power planning and SRM checks for experiments | frequentist hypothesis testing, power analysis, chi-square SRM | Product | Python |
 <!-- INDEX:END -->
 
 ## How projects are published
