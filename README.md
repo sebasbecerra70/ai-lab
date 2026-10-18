@@ -27,6 +27,7 @@ Each project is self-contained and has:
 | 2026-10-15 | [Inventory MCP Server](projects/2026-10-15-mcp-server-inventory): Dependency-free MCP server exposing inventory tools and resources over stdio | Model Context Protocol (JSON-RPC 2.0), tool schemas | AI Engineering | TypeScript |
 | 2026-10-16 | [Rack Placement Optimizer](projects/2026-10-16-rack-placement-optimizer): Bin-pack servers into racks under power, U-space and anti-affinity rules | bin-packing heuristics (FFD, BFD, consolidation pass) | Data Center Ops | Python |
 | 2026-10-17 | [A/B Test Analyzer](projects/2026-10-17-ab-test-analyzer): Z-tests, confidence intervals, power planning and SRM checks for experiments | frequentist hypothesis testing, power analysis, chi-square SRM | Product | Python |
+| 2026-10-18 | [CRM Pipeline Forecast](projects/2026-10-18-crm-pipeline-forecast): Stage-weighted and Monte Carlo quarterly forecast with deal-aging decay | empirical stage conversion, Monte Carlo simulation | Business Development | Python |
 <!-- INDEX:END -->
 
 ## How projects are published
