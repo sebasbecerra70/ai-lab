@@ -28,6 +28,7 @@ Each project is self-contained and has:
 | 2026-10-16 | [Rack Placement Optimizer](projects/2026-10-16-rack-placement-optimizer): Bin-pack servers into racks under power, U-space and anti-affinity rules | bin-packing heuristics (FFD, BFD, consolidation pass) | Data Center Ops | Python |
 | 2026-10-17 | [A/B Test Analyzer](projects/2026-10-17-ab-test-analyzer): Z-tests, confidence intervals, power planning and SRM checks for experiments | frequentist hypothesis testing, power analysis, chi-square SRM | Product | Python |
 | 2026-10-18 | [CRM Pipeline Forecast](projects/2026-10-18-crm-pipeline-forecast): Stage-weighted and Monte Carlo quarterly forecast with deal-aging decay | empirical stage conversion, Monte Carlo simulation | Business Development | Python |
+| 2026-10-19 | [Delivery Route Optimizer](projects/2026-10-19-route-optimization): Capacitated vehicle routing with Clarke-Wright savings and 2-opt | Clarke-Wright savings heuristic, 2-opt local search | Supply Chain | Python |
 <!-- INDEX:END -->
 
 ## How projects are published
