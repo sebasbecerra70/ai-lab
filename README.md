@@ -31,6 +31,7 @@ Each project is self-contained and has:
 | 2026-10-19 | [Delivery Route Optimizer](projects/2026-10-19-route-optimization): Capacitated vehicle routing with Clarke-Wright savings and 2-opt | Clarke-Wright savings heuristic, 2-opt local search | Supply Chain | Python |
 | 2026-10-20 | [LLM-as-Judge with Bias Checks](projects/2026-10-20-llm-as-judge): Pairwise and rubric LLM judging with position-swap and human agreement stats | LLM-as-judge, position-bias swap, Cohen's kappa | AI Engineering | Python |
 | 2026-10-21 | [Incident Postmortem Generator](projects/2026-10-21-incident-postmortem-generator): Merge logs and incident chat into a timeline, then draft a blameless postmortem | log parsing, event classification, grounded LLM drafting with checks | Data Center Ops | Python |
+| 2026-10-22 | [PRD Drafter](projects/2026-10-22-prd-drafter): Structured PM interview, LLM-filled PRD template and a completeness checker | structured elicitation, templated LLM generation, rule-based doc linting | Product | TypeScript |
 <!-- INDEX:END -->
 
 ## How projects are published
