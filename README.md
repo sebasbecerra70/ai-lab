@@ -32,6 +32,7 @@ Each project is self-contained and has:
 | 2026-10-20 | [LLM-as-Judge with Bias Checks](projects/2026-10-20-llm-as-judge): Pairwise and rubric LLM judging with position-swap and human agreement stats | LLM-as-judge, position-bias swap, Cohen's kappa | AI Engineering | Python |
 | 2026-10-21 | [Incident Postmortem Generator](projects/2026-10-21-incident-postmortem-generator): Merge logs and incident chat into a timeline, then draft a blameless postmortem | log parsing, event classification, grounded LLM drafting with checks | Data Center Ops | Python |
 | 2026-10-22 | [PRD Drafter](projects/2026-10-22-prd-drafter): Structured PM interview, LLM-filled PRD template and a completeness checker | structured elicitation, templated LLM generation, rule-based doc linting | Product | TypeScript |
+| 2026-10-23 | [Account Research Agent](projects/2026-10-23-account-research-agent): Tool-using agent reads company profiles and writes a cited account brief | multi-step tool-calling agent, BM25 search, citation grounding check | Business Development | Python |
 <!-- INDEX:END -->
 
 ## How projects are published
