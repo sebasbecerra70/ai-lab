@@ -34,6 +34,7 @@ Each project is self-contained and has:
 | 2026-10-22 | [PRD Drafter](projects/2026-10-22-prd-drafter): Structured PM interview, LLM-filled PRD template and a completeness checker | structured elicitation, templated LLM generation, rule-based doc linting | Product | TypeScript |
 | 2026-10-23 | [Account Research Agent](projects/2026-10-23-account-research-agent): Tool-using agent reads company profiles and writes a cited account brief | multi-step tool-calling agent, BM25 search, citation grounding check | Business Development | Python |
 | 2026-10-24 | [Inventory Reorder Agent](projects/2026-10-24-inventory-reorder-agent): Reorder points and EOQ drive PO proposals routed by approval thresholds | safety stock / ROP / EOQ, policy-gated agent with LLM memos | Supply Chain | Python |
+| 2026-10-25 | [Prompt Injection Guardrails](projects/2026-10-25-prompt-injection-guardrails): Input/output guard pipeline: injection scoring, PII redaction, tool allow-list | heuristic injection detection, PII redaction, policy-checked tool calls | AI Engineering | Python |
 <!-- INDEX:END -->
 
 ## How projects are published
