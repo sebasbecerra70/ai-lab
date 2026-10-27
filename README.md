@@ -36,6 +36,7 @@ Each project is self-contained and has:
 | 2026-10-24 | [Inventory Reorder Agent](projects/2026-10-24-inventory-reorder-agent): Reorder points and EOQ drive PO proposals routed by approval thresholds | safety stock / ROP / EOQ, policy-gated agent with LLM memos | Supply Chain | Python |
 | 2026-10-25 | [Prompt Injection Guardrails](projects/2026-10-25-prompt-injection-guardrails): Input/output guard pipeline: injection scoring, PII redaction, tool allow-list | heuristic injection detection, PII redaction, policy-checked tool calls | AI Engineering | Python |
 | 2026-10-26 | [Disk Failure Prediction](projects/2026-10-26-disk-failure-prediction): Logistic regression on SMART-like telemetry with a cost-optimal alert threshold | logistic regression, precision/recall at threshold, cost curve | Data Center Ops | Python |
+| 2026-10-27 | [Review Sentiment Insights](projects/2026-10-27-review-sentiment-insights): Lexicon sentiment and aspect extraction rank pain points; an LLM writes the brief | lexicon sentiment with negation, aspect extraction, grounded LLM summary | Product | Python |
 <!-- INDEX:END -->
 
 ## How projects are published
