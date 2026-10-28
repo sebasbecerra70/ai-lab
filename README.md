@@ -37,6 +37,7 @@ Each project is self-contained and has:
 | 2026-10-25 | [Prompt Injection Guardrails](projects/2026-10-25-prompt-injection-guardrails): Input/output guard pipeline: injection scoring, PII redaction, tool allow-list | heuristic injection detection, PII redaction, policy-checked tool calls | AI Engineering | Python |
 | 2026-10-26 | [Disk Failure Prediction](projects/2026-10-26-disk-failure-prediction): Logistic regression on SMART-like telemetry with a cost-optimal alert threshold | logistic regression, precision/recall at threshold, cost curve | Data Center Ops | Python |
 | 2026-10-27 | [Review Sentiment Insights](projects/2026-10-27-review-sentiment-insights): Lexicon sentiment and aspect extraction rank pain points; an LLM writes the brief | lexicon sentiment with negation, aspect extraction, grounded LLM summary | Product | Python |
+| 2026-10-28 | [Pricing Simulator](projects/2026-10-28-pricing-simulator): Price elasticity what-ifs, pocket-price waterfall and discount break-even | log-log elasticity regression, constant-elasticity demand, price waterfall | Business Development | TypeScript |
 <!-- INDEX:END -->
 
 ## How projects are published
