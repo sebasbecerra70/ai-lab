@@ -38,6 +38,7 @@ Each project is self-contained and has:
 | 2026-10-26 | [Disk Failure Prediction](projects/2026-10-26-disk-failure-prediction): Logistic regression on SMART-like telemetry with a cost-optimal alert threshold | logistic regression, precision/recall at threshold, cost curve | Data Center Ops | Python |
 | 2026-10-27 | [Review Sentiment Insights](projects/2026-10-27-review-sentiment-insights): Lexicon sentiment and aspect extraction rank pain points; an LLM writes the brief | lexicon sentiment with negation, aspect extraction, grounded LLM summary | Product | Python |
 | 2026-10-28 | [Pricing Simulator](projects/2026-10-28-pricing-simulator): Price elasticity what-ifs, pocket-price waterfall and discount break-even | log-log elasticity regression, constant-elasticity demand, price waterfall | Business Development | TypeScript |
+| 2026-10-29 | [Shipment Delay Risk](projects/2026-10-29-shipment-delay-risk): Boosted decision stumps that score delay risk per lane, carrier and load | AdaBoost decision stump ensemble | Supply Chain | Python |
 <!-- INDEX:END -->
 
 ## How projects are published
