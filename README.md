@@ -39,6 +39,7 @@ Each project is self-contained and has:
 | 2026-10-27 | [Review Sentiment Insights](projects/2026-10-27-review-sentiment-insights): Lexicon sentiment and aspect extraction rank pain points; an LLM writes the brief | lexicon sentiment with negation, aspect extraction, grounded LLM summary | Product | Python |
 | 2026-10-28 | [Pricing Simulator](projects/2026-10-28-pricing-simulator): Price elasticity what-ifs, pocket-price waterfall and discount break-even | log-log elasticity regression, constant-elasticity demand, price waterfall | Business Development | TypeScript |
 | 2026-10-29 | [Shipment Delay Risk](projects/2026-10-29-shipment-delay-risk): Boosted decision stumps that score delay risk per lane, carrier and load | AdaBoost decision stump ensemble | Supply Chain | Python |
+| 2026-10-30 | [Semantic Search](projects/2026-10-30-semantic-search): Hashed n-gram embeddings, an LSH vector index and BM25 hybrid retrieval | hashed embeddings, BM25, reciprocal rank fusion | AI Engineering | Python |
 <!-- INDEX:END -->
 
 ## How projects are published
