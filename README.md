@@ -41,6 +41,7 @@ Each project is self-contained and has:
 | 2026-10-29 | [Shipment Delay Risk](projects/2026-10-29-shipment-delay-risk): Boosted decision stumps that score delay risk per lane, carrier and load | AdaBoost decision stump ensemble | Supply Chain | Python |
 | 2026-10-30 | [Semantic Search](projects/2026-10-30-semantic-search): Hashed n-gram embeddings, an LSH vector index and BM25 hybrid retrieval | hashed embeddings, BM25, reciprocal rank fusion | AI Engineering | Python |
 | 2026-10-31 | [Change Risk Scorer](projects/2026-10-31-change-risk-scorer): Scores change requests on blast radius, rollback and timing for the CAB | dependency-graph failure simulation, Bayesian failure rates, risk matrix | Data Center Ops | Python |
+| 2026-11-01 | [Churn Prediction](projects/2026-11-01-churn-prediction): Cohort retention, an early-warning churn model and its top drivers | cohort analysis, logistic regression | Product | Python |
 <!-- INDEX:END -->
 
 ## How projects are published
