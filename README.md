@@ -44,6 +44,7 @@ Each project is self-contained and has:
 | 2026-11-01 | [Churn Prediction](projects/2026-11-01-churn-prediction): Cohort retention, an early-warning churn model and its top drivers | cohort analysis, logistic regression | Product | Python |
 | 2026-11-02 | [Outreach Personalization](projects/2026-11-02-outreach-personalization): LLM-drafted prospect emails gated by an eval suite with a revise loop | LLM generation, rule-based evals, critique-and-revise | Business Development | Python |
 | 2026-11-03 | [Meeting Action Items](projects/2026-11-03-meeting-action-items): Owners, due dates and decisions from meeting notes, exported as a checklist | LLM structured extraction with schema validation and regex fallback | Operations | TypeScript |
+| 2026-11-04 | [Model Router](projects/2026-11-04-model-router): Route prompts to a small or large model by predicted difficulty | logistic regression classifier, cost/quality frontier | AI Engineering | Python |
 <!-- INDEX:END -->
 
 ## How projects are published
