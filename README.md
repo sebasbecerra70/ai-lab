@@ -46,6 +46,7 @@ Each project is self-contained and has:
 | 2026-11-03 | [Meeting Action Items](projects/2026-11-03-meeting-action-items): Owners, due dates and decisions from meeting notes, exported as a checklist | LLM structured extraction with schema validation and regex fallback | Operations | TypeScript |
 | 2026-11-04 | [Model Router](projects/2026-11-04-model-router): Route prompts to a small or large model by predicted difficulty | logistic regression classifier, cost/quality frontier | AI Engineering | Python |
 | 2026-11-05 | [Energy-Aware Job Scheduler](projects/2026-11-05-energy-aware-job-scheduler): Shift batch jobs into cheap or low-carbon hours without missing deadlines | constrained greedy scheduling with capacity, cost/carbon objective | Data Center Ops | Python |
+| 2026-11-06 | [User Interview Synthesizer](projects/2026-11-06-user-interview-synthesizer): Tag interview transcripts by theme, build an affinity map, summarize insights | codebook tagging, affinity clustering, citation-checked LLM summary | Product | TypeScript |
 <!-- INDEX:END -->
 
 ## How projects are published
