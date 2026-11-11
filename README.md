@@ -51,6 +51,7 @@ Each project is self-contained and has:
 | 2026-11-08 | [Warehouse Slotting Optimizer](projects/2026-11-08-warehouse-slotting): ABC velocity analysis and slot assignment that cuts picker travel | ABC/Pareto analysis, greedy assignment, order-pick route simulation | Supply Chain | Python |
 | 2026-11-09 | [Prompt Caching Cost Model](projects/2026-11-09-prompt-caching-cost-model): Simulate LLM token spend with and without prompt caching across traffic patterns | discrete-event simulation of cache TTLs, cost modeling | AI Engineering | TypeScript |
 | 2026-11-10 | [SLA Error Budget Calculator](projects/2026-11-10-sla-error-budget): SLO error budgets, burn rates, multi-window alerts and SLA credits | SRE burn-rate math, multi-window alert replay | Data Center Ops | Python |
+| 2026-11-11 | [Product Metrics Anomaly Detection](projects/2026-11-11-metrics-anomaly-detection): Find real anomalies in seasonal product KPIs with decomposition and robust z-scores | seasonal decomposition, robust z-score (median/MAD) | Product | Python |
 <!-- INDEX:END -->
 
 ## How projects are published
