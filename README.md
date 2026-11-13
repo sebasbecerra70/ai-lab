@@ -53,6 +53,7 @@ Each project is self-contained and has:
 | 2026-11-10 | [SLA Error Budget Calculator](projects/2026-11-10-sla-error-budget): SLO error budgets, burn rates, multi-window alerts and SLA credits | SRE burn-rate math, multi-window alert replay | Data Center Ops | Python |
 | 2026-11-11 | [Product Metrics Anomaly Detection](projects/2026-11-11-metrics-anomaly-detection): Find real anomalies in seasonal product KPIs with decomposition and robust z-scores | seasonal decomposition, robust z-score (median/MAD) | Product | Python |
 | 2026-11-12 | [Contract Clause Extractor](projects/2026-11-12-contract-clause-extractor): Find, classify and risk-flag contract clauses with an LLM and a rules fallback | LLM structured extraction with validation, regex rules fallback | Business Development | Python |
+| 2026-11-13 | [Supplier Risk Scoring](projects/2026-11-13-supplier-risk-scoring): Composite supplier risk index with spend exposure and what-if scenarios | weighted composite index, piecewise scoring, scenario stress testing | Supply Chain | Python |
 <!-- INDEX:END -->
 
 ## How projects are published
