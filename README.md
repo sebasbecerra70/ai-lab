@@ -55,6 +55,7 @@ Each project is self-contained and has:
 | 2026-11-12 | [Contract Clause Extractor](projects/2026-11-12-contract-clause-extractor): Find, classify and risk-flag contract clauses with an LLM and a rules fallback | LLM structured extraction with validation, regex rules fallback | Business Development | Python |
 | 2026-11-13 | [Supplier Risk Scoring](projects/2026-11-13-supplier-risk-scoring): Composite supplier risk index with spend exposure and what-if scenarios | weighted composite index, piecewise scoring, scenario stress testing | Supply Chain | Python |
 | 2026-11-14 | [Multi-Agent Planner](projects/2026-11-14-multi-agent-planner): Planner, executor and critic agents coordinating through a shared scratchpad | multi-agent orchestration, tool calling, critic loop, deterministic mock LLM | AI Engineering | Python |
+| 2026-11-15 | [Runbook Q&A](projects/2026-11-15-runbook-qa): Step-by-step answers from data center runbooks, with citations and refusals | RAG with BM25, citation validation, safety refusal guard | Data Center Ops | Python |
 <!-- INDEX:END -->
 
 ## How projects are published
