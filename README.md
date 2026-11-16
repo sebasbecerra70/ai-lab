@@ -56,6 +56,7 @@ Each project is self-contained and has:
 | 2026-11-13 | [Supplier Risk Scoring](projects/2026-11-13-supplier-risk-scoring): Composite supplier risk index with spend exposure and what-if scenarios | weighted composite index, piecewise scoring, scenario stress testing | Supply Chain | Python |
 | 2026-11-14 | [Multi-Agent Planner](projects/2026-11-14-multi-agent-planner): Planner, executor and critic agents coordinating through a shared scratchpad | multi-agent orchestration, tool calling, critic loop, deterministic mock LLM | AI Engineering | Python |
 | 2026-11-15 | [Runbook Q&A](projects/2026-11-15-runbook-qa): Step-by-step answers from data center runbooks, with citations and refusals | RAG with BM25, citation validation, safety refusal guard | Data Center Ops | Python |
+| 2026-11-16 | [Roadmap Scheduler](projects/2026-11-16-roadmap-scheduler): Schedule a dependency graph of epics under team capacity and find the critical path | topological sort, critical path method, resource-constrained list scheduling | Product | TypeScript |
 <!-- INDEX:END -->
 
 ## How projects are published
