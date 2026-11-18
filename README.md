@@ -58,6 +58,7 @@ Each project is self-contained and has:
 | 2026-11-15 | [Runbook Q&A](projects/2026-11-15-runbook-qa): Step-by-step answers from data center runbooks, with citations and refusals | RAG with BM25, citation validation, safety refusal guard | Data Center Ops | Python |
 | 2026-11-16 | [Roadmap Scheduler](projects/2026-11-16-roadmap-scheduler): Schedule a dependency graph of epics under team capacity and find the critical path | topological sort, critical path method, resource-constrained list scheduling | Product | TypeScript |
 | 2026-11-17 | [Market Sizing Model](projects/2026-11-17-market-sizing): TAM/SAM/SOM top-down and bottom-up, reconciled, with sensitivity tables | top-down vs bottom-up sizing, tornado and two-way sensitivity analysis | Business Development | Python |
+| 2026-11-18 | [Shipping Document Classifier](projects/2026-11-18-document-classifier): Naive Bayes from scratch sorts BOLs, invoices, packing lists and customs docs | multinomial naive Bayes, k-fold cross-validation, confidence-based review queue | Supply Chain | Python |
 <!-- INDEX:END -->
 
 ## How projects are published
