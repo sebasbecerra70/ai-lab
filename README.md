@@ -60,6 +60,7 @@ Each project is self-contained and has:
 | 2026-11-17 | [Market Sizing Model](projects/2026-11-17-market-sizing): TAM/SAM/SOM top-down and bottom-up, reconciled, with sensitivity tables | top-down vs bottom-up sizing, tornado and two-way sensitivity analysis | Business Development | Python |
 | 2026-11-18 | [Shipping Document Classifier](projects/2026-11-18-document-classifier): Naive Bayes from scratch sorts BOLs, invoices, packing lists and customs docs | multinomial naive Bayes, k-fold cross-validation, confidence-based review queue | Supply Chain | Python |
 | 2026-11-19 | [Structured Output Validator](projects/2026-11-19-structured-output-validator): Validate LLM JSON against a schema, repair locally, re-ask with errors | JSON Schema validation, deterministic repair, error-guided retry loop | AI Engineering | TypeScript |
+| 2026-11-20 | [IT Ticket Routing](projects/2026-11-20-ticket-routing): TF-IDF centroid classifier routes IT tickets to queues, with a triage fallback | TF-IDF, nearest-centroid (Rocchio) classifier, confidence and margin thresholds | Operations | Python |
 <!-- INDEX:END -->
 
 ## How projects are published
