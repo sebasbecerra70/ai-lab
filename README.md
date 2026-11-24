@@ -64,6 +64,7 @@ Each project is self-contained and has:
 | 2026-11-21 | [OKR Reporter](projects/2026-11-21-okr-reporter): Score OKRs from live metrics, forecast quarter-end, draft the status update | pace-adjusted progress, linear trend forecast, grounded LLM narrative | Product | Python |
 | 2026-11-22 | [Competitive Intel Digest](projects/2026-11-22-competitive-intel-digest): Diff competitor pricing and pages, rank the changes, write a cited digest | structured pricing diff, noise-filtered text diff, severity rules, cited LLM summary | Business Development | Python |
 | 2026-11-23 | [Safety Stock Calculator](projects/2026-11-23-safety-stock-calculator): Safety stock under demand and lead-time variability, with service-level tradeoffs | normal approximation, loss function fill rate, Monte Carlo validation | Supply Chain | Python |
+| 2026-11-24 | [Text-to-SQL Analyst](projects/2026-11-24-text-to-sql): Ask questions in English over SQLite with schema grounding and a read-only guard | schema linking, LLM SQL generation, layered read-only guard, error-feedback retry | AI Engineering | Python |
 <!-- INDEX:END -->
 
 ## How projects are published
