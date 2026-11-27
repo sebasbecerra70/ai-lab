@@ -67,6 +67,7 @@ Each project is self-contained and has:
 | 2026-11-24 | [Text-to-SQL Analyst](projects/2026-11-24-text-to-sql): Ask questions in English over SQLite with schema grounding and a read-only guard | schema linking, LLM SQL generation, layered read-only guard, error-feedback retry | AI Engineering | Python |
 | 2026-11-25 | [Log Anomaly Detection](projects/2026-11-25-log-anomaly-detection): Mine log templates Drain-style and flag new, bursting or silent event types | Drain parse-tree template mining, Poisson/robust z-score frequency anomalies | Data Center Ops | Python |
 | 2026-11-26 | [Release Notes Generator](projects/2026-11-26-release-notes-generator): Group conventional commits into user-facing release notes with an LLM polish | conventional-commit parsing, semver inference, guarded LLM rewrite | Product | TypeScript |
+| 2026-11-27 | [Sales Call Summarizer](projects/2026-11-27-sales-call-summarizer): Extracts MEDDIC from sales calls with verified quotes and scores deal health | LLM structured extraction with evidence verification, weighted health scoring | Business Development | Python |
 <!-- INDEX:END -->
 
 ## How projects are published
